@@ -116,7 +116,7 @@ export const compare = (addressObject) => {
 
     //first condition compare all district from querry
     const pickDistrictList = []
-    objCmpDistricts.forEach(objCmpDistrict => {
+    objCmpDistricts.forEach((objCmpDistrict, index) => {
         //parser objCmpDistrict
         const { idDistrict, cmpDistrict } = {
             id: objCmpDistrict.idDistrict,
@@ -127,6 +127,10 @@ export const compare = (addressObject) => {
         const editDistanceDistrict = getEditDistance(district, cmpDistrict)
 
         //condition check search [input district] VS [compare district] | pass by matching OR minimum edit distance < thershold
+        if(editDistanceDistrict <= selectThersholdByWord(districtThershold.default, district)) {
+            
+        }
+
         if(editDistanceDistrict == 0) {
             //matching 100%
             pickDistrictList.push({idDistrict, cmpDistrict, exactly: true, distance: editDistanceDistrict})
@@ -137,7 +141,9 @@ export const compare = (addressObject) => {
         }
     });
 
-    if(pickDistrictList.find(element => element.exactly === true))
+    if(pickDistrictList.find(element => element.exactly === true)) {
+
+    }
     
 }
 
