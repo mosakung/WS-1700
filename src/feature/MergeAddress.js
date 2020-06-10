@@ -1,3 +1,4 @@
+import  {checkLanguage} from "./checkLanguage"
 const addressObject = {
     country: "Thailand",
     province: "สมุทรปราการ",
@@ -5,7 +6,6 @@ const addressObject = {
     subDistrict: "แขวง",
     zipCode: "10270",
 }
-
 export const getEditDistance = (word, compareWord) => {
     if (word.length == 0) return compareWord.length;
     if (compareWord.length == 0) return word.length;
