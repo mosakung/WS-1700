@@ -1,5 +1,6 @@
 import { getEditDistance, cleanSpecificWordThai } from './feature/MergeAddress'
-import compare from './feature/compare'
+import compare from './feature/factorise/compare'
+import map from './feature/config/compareMap'
 
 //console.log(getEditDistance("บางนา","บางจจ"))
 //console.log(getEditDistance("บางแค","บางจจ"))
@@ -19,5 +20,9 @@ import compare from './feature/compare'
 // console.log()
 
 const database = [{test: "อะไรก็ไม่รู้"},{test: "อะไรก็"}]
-const prevArrays = [{ds:"sdfd"},{ds:"test"}]
-const test = compare(prevArrays,'','test','TH',database,'')
+const prevArrays = [ { id: 1 } ]
+const test = compare(prevArrays,'','test','TH',database,map)
+
+
+console.log(test)
+//console.log(map.state.find(x => x.status === false))
