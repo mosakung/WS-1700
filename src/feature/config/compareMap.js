@@ -19,14 +19,14 @@ const compareMap = {
                     state: [
                         {
                             status: false,
-                            tableName: "setAll",
+                            tableName: "mark",
                             state: [
 
                             ]
                         },
                         {
                             status: true,
-                            tableName: "mark",
+                            tableName: "setAll",
                             state: [
 
                             ]
