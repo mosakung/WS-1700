@@ -127,7 +127,9 @@ export const compare = (addressObject) => {
         const editDistanceDistrict = getEditDistance(district, cmpDistrict)
 
         //condition check search [input district] VS [compare district] | pass by matching OR minimum edit distance < thershold
-
+        if(editDistanceDistrict <= selectThersholdByWord(districtThershold.default, district)) {
+            
+        }
 
         if(editDistanceDistrict == 0) {
             //matching 100%
@@ -140,7 +142,7 @@ export const compare = (addressObject) => {
     });
 
     if(pickDistrictList.find(element => element.exactly === true)) {
-        
+
     }
     
 }
