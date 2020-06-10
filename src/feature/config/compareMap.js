@@ -52,7 +52,7 @@ const compareMap = {
                         },
                         {
                             status: true,
-                            tableName: "zip",
+                            tableName: "zipCode",
                             state: [
                                 {
                                     status: false,
