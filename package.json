@@ -1,0 +1,29 @@
+{
+  "name": "ws-1700",
+  "version": "1.0.0",
+  "description": "WS-1700",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosakung/WS-1700.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosakung/WS-1700/issues"
+  },
+  "homepage": "https://github.com/mosakung/WS-1700#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/node": "^7.10.1",
+    "@babel/preset-env": "^7.10.2"
+  }
+}
