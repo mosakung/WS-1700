@@ -2,7 +2,7 @@ import { checkLanguage } from "./checkLanguage"
 import { selectThersholdByWord } from "./factorise/selectThersholdByWord"
 import { cleanSpecificWord } from "./factorise/cleanSpecificWord"
 import mapStage from "./config/compareMap"
-import compare from "./compare"
+import compare from "./factorise/compare"
 export const MergeObject = (inputObject) => {
     //parser addressObject
     const { country, province, district, subDistrict, zipCode } = inputObject
@@ -23,18 +23,21 @@ export const MergeObject = (inputObject) => {
             selectedID = selectArray.id
         }
     }
+    if (mapStage.tableName == "mark") {
+        //Call mark
+    }
+    else if (mapStage.tableName == "setAll") {
+        //Call set ALL (selectedID)
+    }
 
 
-}
+    const addressObject = {
+        country: "Thailand",
+        province: "สมุทรปราการ",
+        district: "เขตเมืองสมุทรปราการ",
+        subDistrict: "แขวง",
+        zipCode: "10270",
+    }
 
-
-const addressObject = {
-    country: "Thailand",
-    province: "สมุทรปราการ",
-    district: "เขตเมืองสมุทรปราการ",
-    subDistrict: "แขวง",
-    zipCode: "10270",
-}
-
-MergeObject(addressObject)
-export default {}
+    MergeObject(addressObject)
+    export default {}
