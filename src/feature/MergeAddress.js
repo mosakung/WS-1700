@@ -1,7 +1,8 @@
 import { checkLanguage } from "./checkLanguage"
 import { selectThersholdByWord } from "./factorise/selectThersholdByWord"
 import { cleanSpecificWord } from "./factorise/cleanSpecificWord"
-
+import mapStage from "./config/compareMap"
+import compare from "./compare"
 export const MergeObject = (inputObject) => {
     //parser addressObject
     const { country, province, district, subDistrict, zipCode } = inputObject
@@ -15,12 +16,13 @@ export const MergeObject = (inputObject) => {
     }
     let selectArray = []
     let state = 0
-    while (state != "Mark" && state != "setData") {
-        //  const threshold = selectThersholdByWord(addressObject[map.tableName], language = "default")
-        //           const selectArray,map = compare(selectArray,threshold,inputObject[map.tableName],language,inputObject[map.tableName],map)
+    while (mapStage.tableName != "mark" && state != "setAll") {
+        const threshold = selectThersholdByWord(addressObject[mapStage.tableName], language = "default")
+        { selectArray, mapStage } = compare(selectArray, threshold, inputObject[mapStage.tableName], language, inputObject[mapStage.tableName], mapStage)
+        if (mapStage.tableName == "zipCode") {
+            selectedID = selectArray.id
+        }
     }
-
-    //function select thershold
 
 
 }
