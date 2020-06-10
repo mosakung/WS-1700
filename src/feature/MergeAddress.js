@@ -6,37 +6,6 @@ const addressObject = {
     zipCode: "10270",
 }
 
-export const cleanSpecificWordThai = (inputWord) => {
-    const specificWordTonesList = [
-        "่", "้", "๊", "๋"
-    ]
-
-    specificWordTonesList.forEach(specificWord => {
-        const swapString = (str, firstIndex, secIndex) => {
-            return str.substr(0, firstIndex)
-                + str[secIndex]
-                + str.substring(firstIndex + 1, secIndex)
-                + str[firstIndex]
-                + str.substr(secIndex + 1);
-        }
-
-        for (let i = 0; i < inputWord.length - 1; i++) {
-            if (inputWord[i].localeCompare("ำ") == 0 && inputWord[i + 1].localeCompare(specificWord) == 0) {
-                inputWord = swapString(inputWord, i, i + 1)
-            }
-        }
-    })
-
-    
-
-    return inputWord
-}
-
-export const requestCompareDistrict = () => {
-    //querry database
-    //return db object District
-}
-
 export const compare = (addressObject) => {
     //parser addressObject
     const { country, province, district, subDistrict, zipCode } = {
@@ -70,8 +39,8 @@ export const compare = (addressObject) => {
     }
 
     //function select thershold
-    const selectThersholdByWord = (infoThersholdConfig, word) => {
-        return infoThersholdConfig.find(x => x.lessthanequalLength >= word.length).thershold
+    const selectThersholdByWord = (word, language = "default") => {
+        return districtThershold.language.find(x => x.lessthanequalLength >= word.length).thershold
     }
 
     //querry all district
@@ -92,17 +61,17 @@ export const compare = (addressObject) => {
         const editDistanceDistrict = getEditDistance(district, cmpDistrict)
 
         //condition check search [input district] VS [compare district] | pass by matching OR minimum edit distance < thershold
-        if(editDistanceDistrict == 0) {
+        if (editDistanceDistrict == 0) {
             //matching 100 %
 
         } else if (editDistanceDistrict <= selectThersholdByWord(districtThershold.default, district) && editDistanceDistrict < minimumOfEditDistance) {
             //matching more than thershold & lower distance
             pickDistrictList = [] // clear array
             minimumOfEditDistance = editDistanceDistrict
-            pickDistrictList.push({idDistrict, cmpDistrict, distance: editDistanceDistrict, index})
+            pickDistrictList.push({ idDistrict, cmpDistrict, distance: editDistanceDistrict, index })
         } else if (editDistanceDistrict <= selectThersholdByWord(districtThershold.default, district) && editDistanceDistrict == minimumOfEditDistance) {
             //matching more than thershold & equal distance
-            pickDistrictList.push({idDistrict, cmpDistrict, distance: editDistanceDistrict, index})
+            pickDistrictList.push({ idDistrict, cmpDistrict, distance: editDistanceDistrict, index })
         }
 
         if (editDistanceDistrict == 0) {
