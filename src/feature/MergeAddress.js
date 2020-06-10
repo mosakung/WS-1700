@@ -6,45 +6,6 @@ const addressObject = {
     zipCode: "10270",
 }
 
-export const getEditDistance = (word, compareWord) => {
-    if (word.length == 0) return compareWord.length;
-    if (compareWord.length == 0) return word.length;
-
-    var matrix = [];
-
-    //config
-    var substitutionConfig = 1;
-    var insertionConfig = 1;
-    var deletionConfig = 1;
-
-    // increment along the first column of each row
-    var i;
-    for (i = 0; i <= compareWord.length; i++) {
-        matrix[i] = [i];
-    }
-
-    // increment each column in the first row
-    var j;
-    for (j = 0; j <= word.length; j++) {
-        matrix[0][j] = j;
-    }
-
-    // Fill in the rest of the matrix
-    for (i = 1; i <= compareWord.length; i++) {
-        for (j = 1; j <= word.length; j++) {
-            if (compareWord.charAt(i - 1) == word.charAt(j - 1)) {
-                matrix[i][j] = matrix[i - 1][j - 1];
-            } else {
-                matrix[i][j] = Math.min(matrix[i - 1][j - 1] + substitutionConfig, // substitution
-                    Math.min(matrix[i][j - 1] + insertionConfig, // insertion
-                        matrix[i - 1][j] + deletionConfig)); // deletion
-            }
-        }
-    }
-
-    return matrix[compareWord.length][word.length];
-}
-
 export const cleanSpecificWordThai = (inputWord) => {
     const specificWordTonesList = [
         "่", "้", "๊", "๋"
@@ -65,6 +26,8 @@ export const cleanSpecificWordThai = (inputWord) => {
             }
         }
     })
+
+    
 
     return inputWord
 }
@@ -90,24 +53,24 @@ export const compare = (addressObject) => {
             { lessthanequalLength: 2, thershold: 2 },
             { lessthanequalLength: 4, thershold: 3 },
             { lessthanequalLength: 7, thershold: 5 },
-            { lessthanequalLength: Number.POSITIVE_INFINITY, thershold: 10},
+            { lessthanequalLength: Number.POSITIVE_INFINITY, thershold: 10 },
         ],
-        english: [ 
+        english: [
             { lessthanequalLength: 2, thershold: 2 },
             { lessthanequalLength: 4, thershold: 3 },
             { lessthanequalLength: 7, thershold: 5 },
-            { lessthanequalLength: Number.POSITIVE_INFINITY, thershold: 10},
+            { lessthanequalLength: Number.POSITIVE_INFINITY, thershold: 10 },
         ],
         thai: [
             { lessthanequalLength: 2, thershold: 2 },
             { lessthanequalLength: 4, thershold: 3 },
             { lessthanequalLength: 7, thershold: 5 },
-            { lessthanequalLength: Number.POSITIVE_INFINITY, thershold: 10},
+            { lessthanequalLength: Number.POSITIVE_INFINITY, thershold: 10 },
         ],
     }
 
     //function select thershold
-    const selectThersholdByWord = (infoThersholdConfig ,word) => {
+    const selectThersholdByWord = (infoThersholdConfig, word) => {
         return infoThersholdConfig.find(x => x.lessthanequalLength >= word.length).thershold
     }
 
@@ -116,7 +79,9 @@ export const compare = (addressObject) => {
 
     //first condition compare all district from querry
     const pickDistrictList = []
-    objCmpDistricts.forEach(objCmpDistrict => {
+    let minimumOfEditDistance = getEditDistance(district, objCmpDistricts[0])
+
+    objCmpDistricts.forEach((objCmpDistrict, index) => {
         //parser objCmpDistrict
         const { idDistrict, cmpDistrict } = {
             id: objCmpDistrict.idDistrict,
@@ -128,17 +93,32 @@ export const compare = (addressObject) => {
 
         //condition check search [input district] VS [compare district] | pass by matching OR minimum edit distance < thershold
         if(editDistanceDistrict == 0) {
+            //matching 100 %
+
+        } else if (editDistanceDistrict <= selectThersholdByWord(districtThershold.default, district) && editDistanceDistrict < minimumOfEditDistance) {
+            //matching more than thershold & lower distance
+            pickDistrictList = [] // clear array
+            minimumOfEditDistance = editDistanceDistrict
+            pickDistrictList.push({idDistrict, cmpDistrict, distance: editDistanceDistrict, index})
+        } else if (editDistanceDistrict <= selectThersholdByWord(districtThershold.default, district) && editDistanceDistrict == minimumOfEditDistance) {
+            //matching more than thershold & equal distance
+            pickDistrictList.push({idDistrict, cmpDistrict, distance: editDistanceDistrict, index})
+        }
+
+        if (editDistanceDistrict == 0) {
             //matching 100%
-            pickDistrictList.push({idDistrict, cmpDistrict, exactly: true, distance: editDistanceDistrict})
+            pickDistrictList.push({ idDistrict, cmpDistrict, exactly: true, distance: editDistanceDistrict })
         }
         else if (editDistanceDistrict <= selectThersholdByWord(districtThershold.default, district)) {
             //matching more than thershold
-            pickDistrictList.push({idDistrict, cmpDistrict, exactly: false, distance: editDistanceDistrict})
+            pickDistrictList.push({ idDistrict, cmpDistrict, exactly: false, distance: editDistanceDistrict })
         }
     });
 
-    if(pickDistrictList.find(element => element.exactly === true))
-    
+    if (pickDistrictList.find(element => element.exactly === true)) {
+
+    }
+
 }
 
 export default {}
