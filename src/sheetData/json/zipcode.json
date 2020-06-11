@@ -1,0 +1,4422 @@
+[
+    {
+      "zipcode_id": 10200,
+      "zipcode": 10200
+    },
+    {
+      "zipcode_id": 10300,
+      "zipcode": 10300
+    },
+    {
+      "zipcode_id": 10303,
+      "zipcode": 10303
+    },
+    {
+      "zipcode_id": 10530,
+      "zipcode": 10530
+    },
+    {
+      "zipcode_id": 10500,
+      "zipcode": 10500
+    },
+    {
+      "zipcode_id": 10220,
+      "zipcode": 10220
+    },
+    {
+      "zipcode_id": 10230,
+      "zipcode": 10230
+    },
+    {
+      "zipcode_id": 10240,
+      "zipcode": 10240
+    },
+    {
+      "zipcode_id": 10240,
+      "zipcode": 10240
+    },
+    {
+      "zipcode_id": 10250,
+      "zipcode": 10250
+    },
+    {
+      "zipcode_id": 10330,
+      "zipcode": 10330
+    },
+    {
+      "zipcode_id": 10110,
+      "zipcode": 10110
+    },
+    {
+      "zipcode_id": 10120,
+      "zipcode": 10120
+    },
+    {
+      "zipcode_id": 10330,
+      "zipcode": 10330
+    },
+    {
+      "zipcode_id": 10400,
+      "zipcode": 10400
+    },
+    {
+      "zipcode_id": 10500,
+      "zipcode": 10500
+    },
+    {
+      "zipcode_id": 10100,
+      "zipcode": 10100
+    },
+    {
+      "zipcode_id": 10260,
+      "zipcode": 10260
+    },
+    {
+      "zipcode_id": 10510,
+      "zipcode": 10510
+    },
+    {
+      "zipcode_id": 10520,
+      "zipcode": 10520
+    },
+    {
+      "zipcode_id": 10120,
+      "zipcode": 10120
+    },
+    {
+      "zipcode_id": 10400,
+      "zipcode": 10400
+    },
+    {
+      "zipcode_id": 10600,
+      "zipcode": 10600
+    },
+    {
+      "zipcode_id": 10310,
+      "zipcode": 10310
+    },
+    {
+      "zipcode_id": 10170,
+      "zipcode": 10170
+    },
+    {
+      "zipcode_id": 10700,
+      "zipcode": 10700
+    },
+    {
+      "zipcode_id": 10150,
+      "zipcode": 10150
+    },
+    {
+      "zipcode_id": 10160,
+      "zipcode": 10160
+    },
+    {
+      "zipcode_id": 10140,
+      "zipcode": 10140
+    },
+    {
+      "zipcode_id": 10230,
+      "zipcode": 10230
+    },
+    {
+      "zipcode_id": 10800,
+      "zipcode": 10800
+    },
+    {
+      "zipcode_id": 10900,
+      "zipcode": 10900
+    },
+    {
+      "zipcode_id": 10250,
+      "zipcode": 10250
+    },
+    {
+      "zipcode_id": 10110,
+      "zipcode": 10110
+    },
+    {
+      "zipcode_id": 10260,
+      "zipcode": 10260
+    },
+    {
+      "zipcode_id": 10210,
+      "zipcode": 10210
+    },
+    {
+      "zipcode_id": 10270,
+      "zipcode": 10270
+    },
+    {
+      "zipcode_id": 10280,
+      "zipcode": 10280
+    },
+    {
+      "zipcode_id": 10560,
+      "zipcode": 10560
+    },
+    {
+      "zipcode_id": 10550,
+      "zipcode": 10550
+    },
+    {
+      "zipcode_id": 10540,
+      "zipcode": 10540
+    },
+    {
+      "zipcode_id": 10130,
+      "zipcode": 10130
+    },
+    {
+      "zipcode_id": 10290,
+      "zipcode": 10290
+    },
+    {
+      "zipcode_id": 10570,
+      "zipcode": 10570
+    },
+    {
+      "zipcode_id": 11000,
+      "zipcode": 11000
+    },
+    {
+      "zipcode_id": 11130,
+      "zipcode": 11130
+    },
+    {
+      "zipcode_id": 11140,
+      "zipcode": 11140
+    },
+    {
+      "zipcode_id": 11110,
+      "zipcode": 11110
+    },
+    {
+      "zipcode_id": 11150,
+      "zipcode": 11150
+    },
+    {
+      "zipcode_id": 11120,
+      "zipcode": 11120
+    },
+    {
+      "zipcode_id": 12000,
+      "zipcode": 12000
+    },
+    {
+      "zipcode_id": 12120,
+      "zipcode": 12120
+    },
+    {
+      "zipcode_id": 12121,
+      "zipcode": 12121
+    },
+    {
+      "zipcode_id": 13180,
+      "zipcode": 13180
+    },
+    {
+      "zipcode_id": 12120,
+      "zipcode": 12120
+    },
+    {
+      "zipcode_id": 12110,
+      "zipcode": 12110
+    },
+    {
+      "zipcode_id": 12130,
+      "zipcode": 12130
+    },
+    {
+      "zipcode_id": 12110,
+      "zipcode": 12110
+    },
+    {
+      "zipcode_id": 12170,
+      "zipcode": 12170
+    },
+    {
+      "zipcode_id": 12140,
+      "zipcode": 12140
+    },
+    {
+      "zipcode_id": 12150,
+      "zipcode": 12150
+    },
+    {
+      "zipcode_id": 12160,
+      "zipcode": 12160
+    },
+    {
+      "zipcode_id": 13000,
+      "zipcode": 13000
+    },
+    {
+      "zipcode_id": 13130,
+      "zipcode": 13130
+    },
+    {
+      "zipcode_id": 13130,
+      "zipcode": 13130
+    },
+    {
+      "zipcode_id": 18270,
+      "zipcode": 18270
+    },
+    {
+      "zipcode_id": 13260,
+      "zipcode": 13260
+    },
+    {
+      "zipcode_id": 13190,
+      "zipcode": 13190
+    },
+    {
+      "zipcode_id": 13290,
+      "zipcode": 13290
+    },
+    {
+      "zipcode_id": 13250,
+      "zipcode": 13250
+    },
+    {
+      "zipcode_id": 13160,
+      "zipcode": 13160
+    },
+    {
+      "zipcode_id": 13180,
+      "zipcode": 13180
+    },
+    {
+      "zipcode_id": 13170,
+      "zipcode": 13170
+    },
+    {
+      "zipcode_id": 13220,
+      "zipcode": 13220
+    },
+    {
+      "zipcode_id": 13120,
+      "zipcode": 13120
+    },
+    {
+      "zipcode_id": 13280,
+      "zipcode": 13280
+    },
+    {
+      "zipcode_id": 13140,
+      "zipcode": 13140
+    },
+    {
+      "zipcode_id": 13140,
+      "zipcode": 13140
+    },
+    {
+      "zipcode_id": 18250,
+      "zipcode": 18250
+    },
+    {
+      "zipcode_id": 13230,
+      "zipcode": 13230
+    },
+    {
+      "zipcode_id": 13170,
+      "zipcode": 13170
+    },
+    {
+      "zipcode_id": 13110,
+      "zipcode": 13110
+    },
+    {
+      "zipcode_id": 13270,
+      "zipcode": 13270
+    },
+    {
+      "zipcode_id": 13210,
+      "zipcode": 13210
+    },
+    {
+      "zipcode_id": 13000,
+      "zipcode": 13000
+    },
+    {
+      "zipcode_id": 13210,
+      "zipcode": 13210
+    },
+    {
+      "zipcode_id": 13150,
+      "zipcode": 13150
+    },
+    {
+      "zipcode_id": 13240,
+      "zipcode": 13240
+    },
+    {
+      "zipcode_id": 14000,
+      "zipcode": 14000
+    },
+    {
+      "zipcode_id": 14140,
+      "zipcode": 14140
+    },
+    {
+      "zipcode_id": 14130,
+      "zipcode": 14130
+    },
+    {
+      "zipcode_id": 14120,
+      "zipcode": 14120
+    },
+    {
+      "zipcode_id": 14150,
+      "zipcode": 14150
+    },
+    {
+      "zipcode_id": 14110,
+      "zipcode": 14110
+    },
+    {
+      "zipcode_id": 14160,
+      "zipcode": 14160
+    },
+    {
+      "zipcode_id": 15000,
+      "zipcode": 15000
+    },
+    {
+      "zipcode_id": 15160,
+      "zipcode": 15160
+    },
+    {
+      "zipcode_id": 15210,
+      "zipcode": 15210
+    },
+    {
+      "zipcode_id": 15000,
+      "zipcode": 15000
+    },
+    {
+      "zipcode_id": 15160,
+      "zipcode": 15160
+    },
+    {
+      "zipcode_id": 15140,
+      "zipcode": 15140
+    },
+    {
+      "zipcode_id": 15220,
+      "zipcode": 15220
+    },
+    {
+      "zipcode_id": 18220,
+      "zipcode": 18220
+    },
+    {
+      "zipcode_id": 15120,
+      "zipcode": 15120
+    },
+    {
+      "zipcode_id": 15130,
+      "zipcode": 15130
+    },
+    {
+      "zipcode_id": 15230,
+      "zipcode": 15230
+    },
+    {
+      "zipcode_id": 15190,
+      "zipcode": 15190
+    },
+    {
+      "zipcode_id": 15150,
+      "zipcode": 15150
+    },
+    {
+      "zipcode_id": 15180,
+      "zipcode": 15180
+    },
+    {
+      "zipcode_id": 15110,
+      "zipcode": 15110
+    },
+    {
+      "zipcode_id": 15110,
+      "zipcode": 15110
+    },
+    {
+      "zipcode_id": 15180,
+      "zipcode": 15180
+    },
+    {
+      "zipcode_id": 15240,
+      "zipcode": 15240
+    },
+    {
+      "zipcode_id": 15240,
+      "zipcode": 15240
+    },
+    {
+      "zipcode_id": 15250,
+      "zipcode": 15250
+    },
+    {
+      "zipcode_id": 15250,
+      "zipcode": 15250
+    },
+    {
+      "zipcode_id": 15170,
+      "zipcode": 15170
+    },
+    {
+      "zipcode_id": 16000,
+      "zipcode": 16000
+    },
+    {
+      "zipcode_id": 16130,
+      "zipcode": 16130
+    },
+    {
+      "zipcode_id": 16150,
+      "zipcode": 16150
+    },
+    {
+      "zipcode_id": 16120,
+      "zipcode": 16120
+    },
+    {
+      "zipcode_id": 16160,
+      "zipcode": 16160
+    },
+    {
+      "zipcode_id": 16140,
+      "zipcode": 16140
+    },
+    {
+      "zipcode_id": 16110,
+      "zipcode": 16110
+    },
+    {
+      "zipcode_id": 17000,
+      "zipcode": 17000
+    },
+    {
+      "zipcode_id": 17000,
+      "zipcode": 17000
+    },
+    {
+      "zipcode_id": 17120,
+      "zipcode": 17120
+    },
+    {
+      "zipcode_id": 17110,
+      "zipcode": 17110
+    },
+    {
+      "zipcode_id": 17110,
+      "zipcode": 17110
+    },
+    {
+      "zipcode_id": 17170,
+      "zipcode": 17170
+    },
+    {
+      "zipcode_id": 17170,
+      "zipcode": 17170
+    },
+    {
+      "zipcode_id": 17120,
+      "zipcode": 17120
+    },
+    {
+      "zipcode_id": 17150,
+      "zipcode": 17150
+    },
+    {
+      "zipcode_id": 17140,
+      "zipcode": 17140
+    },
+    {
+      "zipcode_id": 17130,
+      "zipcode": 17130
+    },
+    {
+      "zipcode_id": 17160,
+      "zipcode": 17160
+    },
+    {
+      "zipcode_id": 18000,
+      "zipcode": 18000
+    },
+    {
+      "zipcode_id": 18110,
+      "zipcode": 18110
+    },
+    {
+      "zipcode_id": 18260,
+      "zipcode": 18260
+    },
+    {
+      "zipcode_id": 18140,
+      "zipcode": 18140
+    },
+    {
+      "zipcode_id": 18250,
+      "zipcode": 18250
+    },
+    {
+      "zipcode_id": 18230,
+      "zipcode": 18230
+    },
+    {
+      "zipcode_id": 18140,
+      "zipcode": 18140
+    },
+    {
+      "zipcode_id": 18230,
+      "zipcode": 18230
+    },
+    {
+      "zipcode_id": 18150,
+      "zipcode": 18150
+    },
+    {
+      "zipcode_id": 18170,
+      "zipcode": 18170
+    },
+    {
+      "zipcode_id": 18130,
+      "zipcode": 18130
+    },
+    {
+      "zipcode_id": 18130,
+      "zipcode": 18130
+    },
+    {
+      "zipcode_id": 18210,
+      "zipcode": 18210
+    },
+    {
+      "zipcode_id": 18270,
+      "zipcode": 18270
+    },
+    {
+      "zipcode_id": 18210,
+      "zipcode": 18210
+    },
+    {
+      "zipcode_id": 18190,
+      "zipcode": 18190
+    },
+    {
+      "zipcode_id": 18120,
+      "zipcode": 18120
+    },
+    {
+      "zipcode_id": 18160,
+      "zipcode": 18160
+    },
+    {
+      "zipcode_id": 18180,
+      "zipcode": 18180
+    },
+    {
+      "zipcode_id": 30130,
+      "zipcode": 30130
+    },
+    {
+      "zipcode_id": 18240,
+      "zipcode": 18240
+    },
+    {
+      "zipcode_id": 18000,
+      "zipcode": 18000
+    },
+    {
+      "zipcode_id": 18240,
+      "zipcode": 18240
+    },
+    {
+      "zipcode_id": 20000,
+      "zipcode": 20000
+    },
+    {
+      "zipcode_id": 20130,
+      "zipcode": 20130
+    },
+    {
+      "zipcode_id": 20131,
+      "zipcode": 20131
+    },
+    {
+      "zipcode_id": 20130,
+      "zipcode": 20130
+    },
+    {
+      "zipcode_id": 20000,
+      "zipcode": 20000
+    },
+    {
+      "zipcode_id": 20170,
+      "zipcode": 20170
+    },
+    {
+      "zipcode_id": 20220,
+      "zipcode": 20220
+    },
+    {
+      "zipcode_id": 20190,
+      "zipcode": 20190
+    },
+    {
+      "zipcode_id": 20150,
+      "zipcode": 20150
+    },
+    {
+      "zipcode_id": 20160,
+      "zipcode": 20160
+    },
+    {
+      "zipcode_id": 20160,
+      "zipcode": 20160
+    },
+    {
+      "zipcode_id": 20140,
+      "zipcode": 20140
+    },
+    {
+      "zipcode_id": 20140,
+      "zipcode": 20140
+    },
+    {
+      "zipcode_id": 20240,
+      "zipcode": 20240
+    },
+    {
+      "zipcode_id": 20110,
+      "zipcode": 20110
+    },
+    {
+      "zipcode_id": 20230,
+      "zipcode": 20230
+    },
+    {
+      "zipcode_id": 20110,
+      "zipcode": 20110
+    },
+    {
+      "zipcode_id": 20230,
+      "zipcode": 20230
+    },
+    {
+      "zipcode_id": 20120,
+      "zipcode": 20120
+    },
+    {
+      "zipcode_id": 20180,
+      "zipcode": 20180
+    },
+    {
+      "zipcode_id": 20182,
+      "zipcode": 20182
+    },
+    {
+      "zipcode_id": 20250,
+      "zipcode": 20250
+    },
+    {
+      "zipcode_id": 20180,
+      "zipcode": 20180
+    },
+    {
+      "zipcode_id": 20250,
+      "zipcode": 20250
+    },
+    {
+      "zipcode_id": 20251,
+      "zipcode": 20251
+    },
+    {
+      "zipcode_id": 20270,
+      "zipcode": 20270
+    },
+    {
+      "zipcode_id": 20240,
+      "zipcode": 20240
+    },
+    {
+      "zipcode_id": 21000,
+      "zipcode": 21000
+    },
+    {
+      "zipcode_id": 21160,
+      "zipcode": 21160
+    },
+    {
+      "zipcode_id": 21000,
+      "zipcode": 21000
+    },
+    {
+      "zipcode_id": 21150,
+      "zipcode": 21150
+    },
+    {
+      "zipcode_id": 21100,
+      "zipcode": 21100
+    },
+    {
+      "zipcode_id": 21150,
+      "zipcode": 21150
+    },
+    {
+      "zipcode_id": 21130,
+      "zipcode": 21130
+    },
+    {
+      "zipcode_id": 21110,
+      "zipcode": 21110
+    },
+    {
+      "zipcode_id": 21190,
+      "zipcode": 21190
+    },
+    {
+      "zipcode_id": 22160,
+      "zipcode": 22160
+    },
+    {
+      "zipcode_id": 21170,
+      "zipcode": 21170
+    },
+    {
+      "zipcode_id": 21210,
+      "zipcode": 21210
+    },
+    {
+      "zipcode_id": 21120,
+      "zipcode": 21120
+    },
+    {
+      "zipcode_id": 21140,
+      "zipcode": 21140
+    },
+    {
+      "zipcode_id": 21180,
+      "zipcode": 21180
+    },
+    {
+      "zipcode_id": 22000,
+      "zipcode": 22000
+    },
+    {
+      "zipcode_id": 22110,
+      "zipcode": 22110
+    },
+    {
+      "zipcode_id": 22150,
+      "zipcode": 22150
+    },
+    {
+      "zipcode_id": 22120,
+      "zipcode": 22120
+    },
+    {
+      "zipcode_id": 22170,
+      "zipcode": 22170
+    },
+    {
+      "zipcode_id": 22140,
+      "zipcode": 22140
+    },
+    {
+      "zipcode_id": 22130,
+      "zipcode": 22130
+    },
+    {
+      "zipcode_id": 22190,
+      "zipcode": 22190
+    },
+    {
+      "zipcode_id": 22180,
+      "zipcode": 22180
+    },
+    {
+      "zipcode_id": 22210,
+      "zipcode": 22210
+    },
+    {
+      "zipcode_id": 23000,
+      "zipcode": 23000
+    },
+    {
+      "zipcode_id": 23110,
+      "zipcode": 23110
+    },
+    {
+      "zipcode_id": 23130,
+      "zipcode": 23130
+    },
+    {
+      "zipcode_id": 23150,
+      "zipcode": 23150
+    },
+    {
+      "zipcode_id": 23140,
+      "zipcode": 23140
+    },
+    {
+      "zipcode_id": 23120,
+      "zipcode": 23120
+    },
+    {
+      "zipcode_id": 23170,
+      "zipcode": 23170
+    },
+    {
+      "zipcode_id": 24000,
+      "zipcode": 24000
+    },
+    {
+      "zipcode_id": 24110,
+      "zipcode": 24110
+    },
+    {
+      "zipcode_id": 24150,
+      "zipcode": 24150
+    },
+    {
+      "zipcode_id": 24170,
+      "zipcode": 24170
+    },
+    {
+      "zipcode_id": 24130,
+      "zipcode": 24130
+    },
+    {
+      "zipcode_id": 24180,
+      "zipcode": 24180
+    },
+    {
+      "zipcode_id": 24140,
+      "zipcode": 24140
+    },
+    {
+      "zipcode_id": 24120,
+      "zipcode": 24120
+    },
+    {
+      "zipcode_id": 24160,
+      "zipcode": 24160
+    },
+    {
+      "zipcode_id": 24190,
+      "zipcode": 24190
+    },
+    {
+      "zipcode_id": 25000,
+      "zipcode": 25000
+    },
+    {
+      "zipcode_id": 25230,
+      "zipcode": 25230
+    },
+    {
+      "zipcode_id": 25110,
+      "zipcode": 25110
+    },
+    {
+      "zipcode_id": 25240,
+      "zipcode": 25240
+    },
+    {
+      "zipcode_id": 25220,
+      "zipcode": 25220
+    },
+    {
+      "zipcode_id": 25150,
+      "zipcode": 25150
+    },
+    {
+      "zipcode_id": 25130,
+      "zipcode": 25130
+    },
+    {
+      "zipcode_id": 25140,
+      "zipcode": 25140
+    },
+    {
+      "zipcode_id": 25190,
+      "zipcode": 25190
+    },
+    {
+      "zipcode_id": 26000,
+      "zipcode": 26000
+    },
+    {
+      "zipcode_id": 26000,
+      "zipcode": 26000
+    },
+    {
+      "zipcode_id": 26001,
+      "zipcode": 26001
+    },
+    {
+      "zipcode_id": 26130,
+      "zipcode": 26130
+    },
+    {
+      "zipcode_id": 26110,
+      "zipcode": 26110
+    },
+    {
+      "zipcode_id": 26120,
+      "zipcode": 26120
+    },
+    {
+      "zipcode_id": 27000,
+      "zipcode": 27000
+    },
+    {
+      "zipcode_id": 27260,
+      "zipcode": 27260
+    },
+    {
+      "zipcode_id": 27180,
+      "zipcode": 27180
+    },
+    {
+      "zipcode_id": 27210,
+      "zipcode": 27210
+    },
+    {
+      "zipcode_id": 27160,
+      "zipcode": 27160
+    },
+    {
+      "zipcode_id": 27120,
+      "zipcode": 27120
+    },
+    {
+      "zipcode_id": 27250,
+      "zipcode": 27250
+    },
+    {
+      "zipcode_id": 27210,
+      "zipcode": 27210
+    },
+    {
+      "zipcode_id": 27250,
+      "zipcode": 27250
+    },
+    {
+      "zipcode_id": 30000,
+      "zipcode": 30000
+    },
+    {
+      "zipcode_id": 30310,
+      "zipcode": 30310
+    },
+    {
+      "zipcode_id": 30280,
+      "zipcode": 30280
+    },
+    {
+      "zipcode_id": 30250,
+      "zipcode": 30250
+    },
+    {
+      "zipcode_id": 30330,
+      "zipcode": 30330
+    },
+    {
+      "zipcode_id": 30260,
+      "zipcode": 30260
+    },
+    {
+      "zipcode_id": 30350,
+      "zipcode": 30350
+    },
+    {
+      "zipcode_id": 30230,
+      "zipcode": 30230
+    },
+    {
+      "zipcode_id": 30190,
+      "zipcode": 30190
+    },
+    {
+      "zipcode_id": 30210,
+      "zipcode": 30210
+    },
+    {
+      "zipcode_id": 36220,
+      "zipcode": 36220
+    },
+    {
+      "zipcode_id": 30220,
+      "zipcode": 30220
+    },
+    {
+      "zipcode_id": 30160,
+      "zipcode": 30160
+    },
+    {
+      "zipcode_id": 30420,
+      "zipcode": 30420
+    },
+    {
+      "zipcode_id": 30290,
+      "zipcode": 30290
+    },
+    {
+      "zipcode_id": 30120,
+      "zipcode": 30120
+    },
+    {
+      "zipcode_id": 30180,
+      "zipcode": 30180
+    },
+    {
+      "zipcode_id": 30150,
+      "zipcode": 30150
+    },
+    {
+      "zipcode_id": 30110,
+      "zipcode": 30110
+    },
+    {
+      "zipcode_id": 30240,
+      "zipcode": 30240
+    },
+    {
+      "zipcode_id": 30270,
+      "zipcode": 30270
+    },
+    {
+      "zipcode_id": 30170,
+      "zipcode": 30170
+    },
+    {
+      "zipcode_id": 30380,
+      "zipcode": 30380
+    },
+    {
+      "zipcode_id": 30140,
+      "zipcode": 30140
+    },
+    {
+      "zipcode_id": 30340,
+      "zipcode": 30340
+    },
+    {
+      "zipcode_id": 30320,
+      "zipcode": 30320
+    },
+    {
+      "zipcode_id": 30410,
+      "zipcode": 30410
+    },
+    {
+      "zipcode_id": 30440,
+      "zipcode": 30440
+    },
+    {
+      "zipcode_id": 30360,
+      "zipcode": 30360
+    },
+    {
+      "zipcode_id": 30370,
+      "zipcode": 30370
+    },
+    {
+      "zipcode_id": 30430,
+      "zipcode": 30430
+    },
+    {
+      "zipcode_id": 31000,
+      "zipcode": 31000
+    },
+    {
+      "zipcode_id": 31190,
+      "zipcode": 31190
+    },
+    {
+      "zipcode_id": 31160,
+      "zipcode": 31160
+    },
+    {
+      "zipcode_id": 31110,
+      "zipcode": 31110
+    },
+    {
+      "zipcode_id": 31210,
+      "zipcode": 31210
+    },
+    {
+      "zipcode_id": 31170,
+      "zipcode": 31170
+    },
+    {
+      "zipcode_id": 31140,
+      "zipcode": 31140
+    },
+    {
+      "zipcode_id": 31180,
+      "zipcode": 31180
+    },
+    {
+      "zipcode_id": 31120,
+      "zipcode": 31120
+    },
+    {
+      "zipcode_id": 31130,
+      "zipcode": 31130
+    },
+    {
+      "zipcode_id": 31150,
+      "zipcode": 31150
+    },
+    {
+      "zipcode_id": 31220,
+      "zipcode": 31220
+    },
+    {
+      "zipcode_id": 31230,
+      "zipcode": 31230
+    },
+    {
+      "zipcode_id": 31240,
+      "zipcode": 31240
+    },
+    {
+      "zipcode_id": 31250,
+      "zipcode": 31250
+    },
+    {
+      "zipcode_id": 31260,
+      "zipcode": 31260
+    },
+    {
+      "zipcode_id": 32000,
+      "zipcode": 32000
+    },
+    {
+      "zipcode_id": 32190,
+      "zipcode": 32190
+    },
+    {
+      "zipcode_id": 32120,
+      "zipcode": 32120
+    },
+    {
+      "zipcode_id": 32180,
+      "zipcode": 32180
+    },
+    {
+      "zipcode_id": 32140,
+      "zipcode": 32140
+    },
+    {
+      "zipcode_id": 32210,
+      "zipcode": 32210
+    },
+    {
+      "zipcode_id": 32130,
+      "zipcode": 32130
+    },
+    {
+      "zipcode_id": 32160,
+      "zipcode": 32160
+    },
+    {
+      "zipcode_id": 32110,
+      "zipcode": 32110
+    },
+    {
+      "zipcode_id": 32150,
+      "zipcode": 32150
+    },
+    {
+      "zipcode_id": 32220,
+      "zipcode": 32220
+    },
+    {
+      "zipcode_id": 32170,
+      "zipcode": 32170
+    },
+    {
+      "zipcode_id": 32230,
+      "zipcode": 32230
+    },
+    {
+      "zipcode_id": 33000,
+      "zipcode": 33000
+    },
+    {
+      "zipcode_id": 33190,
+      "zipcode": 33190
+    },
+    {
+      "zipcode_id": 33130,
+      "zipcode": 33130
+    },
+    {
+      "zipcode_id": 33110,
+      "zipcode": 33110
+    },
+    {
+      "zipcode_id": 33140,
+      "zipcode": 33140
+    },
+    {
+      "zipcode_id": 33180,
+      "zipcode": 33180
+    },
+    {
+      "zipcode_id": 33170,
+      "zipcode": 33170
+    },
+    {
+      "zipcode_id": 33150,
+      "zipcode": 33150
+    },
+    {
+      "zipcode_id": 33160,
+      "zipcode": 33160
+    },
+    {
+      "zipcode_id": 33120,
+      "zipcode": 33120
+    },
+    {
+      "zipcode_id": 33220,
+      "zipcode": 33220
+    },
+    {
+      "zipcode_id": 33210,
+      "zipcode": 33210
+    },
+    {
+      "zipcode_id": 33250,
+      "zipcode": 33250
+    },
+    {
+      "zipcode_id": 33240,
+      "zipcode": 33240
+    },
+    {
+      "zipcode_id": 33270,
+      "zipcode": 33270
+    },
+    {
+      "zipcode_id": 33230,
+      "zipcode": 33230
+    },
+    {
+      "zipcode_id": 34000,
+      "zipcode": 34000
+    },
+    {
+      "zipcode_id": 34250,
+      "zipcode": 34250
+    },
+    {
+      "zipcode_id": 34220,
+      "zipcode": 34220
+    },
+    {
+      "zipcode_id": 34150,
+      "zipcode": 34150
+    },
+    {
+      "zipcode_id": 34320,
+      "zipcode": 34320
+    },
+    {
+      "zipcode_id": 34170,
+      "zipcode": 34170
+    },
+    {
+      "zipcode_id": 34160,
+      "zipcode": 34160
+    },
+    {
+      "zipcode_id": 34280,
+      "zipcode": 34280
+    },
+    {
+      "zipcode_id": 34260,
+      "zipcode": 34260
+    },
+    {
+      "zipcode_id": 34230,
+      "zipcode": 34230
+    },
+    {
+      "zipcode_id": 34130,
+      "zipcode": 34130
+    },
+    {
+      "zipcode_id": 34270,
+      "zipcode": 34270
+    },
+    {
+      "zipcode_id": 34140,
+      "zipcode": 34140
+    },
+    {
+      "zipcode_id": 34190,
+      "zipcode": 34190
+    },
+    {
+      "zipcode_id": 34310,
+      "zipcode": 34310
+    },
+    {
+      "zipcode_id": 34110,
+      "zipcode": 34110
+    },
+    {
+      "zipcode_id": 34330,
+      "zipcode": 34330
+    },
+    {
+      "zipcode_id": 34340,
+      "zipcode": 34340
+    },
+    {
+      "zipcode_id": 34360,
+      "zipcode": 34360
+    },
+    {
+      "zipcode_id": 34350,
+      "zipcode": 34350
+    },
+    {
+      "zipcode_id": 35000,
+      "zipcode": 35000
+    },
+    {
+      "zipcode_id": 35170,
+      "zipcode": 35170
+    },
+    {
+      "zipcode_id": 35140,
+      "zipcode": 35140
+    },
+    {
+      "zipcode_id": 35110,
+      "zipcode": 35110
+    },
+    {
+      "zipcode_id": 35180,
+      "zipcode": 35180
+    },
+    {
+      "zipcode_id": 35150,
+      "zipcode": 35150
+    },
+    {
+      "zipcode_id": 35130,
+      "zipcode": 35130
+    },
+    {
+      "zipcode_id": 35160,
+      "zipcode": 35160
+    },
+    {
+      "zipcode_id": 35120,
+      "zipcode": 35120
+    },
+    {
+      "zipcode_id": 36000,
+      "zipcode": 36000
+    },
+    {
+      "zipcode_id": 36240,
+      "zipcode": 36240
+    },
+    {
+      "zipcode_id": 36170,
+      "zipcode": 36170
+    },
+    {
+      "zipcode_id": 36140,
+      "zipcode": 36140
+    },
+    {
+      "zipcode_id": 36120,
+      "zipcode": 36120
+    },
+    {
+      "zipcode_id": 36210,
+      "zipcode": 36210
+    },
+    {
+      "zipcode_id": 36130,
+      "zipcode": 36130
+    },
+    {
+      "zipcode_id": 36160,
+      "zipcode": 36160
+    },
+    {
+      "zipcode_id": 36250,
+      "zipcode": 36250
+    },
+    {
+      "zipcode_id": 36230,
+      "zipcode": 36230
+    },
+    {
+      "zipcode_id": 36110,
+      "zipcode": 36110
+    },
+    {
+      "zipcode_id": 36190,
+      "zipcode": 36190
+    },
+    {
+      "zipcode_id": 36150,
+      "zipcode": 36150
+    },
+    {
+      "zipcode_id": 36180,
+      "zipcode": 36180
+    },
+    {
+      "zipcode_id": 36260,
+      "zipcode": 36260
+    },
+    {
+      "zipcode_id": 37000,
+      "zipcode": 37000
+    },
+    {
+      "zipcode_id": 37210,
+      "zipcode": 37210
+    },
+    {
+      "zipcode_id": 37110,
+      "zipcode": 37110
+    },
+    {
+      "zipcode_id": 37180,
+      "zipcode": 37180
+    },
+    {
+      "zipcode_id": 37290,
+      "zipcode": 37290
+    },
+    {
+      "zipcode_id": 37240,
+      "zipcode": 37240
+    },
+    {
+      "zipcode_id": 37120,
+      "zipcode": 37120
+    },
+    {
+      "zipcode_id": 38000,
+      "zipcode": 38000
+    },
+    {
+      "zipcode_id": 38180,
+      "zipcode": 38180
+    },
+    {
+      "zipcode_id": 38170,
+      "zipcode": 38170
+    },
+    {
+      "zipcode_id": 38150,
+      "zipcode": 38150
+    },
+    {
+      "zipcode_id": 38190,
+      "zipcode": 38190
+    },
+    {
+      "zipcode_id": 38220,
+      "zipcode": 38220
+    },
+    {
+      "zipcode_id": 38210,
+      "zipcode": 38210
+    },
+    {
+      "zipcode_id": 39000,
+      "zipcode": 39000
+    },
+    {
+      "zipcode_id": 39170,
+      "zipcode": 39170
+    },
+    {
+      "zipcode_id": 39350,
+      "zipcode": 39350
+    },
+    {
+      "zipcode_id": 39140,
+      "zipcode": 39140
+    },
+    {
+      "zipcode_id": 39180,
+      "zipcode": 39180
+    },
+    {
+      "zipcode_id": 39270,
+      "zipcode": 39270
+    },
+    {
+      "zipcode_id": 40000,
+      "zipcode": 40000
+    },
+    {
+      "zipcode_id": 40002,
+      "zipcode": 40002
+    },
+    {
+      "zipcode_id": 40000,
+      "zipcode": 40000
+    },
+    {
+      "zipcode_id": 40260,
+      "zipcode": 40260
+    },
+    {
+      "zipcode_id": 40270,
+      "zipcode": 40270
+    },
+    {
+      "zipcode_id": 40320,
+      "zipcode": 40320
+    },
+    {
+      "zipcode_id": 40210,
+      "zipcode": 40210
+    },
+    {
+      "zipcode_id": 40240,
+      "zipcode": 40240
+    },
+    {
+      "zipcode_id": 40130,
+      "zipcode": 40130
+    },
+    {
+      "zipcode_id": 40290,
+      "zipcode": 40290
+    },
+    {
+      "zipcode_id": 40220,
+      "zipcode": 40220
+    },
+    {
+      "zipcode_id": 40140,
+      "zipcode": 40140
+    },
+    {
+      "zipcode_id": 40310,
+      "zipcode": 40310
+    },
+    {
+      "zipcode_id": 40140,
+      "zipcode": 40140
+    },
+    {
+      "zipcode_id": 40310,
+      "zipcode": 40310
+    },
+    {
+      "zipcode_id": 40250,
+      "zipcode": 40250
+    },
+    {
+      "zipcode_id": 40170,
+      "zipcode": 40170
+    },
+    {
+      "zipcode_id": 40110,
+      "zipcode": 40110
+    },
+    {
+      "zipcode_id": 40340,
+      "zipcode": 40340
+    },
+    {
+      "zipcode_id": 40120,
+      "zipcode": 40120
+    },
+    {
+      "zipcode_id": 40330,
+      "zipcode": 40330
+    },
+    {
+      "zipcode_id": 40230,
+      "zipcode": 40230
+    },
+    {
+      "zipcode_id": 40190,
+      "zipcode": 40190
+    },
+    {
+      "zipcode_id": 40150,
+      "zipcode": 40150
+    },
+    {
+      "zipcode_id": 40160,
+      "zipcode": 40160
+    },
+    {
+      "zipcode_id": 40180,
+      "zipcode": 40180
+    },
+    {
+      "zipcode_id": 40280,
+      "zipcode": 40280
+    },
+    {
+      "zipcode_id": 40350,
+      "zipcode": 40350
+    },
+    {
+      "zipcode_id": 41000,
+      "zipcode": 41000
+    },
+    {
+      "zipcode_id": 41330,
+      "zipcode": 41330
+    },
+    {
+      "zipcode_id": 41250,
+      "zipcode": 41250
+    },
+    {
+      "zipcode_id": 41360,
+      "zipcode": 41360
+    },
+    {
+      "zipcode_id": 41220,
+      "zipcode": 41220
+    },
+    {
+      "zipcode_id": 41110,
+      "zipcode": 41110
+    },
+    {
+      "zipcode_id": 41370,
+      "zipcode": 41370
+    },
+    {
+      "zipcode_id": 41240,
+      "zipcode": 41240
+    },
+    {
+      "zipcode_id": 41130,
+      "zipcode": 41130
+    },
+    {
+      "zipcode_id": 41320,
+      "zipcode": 41320
+    },
+    {
+      "zipcode_id": 41310,
+      "zipcode": 41310
+    },
+    {
+      "zipcode_id": 41290,
+      "zipcode": 41290
+    },
+    {
+      "zipcode_id": 41230,
+      "zipcode": 41230
+    },
+    {
+      "zipcode_id": 41280,
+      "zipcode": 41280
+    },
+    {
+      "zipcode_id": 41190,
+      "zipcode": 41190
+    },
+    {
+      "zipcode_id": 41160,
+      "zipcode": 41160
+    },
+    {
+      "zipcode_id": 41210,
+      "zipcode": 41210
+    },
+    {
+      "zipcode_id": 41150,
+      "zipcode": 41150
+    },
+    {
+      "zipcode_id": 41260,
+      "zipcode": 41260
+    },
+    {
+      "zipcode_id": 41340,
+      "zipcode": 41340
+    },
+    {
+      "zipcode_id": 41380,
+      "zipcode": 41380
+    },
+    {
+      "zipcode_id": 42000,
+      "zipcode": 42000
+    },
+    {
+      "zipcode_id": 42100,
+      "zipcode": 42100
+    },
+    {
+      "zipcode_id": 42210,
+      "zipcode": 42210
+    },
+    {
+      "zipcode_id": 42110,
+      "zipcode": 42110
+    },
+    {
+      "zipcode_id": 42150,
+      "zipcode": 42150
+    },
+    {
+      "zipcode_id": 42120,
+      "zipcode": 42120
+    },
+    {
+      "zipcode_id": 42170,
+      "zipcode": 42170
+    },
+    {
+      "zipcode_id": 42160,
+      "zipcode": 42160
+    },
+    {
+      "zipcode_id": 42140,
+      "zipcode": 42140
+    },
+    {
+      "zipcode_id": 42130,
+      "zipcode": 42130
+    },
+    {
+      "zipcode_id": 42180,
+      "zipcode": 42180
+    },
+    {
+      "zipcode_id": 42230,
+      "zipcode": 42230
+    },
+    {
+      "zipcode_id": 42240,
+      "zipcode": 42240
+    },
+    {
+      "zipcode_id": 42220,
+      "zipcode": 42220
+    },
+    {
+      "zipcode_id": 42190,
+      "zipcode": 42190
+    },
+    {
+      "zipcode_id": 43000,
+      "zipcode": 43000
+    },
+    {
+      "zipcode_id": 43100,
+      "zipcode": 43100
+    },
+    {
+      "zipcode_id": 43110,
+      "zipcode": 43110
+    },
+    {
+      "zipcode_id": 43120,
+      "zipcode": 43120
+    },
+    {
+      "zipcode_id": 43130,
+      "zipcode": 43130
+    },
+    {
+      "zipcode_id": 43160,
+      "zipcode": 43160
+    },
+    {
+      "zipcode_id": 44000,
+      "zipcode": 44000
+    },
+    {
+      "zipcode_id": 44190,
+      "zipcode": 44190
+    },
+    {
+      "zipcode_id": 44140,
+      "zipcode": 44140
+    },
+    {
+      "zipcode_id": 44150,
+      "zipcode": 44150
+    },
+    {
+      "zipcode_id": 44160,
+      "zipcode": 44160
+    },
+    {
+      "zipcode_id": 44130,
+      "zipcode": 44130
+    },
+    {
+      "zipcode_id": 44170,
+      "zipcode": 44170
+    },
+    {
+      "zipcode_id": 44110,
+      "zipcode": 44110
+    },
+    {
+      "zipcode_id": 44120,
+      "zipcode": 44120
+    },
+    {
+      "zipcode_id": 44180,
+      "zipcode": 44180
+    },
+    {
+      "zipcode_id": 44210,
+      "zipcode": 44210
+    },
+    {
+      "zipcode_id": 45000,
+      "zipcode": 45000
+    },
+    {
+      "zipcode_id": 45150,
+      "zipcode": 45150
+    },
+    {
+      "zipcode_id": 45190,
+      "zipcode": 45190
+    },
+    {
+      "zipcode_id": 45180,
+      "zipcode": 45180
+    },
+    {
+      "zipcode_id": 45170,
+      "zipcode": 45170
+    },
+    {
+      "zipcode_id": 45140,
+      "zipcode": 45140
+    },
+    {
+      "zipcode_id": 45110,
+      "zipcode": 45110
+    },
+    {
+      "zipcode_id": 45230,
+      "zipcode": 45230
+    },
+    {
+      "zipcode_id": 45210,
+      "zipcode": 45210
+    },
+    {
+      "zipcode_id": 45120,
+      "zipcode": 45120
+    },
+    {
+      "zipcode_id": 45130,
+      "zipcode": 45130
+    },
+    {
+      "zipcode_id": 45220,
+      "zipcode": 45220
+    },
+    {
+      "zipcode_id": 45240,
+      "zipcode": 45240
+    },
+    {
+      "zipcode_id": 45160,
+      "zipcode": 45160
+    },
+    {
+      "zipcode_id": 45250,
+      "zipcode": 45250
+    },
+    {
+      "zipcode_id": 45280,
+      "zipcode": 45280
+    },
+    {
+      "zipcode_id": 46000,
+      "zipcode": 46000
+    },
+    {
+      "zipcode_id": 46230,
+      "zipcode": 46230
+    },
+    {
+      "zipcode_id": 46130,
+      "zipcode": 46130
+    },
+    {
+      "zipcode_id": 46210,
+      "zipcode": 46210
+    },
+    {
+      "zipcode_id": 46110,
+      "zipcode": 46110
+    },
+    {
+      "zipcode_id": 46160,
+      "zipcode": 46160
+    },
+    {
+      "zipcode_id": 46120,
+      "zipcode": 46120
+    },
+    {
+      "zipcode_id": 46170,
+      "zipcode": 46170
+    },
+    {
+      "zipcode_id": 46140,
+      "zipcode": 46140
+    },
+    {
+      "zipcode_id": 46180,
+      "zipcode": 46180
+    },
+    {
+      "zipcode_id": 46190,
+      "zipcode": 46190
+    },
+    {
+      "zipcode_id": 46220,
+      "zipcode": 46220
+    },
+    {
+      "zipcode_id": 46150,
+      "zipcode": 46150
+    },
+    {
+      "zipcode_id": 46240,
+      "zipcode": 46240
+    },
+    {
+      "zipcode_id": 47000,
+      "zipcode": 47000
+    },
+    {
+      "zipcode_id": 47220,
+      "zipcode": 47220
+    },
+    {
+      "zipcode_id": 47230,
+      "zipcode": 47230
+    },
+    {
+      "zipcode_id": 47210,
+      "zipcode": 47210
+    },
+    {
+      "zipcode_id": 47180,
+      "zipcode": 47180
+    },
+    {
+      "zipcode_id": 47130,
+      "zipcode": 47130
+    },
+    {
+      "zipcode_id": 47160,
+      "zipcode": 47160
+    },
+    {
+      "zipcode_id": 47150,
+      "zipcode": 47150
+    },
+    {
+      "zipcode_id": 47270,
+      "zipcode": 47270
+    },
+    {
+      "zipcode_id": 47120,
+      "zipcode": 47120
+    },
+    {
+      "zipcode_id": 47250,
+      "zipcode": 47250
+    },
+    {
+      "zipcode_id": 47140,
+      "zipcode": 47140
+    },
+    {
+      "zipcode_id": 47170,
+      "zipcode": 47170
+    },
+    {
+      "zipcode_id": 47110,
+      "zipcode": 47110
+    },
+    {
+      "zipcode_id": 47240,
+      "zipcode": 47240
+    },
+    {
+      "zipcode_id": 47190,
+      "zipcode": 47190
+    },
+    {
+      "zipcode_id": 47260,
+      "zipcode": 47260
+    },
+    {
+      "zipcode_id": 47280,
+      "zipcode": 47280
+    },
+    {
+      "zipcode_id": 47290,
+      "zipcode": 47290
+    },
+    {
+      "zipcode_id": 48000,
+      "zipcode": 48000
+    },
+    {
+      "zipcode_id": 48160,
+      "zipcode": 48160
+    },
+    {
+      "zipcode_id": 48120,
+      "zipcode": 48120
+    },
+    {
+      "zipcode_id": 48140,
+      "zipcode": 48140
+    },
+    {
+      "zipcode_id": 48110,
+      "zipcode": 48110
+    },
+    {
+      "zipcode_id": 48170,
+      "zipcode": 48170
+    },
+    {
+      "zipcode_id": 48130,
+      "zipcode": 48130
+    },
+    {
+      "zipcode_id": 48150,
+      "zipcode": 48150
+    },
+    {
+      "zipcode_id": 48180,
+      "zipcode": 48180
+    },
+    {
+      "zipcode_id": 48190,
+      "zipcode": 48190
+    },
+    {
+      "zipcode_id": 49000,
+      "zipcode": 49000
+    },
+    {
+      "zipcode_id": 49130,
+      "zipcode": 49130
+    },
+    {
+      "zipcode_id": 49120,
+      "zipcode": 49120
+    },
+    {
+      "zipcode_id": 49140,
+      "zipcode": 49140
+    },
+    {
+      "zipcode_id": 49110,
+      "zipcode": 49110
+    },
+    {
+      "zipcode_id": 49150,
+      "zipcode": 49150
+    },
+    {
+      "zipcode_id": 49160,
+      "zipcode": 49160
+    },
+    {
+      "zipcode_id": 50200,
+      "zipcode": 50200
+    },
+    {
+      "zipcode_id": 50100,
+      "zipcode": 50100
+    },
+    {
+      "zipcode_id": 50300,
+      "zipcode": 50300
+    },
+    {
+      "zipcode_id": 50000,
+      "zipcode": 50000
+    },
+    {
+      "zipcode_id": 50290,
+      "zipcode": 50290
+    },
+    {
+      "zipcode_id": 50300,
+      "zipcode": 50300
+    },
+    {
+      "zipcode_id": 50160,
+      "zipcode": 50160
+    },
+    {
+      "zipcode_id": 50240,
+      "zipcode": 50240
+    },
+    {
+      "zipcode_id": 50160,
+      "zipcode": 50160
+    },
+    {
+      "zipcode_id": 50240,
+      "zipcode": 50240
+    },
+    {
+      "zipcode_id": 50270,
+      "zipcode": 50270
+    },
+    {
+      "zipcode_id": 50170,
+      "zipcode": 50170
+    },
+    {
+      "zipcode_id": 50220,
+      "zipcode": 50220
+    },
+    {
+      "zipcode_id": 50150,
+      "zipcode": 50150
+    },
+    {
+      "zipcode_id": 50150,
+      "zipcode": 50150
+    },
+    {
+      "zipcode_id": 50330,
+      "zipcode": 50330
+    },
+    {
+      "zipcode_id": 50330,
+      "zipcode": 50330
+    },
+    {
+      "zipcode_id": 50180,
+      "zipcode": 50180
+    },
+    {
+      "zipcode_id": 50250,
+      "zipcode": 50250
+    },
+    {
+      "zipcode_id": 50110,
+      "zipcode": 50110
+    },
+    {
+      "zipcode_id": 50320,
+      "zipcode": 50320
+    },
+    {
+      "zipcode_id": 50280,
+      "zipcode": 50280
+    },
+    {
+      "zipcode_id": 50190,
+      "zipcode": 50190
+    },
+    {
+      "zipcode_id": 50120,
+      "zipcode": 50120
+    },
+    {
+      "zipcode_id": 50130,
+      "zipcode": 50130
+    },
+    {
+      "zipcode_id": 50210,
+      "zipcode": 50210
+    },
+    {
+      "zipcode_id": 50210,
+      "zipcode": 50210
+    },
+    {
+      "zipcode_id": 50290,
+      "zipcode": 50290
+    },
+    {
+      "zipcode_id": 50230,
+      "zipcode": 50230
+    },
+    {
+      "zipcode_id": 50340,
+      "zipcode": 50340
+    },
+    {
+      "zipcode_id": 50260,
+      "zipcode": 50260
+    },
+    {
+      "zipcode_id": 50310,
+      "zipcode": 50310
+    },
+    {
+      "zipcode_id": 50140,
+      "zipcode": 50140
+    },
+    {
+      "zipcode_id": 50350,
+      "zipcode": 50350
+    },
+    {
+      "zipcode_id": 50360,
+      "zipcode": 50360
+    },
+    {
+      "zipcode_id": 58130,
+      "zipcode": 58130
+    },
+    {
+      "zipcode_id": 51000,
+      "zipcode": 51000
+    },
+    {
+      "zipcode_id": 51150,
+      "zipcode": 51150
+    },
+    {
+      "zipcode_id": 51140,
+      "zipcode": 51140
+    },
+    {
+      "zipcode_id": 51170,
+      "zipcode": 51170
+    },
+    {
+      "zipcode_id": 51130,
+      "zipcode": 51130
+    },
+    {
+      "zipcode_id": 51110,
+      "zipcode": 51110
+    },
+    {
+      "zipcode_id": 51160,
+      "zipcode": 51160
+    },
+    {
+      "zipcode_id": 51120,
+      "zipcode": 51120
+    },
+    {
+      "zipcode_id": 51180,
+      "zipcode": 51180
+    },
+    {
+      "zipcode_id": 52000,
+      "zipcode": 52000
+    },
+    {
+      "zipcode_id": 52100,
+      "zipcode": 52100
+    },
+    {
+      "zipcode_id": 52000,
+      "zipcode": 52000
+    },
+    {
+      "zipcode_id": 52220,
+      "zipcode": 52220
+    },
+    {
+      "zipcode_id": 52220,
+      "zipcode": 52220
+    },
+    {
+      "zipcode_id": 52130,
+      "zipcode": 52130
+    },
+    {
+      "zipcode_id": 52210,
+      "zipcode": 52210
+    },
+    {
+      "zipcode_id": 52110,
+      "zipcode": 52110
+    },
+    {
+      "zipcode_id": 52120,
+      "zipcode": 52120
+    },
+    {
+      "zipcode_id": 52140,
+      "zipcode": 52140
+    },
+    {
+      "zipcode_id": 52160,
+      "zipcode": 52160
+    },
+    {
+      "zipcode_id": 52230,
+      "zipcode": 52230
+    },
+    {
+      "zipcode_id": 52180,
+      "zipcode": 52180
+    },
+    {
+      "zipcode_id": 52180,
+      "zipcode": 52180
+    },
+    {
+      "zipcode_id": 52230,
+      "zipcode": 52230
+    },
+    {
+      "zipcode_id": 52150,
+      "zipcode": 52150
+    },
+    {
+      "zipcode_id": 52150,
+      "zipcode": 52150
+    },
+    {
+      "zipcode_id": 52170,
+      "zipcode": 52170
+    },
+    {
+      "zipcode_id": 52190,
+      "zipcode": 52190
+    },
+    {
+      "zipcode_id": 52240,
+      "zipcode": 52240
+    },
+    {
+      "zipcode_id": 53000,
+      "zipcode": 53000
+    },
+    {
+      "zipcode_id": 53000,
+      "zipcode": 53000
+    },
+    {
+      "zipcode_id": 53170,
+      "zipcode": 53170
+    },
+    {
+      "zipcode_id": 53170,
+      "zipcode": 53170
+    },
+    {
+      "zipcode_id": 53140,
+      "zipcode": 53140
+    },
+    {
+      "zipcode_id": 53150,
+      "zipcode": 53150
+    },
+    {
+      "zipcode_id": 53150,
+      "zipcode": 53150
+    },
+    {
+      "zipcode_id": 53190,
+      "zipcode": 53190
+    },
+    {
+      "zipcode_id": 53190,
+      "zipcode": 53190
+    },
+    {
+      "zipcode_id": 53110,
+      "zipcode": 53110
+    },
+    {
+      "zipcode_id": 53160,
+      "zipcode": 53160
+    },
+    {
+      "zipcode_id": 53180,
+      "zipcode": 53180
+    },
+    {
+      "zipcode_id": 53120,
+      "zipcode": 53120
+    },
+    {
+      "zipcode_id": 53220,
+      "zipcode": 53220
+    },
+    {
+      "zipcode_id": 53130,
+      "zipcode": 53130
+    },
+    {
+      "zipcode_id": 53210,
+      "zipcode": 53210
+    },
+    {
+      "zipcode_id": 53230,
+      "zipcode": 53230
+    },
+    {
+      "zipcode_id": 54000,
+      "zipcode": 54000
+    },
+    {
+      "zipcode_id": 54140,
+      "zipcode": 54140
+    },
+    {
+      "zipcode_id": 54150,
+      "zipcode": 54150
+    },
+    {
+      "zipcode_id": 54130,
+      "zipcode": 54130
+    },
+    {
+      "zipcode_id": 54110,
+      "zipcode": 54110
+    },
+    {
+      "zipcode_id": 54120,
+      "zipcode": 54120
+    },
+    {
+      "zipcode_id": 54160,
+      "zipcode": 54160
+    },
+    {
+      "zipcode_id": 54170,
+      "zipcode": 54170
+    },
+    {
+      "zipcode_id": 55000,
+      "zipcode": 55000
+    },
+    {
+      "zipcode_id": 55170,
+      "zipcode": 55170
+    },
+    {
+      "zipcode_id": 55190,
+      "zipcode": 55190
+    },
+    {
+      "zipcode_id": 55150,
+      "zipcode": 55150
+    },
+    {
+      "zipcode_id": 55120,
+      "zipcode": 55120
+    },
+    {
+      "zipcode_id": 55140,
+      "zipcode": 55140
+    },
+    {
+      "zipcode_id": 55110,
+      "zipcode": 55110
+    },
+    {
+      "zipcode_id": 55130,
+      "zipcode": 55130
+    },
+    {
+      "zipcode_id": 55160,
+      "zipcode": 55160
+    },
+    {
+      "zipcode_id": 55180,
+      "zipcode": 55180
+    },
+    {
+      "zipcode_id": 55210,
+      "zipcode": 55210
+    },
+    {
+      "zipcode_id": 55220,
+      "zipcode": 55220
+    },
+    {
+      "zipcode_id": 56000,
+      "zipcode": 56000
+    },
+    {
+      "zipcode_id": 56150,
+      "zipcode": 56150
+    },
+    {
+      "zipcode_id": 56110,
+      "zipcode": 56110
+    },
+    {
+      "zipcode_id": 56160,
+      "zipcode": 56160
+    },
+    {
+      "zipcode_id": 56120,
+      "zipcode": 56120
+    },
+    {
+      "zipcode_id": 56140,
+      "zipcode": 56140
+    },
+    {
+      "zipcode_id": 56130,
+      "zipcode": 56130
+    },
+    {
+      "zipcode_id": 57000,
+      "zipcode": 57000
+    },
+    {
+      "zipcode_id": 57100,
+      "zipcode": 57100
+    },
+    {
+      "zipcode_id": 57210,
+      "zipcode": 57210
+    },
+    {
+      "zipcode_id": 57140,
+      "zipcode": 57140
+    },
+    {
+      "zipcode_id": 57160,
+      "zipcode": 57160
+    },
+    {
+      "zipcode_id": 57160,
+      "zipcode": 57160
+    },
+    {
+      "zipcode_id": 57230,
+      "zipcode": 57230
+    },
+    {
+      "zipcode_id": 57230,
+      "zipcode": 57230
+    },
+    {
+      "zipcode_id": 57120,
+      "zipcode": 57120
+    },
+    {
+      "zipcode_id": 57250,
+      "zipcode": 57250
+    },
+    {
+      "zipcode_id": 57280,
+      "zipcode": 57280
+    },
+    {
+      "zipcode_id": 57190,
+      "zipcode": 57190
+    },
+    {
+      "zipcode_id": 57110,
+      "zipcode": 57110
+    },
+    {
+      "zipcode_id": 57270,
+      "zipcode": 57270
+    },
+    {
+      "zipcode_id": 57240,
+      "zipcode": 57240
+    },
+    {
+      "zipcode_id": 57150,
+      "zipcode": 57150
+    },
+    {
+      "zipcode_id": 57130,
+      "zipcode": 57130
+    },
+    {
+      "zipcode_id": 57220,
+      "zipcode": 57220
+    },
+    {
+      "zipcode_id": 57180,
+      "zipcode": 57180
+    },
+    {
+      "zipcode_id": 57170,
+      "zipcode": 57170
+    },
+    {
+      "zipcode_id": 57260,
+      "zipcode": 57260
+    },
+    {
+      "zipcode_id": 57290,
+      "zipcode": 57290
+    },
+    {
+      "zipcode_id": 57310,
+      "zipcode": 57310
+    },
+    {
+      "zipcode_id": 57340,
+      "zipcode": 57340
+    },
+    {
+      "zipcode_id": 58000,
+      "zipcode": 58000
+    },
+    {
+      "zipcode_id": 58140,
+      "zipcode": 58140
+    },
+    {
+      "zipcode_id": 58110,
+      "zipcode": 58110
+    },
+    {
+      "zipcode_id": 58120,
+      "zipcode": 58120
+    },
+    {
+      "zipcode_id": 58150,
+      "zipcode": 58150
+    },
+    {
+      "zipcode_id": 60000,
+      "zipcode": 60000
+    },
+    {
+      "zipcode_id": 60240,
+      "zipcode": 60240
+    },
+    {
+      "zipcode_id": 60170,
+      "zipcode": 60170
+    },
+    {
+      "zipcode_id": 60120,
+      "zipcode": 60120
+    },
+    {
+      "zipcode_id": 60250,
+      "zipcode": 60250
+    },
+    {
+      "zipcode_id": 60110,
+      "zipcode": 60110
+    },
+    {
+      "zipcode_id": 60180,
+      "zipcode": 60180
+    },
+    {
+      "zipcode_id": 60230,
+      "zipcode": 60230
+    },
+    {
+      "zipcode_id": 60140,
+      "zipcode": 60140
+    },
+    {
+      "zipcode_id": 60210,
+      "zipcode": 60210
+    },
+    {
+      "zipcode_id": 60260,
+      "zipcode": 60260
+    },
+    {
+      "zipcode_id": 60160,
+      "zipcode": 60160
+    },
+    {
+      "zipcode_id": 60220,
+      "zipcode": 60220
+    },
+    {
+      "zipcode_id": 60130,
+      "zipcode": 60130
+    },
+    {
+      "zipcode_id": 60150,
+      "zipcode": 60150
+    },
+    {
+      "zipcode_id": 60190,
+      "zipcode": 60190
+    },
+    {
+      "zipcode_id": 61000,
+      "zipcode": 61000
+    },
+    {
+      "zipcode_id": 61120,
+      "zipcode": 61120
+    },
+    {
+      "zipcode_id": 61150,
+      "zipcode": 61150
+    },
+    {
+      "zipcode_id": 61110,
+      "zipcode": 61110
+    },
+    {
+      "zipcode_id": 61170,
+      "zipcode": 61170
+    },
+    {
+      "zipcode_id": 61130,
+      "zipcode": 61130
+    },
+    {
+      "zipcode_id": 61140,
+      "zipcode": 61140
+    },
+    {
+      "zipcode_id": 61180,
+      "zipcode": 61180
+    },
+    {
+      "zipcode_id": 61160,
+      "zipcode": 61160
+    },
+    {
+      "zipcode_id": 62000,
+      "zipcode": 62000
+    },
+    {
+      "zipcode_id": 62160,
+      "zipcode": 62160
+    },
+    {
+      "zipcode_id": 62150,
+      "zipcode": 62150
+    },
+    {
+      "zipcode_id": 62180,
+      "zipcode": 62180
+    },
+    {
+      "zipcode_id": 62130,
+      "zipcode": 62130
+    },
+    {
+      "zipcode_id": 62140,
+      "zipcode": 62140
+    },
+    {
+      "zipcode_id": 62120,
+      "zipcode": 62120
+    },
+    {
+      "zipcode_id": 62110,
+      "zipcode": 62110
+    },
+    {
+      "zipcode_id": 62170,
+      "zipcode": 62170
+    },
+    {
+      "zipcode_id": 62190,
+      "zipcode": 62190
+    },
+    {
+      "zipcode_id": 62210,
+      "zipcode": 62210
+    },
+    {
+      "zipcode_id": 63000,
+      "zipcode": 63000
+    },
+    {
+      "zipcode_id": 63120,
+      "zipcode": 63120
+    },
+    {
+      "zipcode_id": 63130,
+      "zipcode": 63130
+    },
+    {
+      "zipcode_id": 63140,
+      "zipcode": 63140
+    },
+    {
+      "zipcode_id": 63150,
+      "zipcode": 63150
+    },
+    {
+      "zipcode_id": 63110,
+      "zipcode": 63110
+    },
+    {
+      "zipcode_id": 63160,
+      "zipcode": 63160
+    },
+    {
+      "zipcode_id": 63170,
+      "zipcode": 63170
+    },
+    {
+      "zipcode_id": 63180,
+      "zipcode": 63180
+    },
+    {
+      "zipcode_id": 64000,
+      "zipcode": 64000
+    },
+    {
+      "zipcode_id": 64220,
+      "zipcode": 64220
+    },
+    {
+      "zipcode_id": 64210,
+      "zipcode": 64210
+    },
+    {
+      "zipcode_id": 64000,
+      "zipcode": 64000
+    },
+    {
+      "zipcode_id": 64210,
+      "zipcode": 64210
+    },
+    {
+      "zipcode_id": 64140,
+      "zipcode": 64140
+    },
+    {
+      "zipcode_id": 64160,
+      "zipcode": 64160
+    },
+    {
+      "zipcode_id": 64170,
+      "zipcode": 64170
+    },
+    {
+      "zipcode_id": 64130,
+      "zipcode": 64130
+    },
+    {
+      "zipcode_id": 64190,
+      "zipcode": 64190
+    },
+    {
+      "zipcode_id": 64120,
+      "zipcode": 64120
+    },
+    {
+      "zipcode_id": 64110,
+      "zipcode": 64110
+    },
+    {
+      "zipcode_id": 64180,
+      "zipcode": 64180
+    },
+    {
+      "zipcode_id": 64230,
+      "zipcode": 64230
+    },
+    {
+      "zipcode_id": 64150,
+      "zipcode": 64150
+    },
+    {
+      "zipcode_id": 65000,
+      "zipcode": 65000
+    },
+    {
+      "zipcode_id": 65230,
+      "zipcode": 65230
+    },
+    {
+      "zipcode_id": 65120,
+      "zipcode": 65120
+    },
+    {
+      "zipcode_id": 65170,
+      "zipcode": 65170
+    },
+    {
+      "zipcode_id": 65140,
+      "zipcode": 65140
+    },
+    {
+      "zipcode_id": 65240,
+      "zipcode": 65240
+    },
+    {
+      "zipcode_id": 65110,
+      "zipcode": 65110
+    },
+    {
+      "zipcode_id": 65210,
+      "zipcode": 65210
+    },
+    {
+      "zipcode_id": 65150,
+      "zipcode": 65150
+    },
+    {
+      "zipcode_id": 65180,
+      "zipcode": 65180
+    },
+    {
+      "zipcode_id": 65160,
+      "zipcode": 65160
+    },
+    {
+      "zipcode_id": 65130,
+      "zipcode": 65130
+    },
+    {
+      "zipcode_id": 65220,
+      "zipcode": 65220
+    },
+    {
+      "zipcode_id": 65190,
+      "zipcode": 65190
+    },
+    {
+      "zipcode_id": 66000,
+      "zipcode": 66000
+    },
+    {
+      "zipcode_id": 66000,
+      "zipcode": 66000
+    },
+    {
+      "zipcode_id": 66170,
+      "zipcode": 66170
+    },
+    {
+      "zipcode_id": 66170,
+      "zipcode": 66170
+    },
+    {
+      "zipcode_id": 66180,
+      "zipcode": 66180
+    },
+    {
+      "zipcode_id": 66190,
+      "zipcode": 66190
+    },
+    {
+      "zipcode_id": 66110,
+      "zipcode": 66110
+    },
+    {
+      "zipcode_id": 66150,
+      "zipcode": 66150
+    },
+    {
+      "zipcode_id": 66120,
+      "zipcode": 66120
+    },
+    {
+      "zipcode_id": 66210,
+      "zipcode": 66210
+    },
+    {
+      "zipcode_id": 66130,
+      "zipcode": 66130
+    },
+    {
+      "zipcode_id": 66140,
+      "zipcode": 66140
+    },
+    {
+      "zipcode_id": 66220,
+      "zipcode": 66220
+    },
+    {
+      "zipcode_id": 66230,
+      "zipcode": 66230
+    },
+    {
+      "zipcode_id": 66160,
+      "zipcode": 66160
+    },
+    {
+      "zipcode_id": 67000,
+      "zipcode": 67000
+    },
+    {
+      "zipcode_id": 67250,
+      "zipcode": 67250
+    },
+    {
+      "zipcode_id": 67210,
+      "zipcode": 67210
+    },
+    {
+      "zipcode_id": 67150,
+      "zipcode": 67150
+    },
+    {
+      "zipcode_id": 67190,
+      "zipcode": 67190
+    },
+    {
+      "zipcode_id": 67110,
+      "zipcode": 67110
+    },
+    {
+      "zipcode_id": 67120,
+      "zipcode": 67120
+    },
+    {
+      "zipcode_id": 67130,
+      "zipcode": 67130
+    },
+    {
+      "zipcode_id": 67180,
+      "zipcode": 67180
+    },
+    {
+      "zipcode_id": 67170,
+      "zipcode": 67170
+    },
+    {
+      "zipcode_id": 67140,
+      "zipcode": 67140
+    },
+    {
+      "zipcode_id": 67220,
+      "zipcode": 67220
+    },
+    {
+      "zipcode_id": 67160,
+      "zipcode": 67160
+    },
+    {
+      "zipcode_id": 67230,
+      "zipcode": 67230
+    },
+    {
+      "zipcode_id": 67260,
+      "zipcode": 67260
+    },
+    {
+      "zipcode_id": 67240,
+      "zipcode": 67240
+    },
+    {
+      "zipcode_id": 67270,
+      "zipcode": 67270
+    },
+    {
+      "zipcode_id": 67280,
+      "zipcode": 67280
+    },
+    {
+      "zipcode_id": 70000,
+      "zipcode": 70000
+    },
+    {
+      "zipcode_id": 70150,
+      "zipcode": 70150
+    },
+    {
+      "zipcode_id": 70180,
+      "zipcode": 70180
+    },
+    {
+      "zipcode_id": 70130,
+      "zipcode": 70130
+    },
+    {
+      "zipcode_id": 70210,
+      "zipcode": 70210
+    },
+    {
+      "zipcode_id": 70110,
+      "zipcode": 70110
+    },
+    {
+      "zipcode_id": 70190,
+      "zipcode": 70190
+    },
+    {
+      "zipcode_id": 70160,
+      "zipcode": 70160
+    },
+    {
+      "zipcode_id": 70120,
+      "zipcode": 70120
+    },
+    {
+      "zipcode_id": 70140,
+      "zipcode": 70140
+    },
+    {
+      "zipcode_id": 70170,
+      "zipcode": 70170
+    },
+    {
+      "zipcode_id": 71000,
+      "zipcode": 71000
+    },
+    {
+      "zipcode_id": 71190,
+      "zipcode": 71190
+    },
+    {
+      "zipcode_id": 71150,
+      "zipcode": 71150
+    },
+    {
+      "zipcode_id": 71160,
+      "zipcode": 71160
+    },
+    {
+      "zipcode_id": 71220,
+      "zipcode": 71220
+    },
+    {
+      "zipcode_id": 71250,
+      "zipcode": 71250
+    },
+    {
+      "zipcode_id": 71120,
+      "zipcode": 71120
+    },
+    {
+      "zipcode_id": 71130,
+      "zipcode": 71130
+    },
+    {
+      "zipcode_id": 71110,
+      "zipcode": 71110
+    },
+    {
+      "zipcode_id": 71110,
+      "zipcode": 71110
+    },
+    {
+      "zipcode_id": 71130,
+      "zipcode": 71130
+    },
+    {
+      "zipcode_id": 71000,
+      "zipcode": 71000
+    },
+    {
+      "zipcode_id": 71180,
+      "zipcode": 71180
+    },
+    {
+      "zipcode_id": 71240,
+      "zipcode": 71240
+    },
+    {
+      "zipcode_id": 71140,
+      "zipcode": 71140
+    },
+    {
+      "zipcode_id": 71170,
+      "zipcode": 71170
+    },
+    {
+      "zipcode_id": 71210,
+      "zipcode": 71210
+    },
+    {
+      "zipcode_id": 71260,
+      "zipcode": 71260
+    },
+    {
+      "zipcode_id": 72000,
+      "zipcode": 72000
+    },
+    {
+      "zipcode_id": 72230,
+      "zipcode": 72230
+    },
+    {
+      "zipcode_id": 72210,
+      "zipcode": 72210
+    },
+    {
+      "zipcode_id": 72120,
+      "zipcode": 72120
+    },
+    {
+      "zipcode_id": 72180,
+      "zipcode": 72180
+    },
+    {
+      "zipcode_id": 72150,
+      "zipcode": 72150
+    },
+    {
+      "zipcode_id": 72140,
+      "zipcode": 72140
+    },
+    {
+      "zipcode_id": 72170,
+      "zipcode": 72170
+    },
+    {
+      "zipcode_id": 72250,
+      "zipcode": 72250
+    },
+    {
+      "zipcode_id": 72170,
+      "zipcode": 72170
+    },
+    {
+      "zipcode_id": 72250,
+      "zipcode": 72250
+    },
+    {
+      "zipcode_id": 72110,
+      "zipcode": 72110
+    },
+    {
+      "zipcode_id": 72110,
+      "zipcode": 72110
+    },
+    {
+      "zipcode_id": 72190,
+      "zipcode": 72190
+    },
+    {
+      "zipcode_id": 71170,
+      "zipcode": 71170
+    },
+    {
+      "zipcode_id": 72190,
+      "zipcode": 72190
+    },
+    {
+      "zipcode_id": 72130,
+      "zipcode": 72130
+    },
+    {
+      "zipcode_id": 72160,
+      "zipcode": 72160
+    },
+    {
+      "zipcode_id": 72220,
+      "zipcode": 72220
+    },
+    {
+      "zipcode_id": 72160,
+      "zipcode": 72160
+    },
+    {
+      "zipcode_id": 72240,
+      "zipcode": 72240
+    },
+    {
+      "zipcode_id": 73000,
+      "zipcode": 73000
+    },
+    {
+      "zipcode_id": 73140,
+      "zipcode": 73140
+    },
+    {
+      "zipcode_id": 73180,
+      "zipcode": 73180
+    },
+    {
+      "zipcode_id": 73140,
+      "zipcode": 73140
+    },
+    {
+      "zipcode_id": 73180,
+      "zipcode": 73180
+    },
+    {
+      "zipcode_id": 73120,
+      "zipcode": 73120
+    },
+    {
+      "zipcode_id": 73150,
+      "zipcode": 73150
+    },
+    {
+      "zipcode_id": 73130,
+      "zipcode": 73130
+    },
+    {
+      "zipcode_id": 73190,
+      "zipcode": 73190
+    },
+    {
+      "zipcode_id": 73110,
+      "zipcode": 73110
+    },
+    {
+      "zipcode_id": 73210,
+      "zipcode": 73210
+    },
+    {
+      "zipcode_id": 73220,
+      "zipcode": 73220
+    },
+    {
+      "zipcode_id": 73160,
+      "zipcode": 73160
+    },
+    {
+      "zipcode_id": 73170,
+      "zipcode": 73170
+    },
+    {
+      "zipcode_id": 74000,
+      "zipcode": 74000
+    },
+    {
+      "zipcode_id": 74110,
+      "zipcode": 74110
+    },
+    {
+      "zipcode_id": 74130,
+      "zipcode": 74130
+    },
+    {
+      "zipcode_id": 74120,
+      "zipcode": 74120
+    },
+    {
+      "zipcode_id": 70210,
+      "zipcode": 70210
+    },
+    {
+      "zipcode_id": 74120,
+      "zipcode": 74120
+    },
+    {
+      "zipcode_id": 75000,
+      "zipcode": 75000
+    },
+    {
+      "zipcode_id": 75120,
+      "zipcode": 75120
+    },
+    {
+      "zipcode_id": 75110,
+      "zipcode": 75110
+    },
+    {
+      "zipcode_id": 76000,
+      "zipcode": 76000
+    },
+    {
+      "zipcode_id": 76100,
+      "zipcode": 76100
+    },
+    {
+      "zipcode_id": 76000,
+      "zipcode": 76000
+    },
+    {
+      "zipcode_id": 76100,
+      "zipcode": 76100
+    },
+    {
+      "zipcode_id": 76140,
+      "zipcode": 76140
+    },
+    {
+      "zipcode_id": 76160,
+      "zipcode": 76160
+    },
+    {
+      "zipcode_id": 76120,
+      "zipcode": 76120
+    },
+    {
+      "zipcode_id": 76130,
+      "zipcode": 76130
+    },
+    {
+      "zipcode_id": 76150,
+      "zipcode": 76150
+    },
+    {
+      "zipcode_id": 76110,
+      "zipcode": 76110
+    },
+    {
+      "zipcode_id": 76170,
+      "zipcode": 76170
+    },
+    {
+      "zipcode_id": 77000,
+      "zipcode": 77000
+    },
+    {
+      "zipcode_id": 77000,
+      "zipcode": 77000
+    },
+    {
+      "zipcode_id": 77210,
+      "zipcode": 77210
+    },
+    {
+      "zipcode_id": 77210,
+      "zipcode": 77210
+    },
+    {
+      "zipcode_id": 77150,
+      "zipcode": 77150
+    },
+    {
+      "zipcode_id": 77130,
+      "zipcode": 77130
+    },
+    {
+      "zipcode_id": 77140,
+      "zipcode": 77140
+    },
+    {
+      "zipcode_id": 77230,
+      "zipcode": 77230
+    },
+    {
+      "zipcode_id": 77190,
+      "zipcode": 77190
+    },
+    {
+      "zipcode_id": 77170,
+      "zipcode": 77170
+    },
+    {
+      "zipcode_id": 77120,
+      "zipcode": 77120
+    },
+    {
+      "zipcode_id": 77120,
+      "zipcode": 77120
+    },
+    {
+      "zipcode_id": 77160,
+      "zipcode": 77160
+    },
+    {
+      "zipcode_id": 77220,
+      "zipcode": 77220
+    },
+    {
+      "zipcode_id": 77110,
+      "zipcode": 77110
+    },
+    {
+      "zipcode_id": 77180,
+      "zipcode": 77180
+    },
+    {
+      "zipcode_id": 80000,
+      "zipcode": 80000
+    },
+    {
+      "zipcode_id": 80280,
+      "zipcode": 80280
+    },
+    {
+      "zipcode_id": 80330,
+      "zipcode": 80330
+    },
+    {
+      "zipcode_id": 80000,
+      "zipcode": 80000
+    },
+    {
+      "zipcode_id": 80290,
+      "zipcode": 80290
+    },
+    {
+      "zipcode_id": 80320,
+      "zipcode": 80320
+    },
+    {
+      "zipcode_id": 80230,
+      "zipcode": 80230
+    },
+    {
+      "zipcode_id": 80150,
+      "zipcode": 80150
+    },
+    {
+      "zipcode_id": 80250,
+      "zipcode": 80250
+    },
+    {
+      "zipcode_id": 80250,
+      "zipcode": 80250
+    },
+    {
+      "zipcode_id": 80260,
+      "zipcode": 80260
+    },
+    {
+      "zipcode_id": 80260,
+      "zipcode": 80260
+    },
+    {
+      "zipcode_id": 80150,
+      "zipcode": 80150
+    },
+    {
+      "zipcode_id": 80270,
+      "zipcode": 80270
+    },
+    {
+      "zipcode_id": 80190,
+      "zipcode": 80190
+    },
+    {
+      "zipcode_id": 80180,
+      "zipcode": 80180
+    },
+    {
+      "zipcode_id": 80160,
+      "zipcode": 80160
+    },
+    {
+      "zipcode_id": 80110,
+      "zipcode": 80110
+    },
+    {
+      "zipcode_id": 80110,
+      "zipcode": 80110
+    },
+    {
+      "zipcode_id": 80310,
+      "zipcode": 80310
+    },
+    {
+      "zipcode_id": 80310,
+      "zipcode": 80310
+    },
+    {
+      "zipcode_id": 80220,
+      "zipcode": 80220
+    },
+    {
+      "zipcode_id": 80220,
+      "zipcode": 80220
+    },
+    {
+      "zipcode_id": 80240,
+      "zipcode": 80240
+    },
+    {
+      "zipcode_id": 80140,
+      "zipcode": 80140
+    },
+    {
+      "zipcode_id": 80130,
+      "zipcode": 80130
+    },
+    {
+      "zipcode_id": 80350,
+      "zipcode": 80350
+    },
+    {
+      "zipcode_id": 80120,
+      "zipcode": 80120
+    },
+    {
+      "zipcode_id": 80340,
+      "zipcode": 80340
+    },
+    {
+      "zipcode_id": 80210,
+      "zipcode": 80210
+    },
+    {
+      "zipcode_id": 80170,
+      "zipcode": 80170
+    },
+    {
+      "zipcode_id": 80360,
+      "zipcode": 80360
+    },
+    {
+      "zipcode_id": 80290,
+      "zipcode": 80290
+    },
+    {
+      "zipcode_id": 80350,
+      "zipcode": 80350
+    },
+    {
+      "zipcode_id": 81000,
+      "zipcode": 81000
+    },
+    {
+      "zipcode_id": 81140,
+      "zipcode": 81140
+    },
+    {
+      "zipcode_id": 81150,
+      "zipcode": 81150
+    },
+    {
+      "zipcode_id": 81120,
+      "zipcode": 81120
+    },
+    {
+      "zipcode_id": 81170,
+      "zipcode": 81170
+    },
+    {
+      "zipcode_id": 81110,
+      "zipcode": 81110
+    },
+    {
+      "zipcode_id": 81160,
+      "zipcode": 81160
+    },
+    {
+      "zipcode_id": 81190,
+      "zipcode": 81190
+    },
+    {
+      "zipcode_id": 81130,
+      "zipcode": 81130
+    },
+    {
+      "zipcode_id": 82000,
+      "zipcode": 82000
+    },
+    {
+      "zipcode_id": 82160,
+      "zipcode": 82160
+    },
+    {
+      "zipcode_id": 83000,
+      "zipcode": 83000
+    },
+    {
+      "zipcode_id": 82170,
+      "zipcode": 82170
+    },
+    {
+      "zipcode_id": 82130,
+      "zipcode": 82130
+    },
+    {
+      "zipcode_id": 82140,
+      "zipcode": 82140
+    },
+    {
+      "zipcode_id": 82110,
+      "zipcode": 82110
+    },
+    {
+      "zipcode_id": 82110,
+      "zipcode": 82110
+    },
+    {
+      "zipcode_id": 82190,
+      "zipcode": 82190
+    },
+    {
+      "zipcode_id": 82190,
+      "zipcode": 82190
+    },
+    {
+      "zipcode_id": 82150,
+      "zipcode": 82150
+    },
+    {
+      "zipcode_id": 82180,
+      "zipcode": 82180
+    },
+    {
+      "zipcode_id": 82120,
+      "zipcode": 82120
+    },
+    {
+      "zipcode_id": 82120,
+      "zipcode": 82120
+    },
+    {
+      "zipcode_id": 82210,
+      "zipcode": 82210
+    },
+    {
+      "zipcode_id": 83130,
+      "zipcode": 83130
+    },
+    {
+      "zipcode_id": 83100,
+      "zipcode": 83100
+    },
+    {
+      "zipcode_id": 83120,
+      "zipcode": 83120
+    },
+    {
+      "zipcode_id": 83150,
+      "zipcode": 83150
+    },
+    {
+      "zipcode_id": 83110,
+      "zipcode": 83110
+    },
+    {
+      "zipcode_id": 84000,
+      "zipcode": 84000
+    },
+    {
+      "zipcode_id": 84100,
+      "zipcode": 84100
+    },
+    {
+      "zipcode_id": 84290,
+      "zipcode": 84290
+    },
+    {
+      "zipcode_id": 84160,
+      "zipcode": 84160
+    },
+    {
+      "zipcode_id": 84160,
+      "zipcode": 84160
+    },
+    {
+      "zipcode_id": 84340,
+      "zipcode": 84340
+    },
+    {
+      "zipcode_id": 84220,
+      "zipcode": 84220
+    },
+    {
+      "zipcode_id": 84340,
+      "zipcode": 84340
+    },
+    {
+      "zipcode_id": 84140,
+      "zipcode": 84140
+    },
+    {
+      "zipcode_id": 84220,
+      "zipcode": 84220
+    },
+    {
+      "zipcode_id": 84140,
+      "zipcode": 84140
+    },
+    {
+      "zipcode_id": 84310,
+      "zipcode": 84310
+    },
+    {
+      "zipcode_id": 84320,
+      "zipcode": 84320
+    },
+    {
+      "zipcode_id": 84330,
+      "zipcode": 84330
+    },
+    {
+      "zipcode_id": 84280,
+      "zipcode": 84280
+    },
+    {
+      "zipcode_id": 84360,
+      "zipcode": 84360
+    },
+    {
+      "zipcode_id": 84110,
+      "zipcode": 84110
+    },
+    {
+      "zipcode_id": 84170,
+      "zipcode": 84170
+    },
+    {
+      "zipcode_id": 84180,
+      "zipcode": 84180
+    },
+    {
+      "zipcode_id": 84230,
+      "zipcode": 84230
+    },
+    {
+      "zipcode_id": 84250,
+      "zipcode": 84250
+    },
+    {
+      "zipcode_id": 84150,
+      "zipcode": 84150
+    },
+    {
+      "zipcode_id": 84120,
+      "zipcode": 84120
+    },
+    {
+      "zipcode_id": 84270,
+      "zipcode": 84270
+    },
+    {
+      "zipcode_id": 84120,
+      "zipcode": 84120
+    },
+    {
+      "zipcode_id": 84240,
+      "zipcode": 84240
+    },
+    {
+      "zipcode_id": 84240,
+      "zipcode": 84240
+    },
+    {
+      "zipcode_id": 84260,
+      "zipcode": 84260
+    },
+    {
+      "zipcode_id": 84210,
+      "zipcode": 84210
+    },
+    {
+      "zipcode_id": 84190,
+      "zipcode": 84190
+    },
+    {
+      "zipcode_id": 84130,
+      "zipcode": 84130
+    },
+    {
+      "zipcode_id": 84350,
+      "zipcode": 84350
+    },
+    {
+      "zipcode_id": 84370,
+      "zipcode": 84370
+    },
+    {
+      "zipcode_id": 85000,
+      "zipcode": 85000
+    },
+    {
+      "zipcode_id": 85130,
+      "zipcode": 85130
+    },
+    {
+      "zipcode_id": 85120,
+      "zipcode": 85120
+    },
+    {
+      "zipcode_id": 85110,
+      "zipcode": 85110
+    },
+    {
+      "zipcode_id": 86000,
+      "zipcode": 86000
+    },
+    {
+      "zipcode_id": 86120,
+      "zipcode": 86120
+    },
+    {
+      "zipcode_id": 86000,
+      "zipcode": 86000
+    },
+    {
+      "zipcode_id": 86120,
+      "zipcode": 86120
+    },
+    {
+      "zipcode_id": 86190,
+      "zipcode": 86190
+    },
+    {
+      "zipcode_id": 86190,
+      "zipcode": 86190
+    },
+    {
+      "zipcode_id": 86100,
+      "zipcode": 86100
+    },
+    {
+      "zipcode_id": 86140,
+      "zipcode": 86140
+    },
+    {
+      "zipcode_id": 86140,
+      "zipcode": 86140
+    },
+    {
+      "zipcode_id": 86160,
+      "zipcode": 86160
+    },
+    {
+      "zipcode_id": 86230,
+      "zipcode": 86230
+    },
+    {
+      "zipcode_id": 86210,
+      "zipcode": 86210
+    },
+    {
+      "zipcode_id": 86110,
+      "zipcode": 86110
+    },
+    {
+      "zipcode_id": 86110,
+      "zipcode": 86110
+    },
+    {
+      "zipcode_id": 86150,
+      "zipcode": 86150
+    },
+    {
+      "zipcode_id": 86150,
+      "zipcode": 86150
+    },
+    {
+      "zipcode_id": 86170,
+      "zipcode": 86170
+    },
+    {
+      "zipcode_id": 86180,
+      "zipcode": 86180
+    },
+    {
+      "zipcode_id": 86130,
+      "zipcode": 86130
+    },
+    {
+      "zipcode_id": 86220,
+      "zipcode": 86220
+    },
+    {
+      "zipcode_id": 90000,
+      "zipcode": 90000
+    },
+    {
+      "zipcode_id": 90100,
+      "zipcode": 90100
+    },
+    {
+      "zipcode_id": 90190,
+      "zipcode": 90190
+    },
+    {
+      "zipcode_id": 90130,
+      "zipcode": 90130
+    },
+    {
+      "zipcode_id": 90160,
+      "zipcode": 90160
+    },
+    {
+      "zipcode_id": 90150,
+      "zipcode": 90150
+    },
+    {
+      "zipcode_id": 90260,
+      "zipcode": 90260
+    },
+    {
+      "zipcode_id": 90150,
+      "zipcode": 90150
+    },
+    {
+      "zipcode_id": 90260,
+      "zipcode": 90260
+    },
+    {
+      "zipcode_id": 90210,
+      "zipcode": 90210
+    },
+    {
+      "zipcode_id": 90140,
+      "zipcode": 90140
+    },
+    {
+      "zipcode_id": 90270,
+      "zipcode": 90270
+    },
+    {
+      "zipcode_id": 90180,
+      "zipcode": 90180
+    },
+    {
+      "zipcode_id": 90180,
+      "zipcode": 90180
+    },
+    {
+      "zipcode_id": 90220,
+      "zipcode": 90220
+    },
+    {
+      "zipcode_id": 90120,
+      "zipcode": 90120
+    },
+    {
+      "zipcode_id": 90170,
+      "zipcode": 90170
+    },
+    {
+      "zipcode_id": 90240,
+      "zipcode": 90240
+    },
+    {
+      "zipcode_id": 90120,
+      "zipcode": 90120
+    },
+    {
+      "zipcode_id": 90320,
+      "zipcode": 90320
+    },
+    {
+      "zipcode_id": 90110,
+      "zipcode": 90110
+    },
+    {
+      "zipcode_id": 90110,
+      "zipcode": 90110
+    },
+    {
+      "zipcode_id": 90112,
+      "zipcode": 90112
+    },
+    {
+      "zipcode_id": 90250,
+      "zipcode": 90250
+    },
+    {
+      "zipcode_id": 90230,
+      "zipcode": 90230
+    },
+    {
+      "zipcode_id": 90310,
+      "zipcode": 90310
+    },
+    {
+      "zipcode_id": 90220,
+      "zipcode": 90220
+    },
+    {
+      "zipcode_id": 90280,
+      "zipcode": 90280
+    },
+    {
+      "zipcode_id": 90330,
+      "zipcode": 90330
+    },
+    {
+      "zipcode_id": 90115,
+      "zipcode": 90115
+    },
+    {
+      "zipcode_id": 90230,
+      "zipcode": 90230
+    },
+    {
+      "zipcode_id": 91000,
+      "zipcode": 91000
+    },
+    {
+      "zipcode_id": 91140,
+      "zipcode": 91140
+    },
+    {
+      "zipcode_id": 91000,
+      "zipcode": 91000
+    },
+    {
+      "zipcode_id": 91110,
+      "zipcode": 91110
+    },
+    {
+      "zipcode_id": 91160,
+      "zipcode": 91160
+    },
+    {
+      "zipcode_id": 91130,
+      "zipcode": 91130
+    },
+    {
+      "zipcode_id": 91150,
+      "zipcode": 91150
+    },
+    {
+      "zipcode_id": 91110,
+      "zipcode": 91110
+    },
+    {
+      "zipcode_id": 91120,
+      "zipcode": 91120
+    },
+    {
+      "zipcode_id": 92000,
+      "zipcode": 92000
+    },
+    {
+      "zipcode_id": 92170,
+      "zipcode": 92170
+    },
+    {
+      "zipcode_id": 92190,
+      "zipcode": 92190
+    },
+    {
+      "zipcode_id": 92110,
+      "zipcode": 92110
+    },
+    {
+      "zipcode_id": 92140,
+      "zipcode": 92140
+    },
+    {
+      "zipcode_id": 92120,
+      "zipcode": 92120
+    },
+    {
+      "zipcode_id": 92180,
+      "zipcode": 92180
+    },
+    {
+      "zipcode_id": 92150,
+      "zipcode": 92150
+    },
+    {
+      "zipcode_id": 92130,
+      "zipcode": 92130
+    },
+    {
+      "zipcode_id": 92210,
+      "zipcode": 92210
+    },
+    {
+      "zipcode_id": 92220,
+      "zipcode": 92220
+    },
+    {
+      "zipcode_id": 92160,
+      "zipcode": 92160
+    },
+    {
+      "zipcode_id": 93000,
+      "zipcode": 93000
+    },
+    {
+      "zipcode_id": 93180,
+      "zipcode": 93180
+    },
+    {
+      "zipcode_id": 93130,
+      "zipcode": 93130
+    },
+    {
+      "zipcode_id": 93160,
+      "zipcode": 93160
+    },
+    {
+      "zipcode_id": 93110,
+      "zipcode": 93110
+    },
+    {
+      "zipcode_id": 93150,
+      "zipcode": 93150
+    },
+    {
+      "zipcode_id": 93120,
+      "zipcode": 93120
+    },
+    {
+      "zipcode_id": 93190,
+      "zipcode": 93190
+    },
+    {
+      "zipcode_id": 93170,
+      "zipcode": 93170
+    },
+    {
+      "zipcode_id": 93140,
+      "zipcode": 93140
+    },
+    {
+      "zipcode_id": 93140,
+      "zipcode": 93140
+    },
+    {
+      "zipcode_id": 93160,
+      "zipcode": 93160
+    },
+    {
+      "zipcode_id": 93210,
+      "zipcode": 93210
+    },
+    {
+      "zipcode_id": 94000,
+      "zipcode": 94000
+    },
+    {
+      "zipcode_id": 94120,
+      "zipcode": 94120
+    },
+    {
+      "zipcode_id": 94180,
+      "zipcode": 94180
+    },
+    {
+      "zipcode_id": 94170,
+      "zipcode": 94170
+    },
+    {
+      "zipcode_id": 94130,
+      "zipcode": 94130
+    },
+    {
+      "zipcode_id": 94130,
+      "zipcode": 94130
+    },
+    {
+      "zipcode_id": 94190,
+      "zipcode": 94190
+    },
+    {
+      "zipcode_id": 94190,
+      "zipcode": 94190
+    },
+    {
+      "zipcode_id": 94140,
+      "zipcode": 94140
+    },
+    {
+      "zipcode_id": 94140,
+      "zipcode": 94140
+    },
+    {
+      "zipcode_id": 94110,
+      "zipcode": 94110
+    },
+    {
+      "zipcode_id": 94220,
+      "zipcode": 94220
+    },
+    {
+      "zipcode_id": 94150,
+      "zipcode": 94150
+    },
+    {
+      "zipcode_id": 94160,
+      "zipcode": 94160
+    },
+    {
+      "zipcode_id": 94230,
+      "zipcode": 94230
+    },
+    {
+      "zipcode_id": 95000,
+      "zipcode": 95000
+    },
+    {
+      "zipcode_id": 95160,
+      "zipcode": 95160
+    },
+    {
+      "zipcode_id": 95110,
+      "zipcode": 95110
+    },
+    {
+      "zipcode_id": 95130,
+      "zipcode": 95130
+    },
+    {
+      "zipcode_id": 95150,
+      "zipcode": 95150
+    },
+    {
+      "zipcode_id": 95130,
+      "zipcode": 95130
+    },
+    {
+      "zipcode_id": 95170,
+      "zipcode": 95170
+    },
+    {
+      "zipcode_id": 95120,
+      "zipcode": 95120
+    },
+    {
+      "zipcode_id": 95140,
+      "zipcode": 95140
+    },
+    {
+      "zipcode_id": 96000,
+      "zipcode": 96000
+    },
+    {
+      "zipcode_id": 96110,
+      "zipcode": 96110
+    },
+    {
+      "zipcode_id": 96170,
+      "zipcode": 96170
+    },
+    {
+      "zipcode_id": 96180,
+      "zipcode": 96180
+    },
+    {
+      "zipcode_id": 96130,
+      "zipcode": 96130
+    },
+    {
+      "zipcode_id": 96220,
+      "zipcode": 96220
+    },
+    {
+      "zipcode_id": 96150,
+      "zipcode": 96150
+    },
+    {
+      "zipcode_id": 96210,
+      "zipcode": 96210
+    },
+    {
+      "zipcode_id": 96160,
+      "zipcode": 96160
+    },
+    {
+      "zipcode_id": 96190,
+      "zipcode": 96190
+    },
+    {
+      "zipcode_id": 96120,
+      "zipcode": 96120
+    },
+    {
+      "zipcode_id": 96140,
+      "zipcode": 96140
+    }
+  ]

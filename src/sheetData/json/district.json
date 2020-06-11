@@ -1,0 +1,5570 @@
+[
+  {
+    "district_id": 1001,
+    "district_th": "พระนคร",
+    "district_en": "Phra Nakhon",
+    "province_id": 10
+  },
+  {
+    "district_id": 1002,
+    "district_th": "ดุสิต",
+    "district_en": "Dusit",
+    "province_id": 10
+  },
+  {
+    "district_id": 1003,
+    "district_th": "หนองจอก",
+    "district_en": "Nong Chok",
+    "province_id": 10
+  },
+  {
+    "district_id": 1004,
+    "district_th": "บางรัก",
+    "district_en": "Bang Rak",
+    "province_id": 10
+  },
+  {
+    "district_id": 1005,
+    "district_th": "บางเขน",
+    "district_en": "Bang Khen",
+    "province_id": 10
+  },
+  {
+    "district_id": 1006,
+    "district_th": "บางกะปิ",
+    "district_en": "Bang Kapi",
+    "province_id": 10
+  },
+  {
+    "district_id": 1007,
+    "district_th": "ปทุมวัน",
+    "district_en": "Pathum Wan",
+    "province_id": 10
+  },
+  {
+    "district_id": 1008,
+    "district_th": "ป้อมปราบศัตรูพ่าย",
+    "district_en": "Pom Prap Sattru Phai",
+    "province_id": 10
+  },
+  {
+    "district_id": 1009,
+    "district_th": "พระโขนง",
+    "district_en": "Phra Khanong",
+    "province_id": 10
+  },
+  {
+    "district_id": 1010,
+    "district_th": "มีนบุรี",
+    "district_en": "Min Buri",
+    "province_id": 10
+  },
+  {
+    "district_id": 1011,
+    "district_th": "ลาดกระบัง",
+    "district_en": "Lat Krabang",
+    "province_id": 10
+  },
+  {
+    "district_id": 1012,
+    "district_th": "ยานนาวา",
+    "district_en": "Yan Nawa",
+    "province_id": 10
+  },
+  {
+    "district_id": 1013,
+    "district_th": "สัมพันธวงศ์",
+    "district_en": "Samphanthawong",
+    "province_id": 10
+  },
+  {
+    "district_id": 1014,
+    "district_th": "พญาไท",
+    "district_en": "Phaya Thai",
+    "province_id": 10
+  },
+  {
+    "district_id": 1015,
+    "district_th": "ธนบุรี",
+    "district_en": "Thon Buri",
+    "province_id": 10
+  },
+  {
+    "district_id": 1016,
+    "district_th": "บางกอกใหญ่",
+    "district_en": "Bangkok Yai",
+    "province_id": 10
+  },
+  {
+    "district_id": 1017,
+    "district_th": "ห้วยขวาง",
+    "district_en": "Huai Khwang",
+    "province_id": 10
+  },
+  {
+    "district_id": 1018,
+    "district_th": "คลองสาน",
+    "district_en": "Khlong San",
+    "province_id": 10
+  },
+  {
+    "district_id": 1019,
+    "district_th": "ตลิ่งชัน",
+    "district_en": "Taling Chan",
+    "province_id": 10
+  },
+  {
+    "district_id": 1020,
+    "district_th": "บางกอกน้อย",
+    "district_en": "Bangkok Noi",
+    "province_id": 10
+  },
+  {
+    "district_id": 1021,
+    "district_th": "บางขุนเทียน",
+    "district_en": "Bang Khun Thian",
+    "province_id": 10
+  },
+  {
+    "district_id": 1022,
+    "district_th": "ภาษีเจริญ",
+    "district_en": "Phasi Charoen",
+    "province_id": 10
+  },
+  {
+    "district_id": 1023,
+    "district_th": "หนองแขม",
+    "district_en": "Nong Khaem",
+    "province_id": 10
+  },
+  {
+    "district_id": 1024,
+    "district_th": "ราษฎร์บูรณะ",
+    "district_en": "Rat Burana",
+    "province_id": 10
+  },
+  {
+    "district_id": 1025,
+    "district_th": "บางพลัด",
+    "district_en": "Bang Phlat",
+    "province_id": 10
+  },
+  {
+    "district_id": 1026,
+    "district_th": "ดินแดง",
+    "district_en": "Din Daeng",
+    "province_id": 10
+  },
+  {
+    "district_id": 1027,
+    "district_th": "บึงกุ่ม",
+    "district_en": "Bueng Kum",
+    "province_id": 10
+  },
+  {
+    "district_id": 1028,
+    "district_th": "สาทร",
+    "district_en": "Sathon",
+    "province_id": 10
+  },
+  {
+    "district_id": 1029,
+    "district_th": "บางซื่อ",
+    "district_en": "Bang Sue",
+    "province_id": 10
+  },
+  {
+    "district_id": 1030,
+    "district_th": "จตุจักร",
+    "district_en": "Chatuchak",
+    "province_id": 10
+  },
+  {
+    "district_id": 1031,
+    "district_th": "บางคอแหลม",
+    "district_en": "Bang Kho Laem",
+    "province_id": 10
+  },
+  {
+    "district_id": 1032,
+    "district_th": "ประเวศ",
+    "district_en": "Prawet",
+    "province_id": 10
+  },
+  {
+    "district_id": 1033,
+    "district_th": "คลองเตย",
+    "district_en": "Khlong Toei",
+    "province_id": 10
+  },
+  {
+    "district_id": 1034,
+    "district_th": "สวนหลวง",
+    "district_en": "Suan Luang",
+    "province_id": 10
+  },
+  {
+    "district_id": 1035,
+    "district_th": "จอมทอง",
+    "district_en": "Chom Thong",
+    "province_id": 10
+  },
+  {
+    "district_id": 1036,
+    "district_th": "ดอนเมือง",
+    "district_en": "Don Mueang",
+    "province_id": 10
+  },
+  {
+    "district_id": 1037,
+    "district_th": "ราชเทวี",
+    "district_en": "Ratchathewi",
+    "province_id": 10
+  },
+  {
+    "district_id": 1038,
+    "district_th": "ลาดพร้าว",
+    "district_en": "Lat Phrao",
+    "province_id": 10
+  },
+  {
+    "district_id": 1039,
+    "district_th": "วัฒนา",
+    "district_en": "Vadhana",
+    "province_id": 10
+  },
+  {
+    "district_id": 1040,
+    "district_th": "บางแค",
+    "district_en": "Bang Khae",
+    "province_id": 10
+  },
+  {
+    "district_id": 1041,
+    "district_th": "หลักสี่",
+    "district_en": "Lak Si",
+    "province_id": 10
+  },
+  {
+    "district_id": 1042,
+    "district_th": "สายไหม",
+    "district_en": "Sai Mai",
+    "province_id": 10
+  },
+  {
+    "district_id": 1043,
+    "district_th": "คันนายาว",
+    "district_en": "Khan Na Yao",
+    "province_id": 10
+  },
+  {
+    "district_id": 1044,
+    "district_th": "สะพานสูง",
+    "district_en": "Saphan Sung",
+    "province_id": 10
+  },
+  {
+    "district_id": 1045,
+    "district_th": "วังทองหลาง",
+    "district_en": "Wang Thonglang",
+    "province_id": 10
+  },
+  {
+    "district_id": 1046,
+    "district_th": "คลองสามวา",
+    "district_en": "Khlong Sam Wa",
+    "province_id": 10
+  },
+  {
+    "district_id": 1047,
+    "district_th": "บางนา",
+    "district_en": "Bang Na",
+    "province_id": 10
+  },
+  {
+    "district_id": 1048,
+    "district_th": "ทวีวัฒนา",
+    "district_en": "Thawi Watthana",
+    "province_id": 10
+  },
+  {
+    "district_id": 1049,
+    "district_th": "ทุ่งครุ",
+    "district_en": "Thung Khru",
+    "province_id": 10
+  },
+  {
+    "district_id": 1050,
+    "district_th": "บางบอน",
+    "district_en": "Bang Bon",
+    "province_id": 10
+  },
+  {
+    "district_id": 1101,
+    "district_th": "เมืองสมุทรปราการ",
+    "district_en": "Mueang Samut Prakan",
+    "province_id": 11
+  },
+  {
+    "district_id": 1102,
+    "district_th": "บางบ่อ",
+    "district_en": "Bang Bo",
+    "province_id": 11
+  },
+  {
+    "district_id": 1103,
+    "district_th": "บางพลี",
+    "district_en": "Bang Phli",
+    "province_id": 11
+  },
+  {
+    "district_id": 1104,
+    "district_th": "พระประแดง",
+    "district_en": "Phra Pradaeng",
+    "province_id": 11
+  },
+  {
+    "district_id": 1105,
+    "district_th": "พระสมุทรเจดีย์",
+    "district_en": "Phra Samut Chedi",
+    "province_id": 11
+  },
+  {
+    "district_id": 1106,
+    "district_th": "บางเสาธง",
+    "district_en": "Bang Sao Thong",
+    "province_id": 11
+  },
+  {
+    "district_id": 1201,
+    "district_th": "เมืองนนทบุรี",
+    "district_en": "Mueang Nonthaburi",
+    "province_id": 12
+  },
+  {
+    "district_id": 1202,
+    "district_th": "บางกรวย",
+    "district_en": "Bang Kruai",
+    "province_id": 12
+  },
+  {
+    "district_id": 1203,
+    "district_th": "บางใหญ่",
+    "district_en": "Bang Yai",
+    "province_id": 12
+  },
+  {
+    "district_id": 1204,
+    "district_th": "บางบัวทอง",
+    "district_en": "Bang Bua Thong",
+    "province_id": 12
+  },
+  {
+    "district_id": 1205,
+    "district_th": "ไทรน้อย",
+    "district_en": "Sai Noi",
+    "province_id": 12
+  },
+  {
+    "district_id": 1206,
+    "district_th": "ปากเกร็ด",
+    "district_en": "Pak Kret",
+    "province_id": 12
+  },
+  {
+    "district_id": 1301,
+    "district_th": "เมืองปทุมธานี",
+    "district_en": "Mueang Pathum Thani",
+    "province_id": 13
+  },
+  {
+    "district_id": 1302,
+    "district_th": "คลองหลวง",
+    "district_en": "Khlong Luang",
+    "province_id": 13
+  },
+  {
+    "district_id": 1303,
+    "district_th": "ธัญบุรี",
+    "district_en": "Thanyaburi",
+    "province_id": 13
+  },
+  {
+    "district_id": 1304,
+    "district_th": "หนองเสือ",
+    "district_en": "Nong Suea",
+    "province_id": 13
+  },
+  {
+    "district_id": 1305,
+    "district_th": "ลาดหลุมแก้ว",
+    "district_en": "Lat Lum Kaeo",
+    "province_id": 13
+  },
+  {
+    "district_id": 1306,
+    "district_th": "ลำลูกกา",
+    "district_en": "Lam Luk Ka",
+    "province_id": 13
+  },
+  {
+    "district_id": 1307,
+    "district_th": "สามโคก",
+    "district_en": "Sam Khok",
+    "province_id": 13
+  },
+  {
+    "district_id": 1401,
+    "district_th": "พระนครศรีอยุธยา",
+    "district_en": "Phra Nakhon Si Ayutthaya",
+    "province_id": 14
+  },
+  {
+    "district_id": 1402,
+    "district_th": "ท่าเรือ",
+    "district_en": "Tha Ruea",
+    "province_id": 14
+  },
+  {
+    "district_id": 1403,
+    "district_th": "นครหลวง",
+    "district_en": "Nakhon Luang",
+    "province_id": 14
+  },
+  {
+    "district_id": 1404,
+    "district_th": "บางไทร",
+    "district_en": "Bang Sai",
+    "province_id": 14
+  },
+  {
+    "district_id": 1405,
+    "district_th": "บางบาล",
+    "district_en": "Bang Ban",
+    "province_id": 14
+  },
+  {
+    "district_id": 1406,
+    "district_th": "บางปะอิน",
+    "district_en": "Bang Pa-in",
+    "province_id": 14
+  },
+  {
+    "district_id": 1407,
+    "district_th": "บางปะหัน",
+    "district_en": "Bang Pahan",
+    "province_id": 14
+  },
+  {
+    "district_id": 1408,
+    "district_th": "ผักไห่",
+    "district_en": "Phak Hai",
+    "province_id": 14
+  },
+  {
+    "district_id": 1409,
+    "district_th": "ภาชี",
+    "district_en": "Phachi",
+    "province_id": 14
+  },
+  {
+    "district_id": 1410,
+    "district_th": "ลาดบัวหลวง",
+    "district_en": "Lat Bua Luang",
+    "province_id": 14
+  },
+  {
+    "district_id": 1411,
+    "district_th": "วังน้อย",
+    "district_en": "Wang Noi",
+    "province_id": 14
+  },
+  {
+    "district_id": 1412,
+    "district_th": "เสนา",
+    "district_en": "Sena",
+    "province_id": 14
+  },
+  {
+    "district_id": 1413,
+    "district_th": "บางซ้าย",
+    "district_en": "Bang Sai",
+    "province_id": 14
+  },
+  {
+    "district_id": 1414,
+    "district_th": "อุทัย",
+    "district_en": "Uthai",
+    "province_id": 14
+  },
+  {
+    "district_id": 1415,
+    "district_th": "มหาราช",
+    "district_en": "Maha Rat",
+    "province_id": 14
+  },
+  {
+    "district_id": 1416,
+    "district_th": "บ้านแพรก",
+    "district_en": "Ban Phraek",
+    "province_id": 14
+  },
+  {
+    "district_id": 1501,
+    "district_th": "เมืองอ่างทอง",
+    "district_en": "Mueang Ang Thong",
+    "province_id": 15
+  },
+  {
+    "district_id": 1502,
+    "district_th": "ไชโย",
+    "district_en": "Chaiyo",
+    "province_id": 15
+  },
+  {
+    "district_id": 1503,
+    "district_th": "ป่าโมก",
+    "district_en": "Pa Mok",
+    "province_id": 15
+  },
+  {
+    "district_id": 1504,
+    "district_th": "โพธิ์ทอง",
+    "district_en": "Pho Thong",
+    "province_id": 15
+  },
+  {
+    "district_id": 1505,
+    "district_th": "แสวงหา",
+    "district_en": "Sawaeng Ha",
+    "province_id": 15
+  },
+  {
+    "district_id": 1506,
+    "district_th": "วิเศษชัยชาญ",
+    "district_en": "Wiset Chai Chan",
+    "province_id": 15
+  },
+  {
+    "district_id": 1507,
+    "district_th": "สามโก้",
+    "district_en": "Samko",
+    "province_id": 15
+  },
+  {
+    "district_id": 1601,
+    "district_th": "เมืองลพบุรี",
+    "district_en": "Mueang Lop Buri",
+    "province_id": 16
+  },
+  {
+    "district_id": 1602,
+    "district_th": "พัฒนานิคม",
+    "district_en": "Phatthana Nikhom",
+    "province_id": 16
+  },
+  {
+    "district_id": 1603,
+    "district_th": "โคกสำโรง",
+    "district_en": "Khok Samrong",
+    "province_id": 16
+  },
+  {
+    "district_id": 1604,
+    "district_th": "ชัยบาดาล",
+    "district_en": "Chai Badan",
+    "province_id": 16
+  },
+  {
+    "district_id": 1605,
+    "district_th": "ท่าวุ้ง",
+    "district_en": "Tha Wung",
+    "province_id": 16
+  },
+  {
+    "district_id": 1606,
+    "district_th": "บ้านหมี่",
+    "district_en": "Ban Mi",
+    "province_id": 16
+  },
+  {
+    "district_id": 1607,
+    "district_th": "ท่าหลวง",
+    "district_en": "Tha Luang",
+    "province_id": 16
+  },
+  {
+    "district_id": 1608,
+    "district_th": "สระโบสถ์",
+    "district_en": "Sa Bot",
+    "province_id": 16
+  },
+  {
+    "district_id": 1609,
+    "district_th": "โคกเจริญ",
+    "district_en": "Khok Charoen",
+    "province_id": 16
+  },
+  {
+    "district_id": 1610,
+    "district_th": "ลำสนธิ",
+    "district_en": "Lam Sonthi",
+    "province_id": 16
+  },
+  {
+    "district_id": 1611,
+    "district_th": "หนองม่วง",
+    "district_en": "Nong Muang",
+    "province_id": 16
+  },
+  {
+    "district_id": 1701,
+    "district_th": "เมืองสิงห์บุรี",
+    "district_en": "Mueang Sing Buri",
+    "province_id": 17
+  },
+  {
+    "district_id": 1702,
+    "district_th": "บางระจัน",
+    "district_en": "Bang Rachan",
+    "province_id": 17
+  },
+  {
+    "district_id": 1703,
+    "district_th": "ค่ายบางระจัน",
+    "district_en": "Khai Bang Rachan",
+    "province_id": 17
+  },
+  {
+    "district_id": 1704,
+    "district_th": "พรหมบุรี",
+    "district_en": "Phrom Buri",
+    "province_id": 17
+  },
+  {
+    "district_id": 1705,
+    "district_th": "ท่าช้าง",
+    "district_en": "Tha Chang",
+    "province_id": 17
+  },
+  {
+    "district_id": 1706,
+    "district_th": "อินทร์บุรี",
+    "district_en": "In Buri",
+    "province_id": 17
+  },
+  {
+    "district_id": 1801,
+    "district_th": "เมืองชัยนาท",
+    "district_en": "Mueang Chai Nat",
+    "province_id": 18
+  },
+  {
+    "district_id": 1802,
+    "district_th": "มโนรมย์",
+    "district_en": "Manorom",
+    "province_id": 18
+  },
+  {
+    "district_id": 1803,
+    "district_th": "วัดสิงห์",
+    "district_en": "Wat Sing",
+    "province_id": 18
+  },
+  {
+    "district_id": 1804,
+    "district_th": "สรรพยา",
+    "district_en": "Sapphaya",
+    "province_id": 18
+  },
+  {
+    "district_id": 1805,
+    "district_th": "สรรคบุรี",
+    "district_en": "Sankhaburi",
+    "province_id": 18
+  },
+  {
+    "district_id": 1806,
+    "district_th": "หันคา",
+    "district_en": "Hankha",
+    "province_id": 18
+  },
+  {
+    "district_id": 1807,
+    "district_th": "หนองมะโมง",
+    "district_en": "Nong Mamong",
+    "province_id": 18
+  },
+  {
+    "district_id": 1808,
+    "district_th": "เนินขาม",
+    "district_en": "Noen Kham",
+    "province_id": 18
+  },
+  {
+    "district_id": 1901,
+    "district_th": "เมืองสระบุรี",
+    "district_en": "Mueang Saraburi",
+    "province_id": 19
+  },
+  {
+    "district_id": 1902,
+    "district_th": "แก่งคอย",
+    "district_en": "Kaeng Khoi",
+    "province_id": 19
+  },
+  {
+    "district_id": 1903,
+    "district_th": "หนองแค",
+    "district_en": "Nong Khae",
+    "province_id": 19
+  },
+  {
+    "district_id": 1904,
+    "district_th": "วิหารแดง",
+    "district_en": "Wihan Daeng",
+    "province_id": 19
+  },
+  {
+    "district_id": 1905,
+    "district_th": "หนองแซง",
+    "district_en": "Nong Saeng",
+    "province_id": 19
+  },
+  {
+    "district_id": 1906,
+    "district_th": "บ้านหมอ",
+    "district_en": "Ban Mo",
+    "province_id": 19
+  },
+  {
+    "district_id": 1907,
+    "district_th": "ดอนพุด",
+    "district_en": "Don Phut",
+    "province_id": 19
+  },
+  {
+    "district_id": 1908,
+    "district_th": "หนองโดน",
+    "district_en": "Nong Don",
+    "province_id": 19
+  },
+  {
+    "district_id": 1909,
+    "district_th": "พระพุทธบาท",
+    "district_en": "Phra Phutthabat",
+    "province_id": 19
+  },
+  {
+    "district_id": 1910,
+    "district_th": "เสาไห้",
+    "district_en": "Sao Hai",
+    "province_id": 19
+  },
+  {
+    "district_id": 1911,
+    "district_th": "มวกเหล็ก",
+    "district_en": "Muak Lek",
+    "province_id": 19
+  },
+  {
+    "district_id": 1912,
+    "district_th": "วังม่วง",
+    "district_en": "Wang Muang",
+    "province_id": 19
+  },
+  {
+    "district_id": 1913,
+    "district_th": "เฉลิมพระเกียรติ",
+    "district_en": "Chaloem Phra Kiat",
+    "province_id": 19
+  },
+  {
+    "district_id": 2001,
+    "district_th": "เมืองชลบุรี",
+    "district_en": "Mueang Chon Buri",
+    "province_id": 20
+  },
+  {
+    "district_id": 2002,
+    "district_th": "บ้านบึง",
+    "district_en": "Ban Bueng",
+    "province_id": 20
+  },
+  {
+    "district_id": 2003,
+    "district_th": "หนองใหญ่",
+    "district_en": "Nong Yai",
+    "province_id": 20
+  },
+  {
+    "district_id": 2004,
+    "district_th": "บางละมุง",
+    "district_en": "Bang Lamung",
+    "province_id": 20
+  },
+  {
+    "district_id": 2005,
+    "district_th": "พานทอง",
+    "district_en": "Phan Thong",
+    "province_id": 20
+  },
+  {
+    "district_id": 2006,
+    "district_th": "พนัสนิคม",
+    "district_en": "Phanat Nikhom",
+    "province_id": 20
+  },
+  {
+    "district_id": 2007,
+    "district_th": "ศรีราชา",
+    "district_en": "Si Racha",
+    "province_id": 20
+  },
+  {
+    "district_id": 2008,
+    "district_th": "เกาะสีชัง",
+    "district_en": "Ko Sichang",
+    "province_id": 20
+  },
+  {
+    "district_id": 2009,
+    "district_th": "สัตหีบ",
+    "district_en": "Sattahip",
+    "province_id": 20
+  },
+  {
+    "district_id": 2010,
+    "district_th": "บ่อทอง",
+    "district_en": "Bo Thong",
+    "province_id": 20
+  },
+  {
+    "district_id": 2011,
+    "district_th": "เกาะจันทร์",
+    "district_en": "Ko Chan",
+    "province_id": 20
+  },
+  {
+    "district_id": 2101,
+    "district_th": "เมืองระยอง",
+    "district_en": "Mueang Rayong",
+    "province_id": 21
+  },
+  {
+    "district_id": 2102,
+    "district_th": "บ้านฉาง",
+    "district_en": "Ban Chang",
+    "province_id": 21
+  },
+  {
+    "district_id": 2103,
+    "district_th": "แกลง",
+    "district_en": "Klaeng",
+    "province_id": 21
+  },
+  {
+    "district_id": 2104,
+    "district_th": "วังจันทร์",
+    "district_en": "Wang Chan",
+    "province_id": 21
+  },
+  {
+    "district_id": 2105,
+    "district_th": "บ้านค่าย",
+    "district_en": "Ban Khai",
+    "province_id": 21
+  },
+  {
+    "district_id": 2106,
+    "district_th": "ปลวกแดง",
+    "district_en": "Pluak Daeng",
+    "province_id": 21
+  },
+  {
+    "district_id": 2107,
+    "district_th": "เขาชะเมา",
+    "district_en": "Khao Chamao",
+    "province_id": 21
+  },
+  {
+    "district_id": 2108,
+    "district_th": "นิคมพัฒนา",
+    "district_en": "Nikhom Phatthana",
+    "province_id": 21
+  },
+  {
+    "district_id": 2201,
+    "district_th": "เมืองจันทบุรี",
+    "district_en": "Mueang Chanthaburi",
+    "province_id": 22
+  },
+  {
+    "district_id": 2202,
+    "district_th": "ขลุง",
+    "district_en": "Khlung",
+    "province_id": 22
+  },
+  {
+    "district_id": 2203,
+    "district_th": "ท่าใหม่",
+    "district_en": "Tha Mai",
+    "province_id": 22
+  },
+  {
+    "district_id": 2204,
+    "district_th": "โป่งน้ำร้อน",
+    "district_en": "Pong Nam Ron",
+    "province_id": 22
+  },
+  {
+    "district_id": 2205,
+    "district_th": "มะขาม",
+    "district_en": "Makham",
+    "province_id": 22
+  },
+  {
+    "district_id": 2206,
+    "district_th": "แหลมสิงห์",
+    "district_en": "Laem Sing",
+    "province_id": 22
+  },
+  {
+    "district_id": 2207,
+    "district_th": "สอยดาว",
+    "district_en": "Soi Dao",
+    "province_id": 22
+  },
+  {
+    "district_id": 2208,
+    "district_th": "แก่งหางแมว",
+    "district_en": "Kaeng Hang Maeo",
+    "province_id": 22
+  },
+  {
+    "district_id": 2209,
+    "district_th": "นายายอาม",
+    "district_en": "Na Yai Am",
+    "province_id": 22
+  },
+  {
+    "district_id": 2210,
+    "district_th": "เขาคิชฌกูฏ",
+    "district_en": "Khao Khitchakut",
+    "province_id": 22
+  },
+  {
+    "district_id": 2301,
+    "district_th": "เมืองตราด",
+    "district_en": "Mueang Trat",
+    "province_id": 23
+  },
+  {
+    "district_id": 2302,
+    "district_th": "คลองใหญ่",
+    "district_en": "Khlong Yai",
+    "province_id": 23
+  },
+  {
+    "district_id": 2303,
+    "district_th": "เขาสมิง",
+    "district_en": "Khao Saming",
+    "province_id": 23
+  },
+  {
+    "district_id": 2304,
+    "district_th": "บ่อไร่",
+    "district_en": "Bo Rai",
+    "province_id": 23
+  },
+  {
+    "district_id": 2305,
+    "district_th": "แหลมงอบ",
+    "district_en": "Laem Ngop",
+    "province_id": 23
+  },
+  {
+    "district_id": 2306,
+    "district_th": "เกาะกูด",
+    "district_en": "Ko Kut",
+    "province_id": 23
+  },
+  {
+    "district_id": 2307,
+    "district_th": "เกาะช้าง",
+    "district_en": "Ko Chang",
+    "province_id": 23
+  },
+  {
+    "district_id": 2401,
+    "district_th": "เมืองฉะเชิงเทรา",
+    "district_en": "Mueang Chachoengsao",
+    "province_id": 24
+  },
+  {
+    "district_id": 2402,
+    "district_th": "บางคล้า",
+    "district_en": "Bang Khla",
+    "province_id": 24
+  },
+  {
+    "district_id": 2403,
+    "district_th": "บางน้ำเปรี้ยว",
+    "district_en": "Bang Nam Priao",
+    "province_id": 24
+  },
+  {
+    "district_id": 2404,
+    "district_th": "บางปะกง",
+    "district_en": "Bang Pakong",
+    "province_id": 24
+  },
+  {
+    "district_id": 2405,
+    "district_th": "บ้านโพธิ์",
+    "district_en": "Ban Pho",
+    "province_id": 24
+  },
+  {
+    "district_id": 2406,
+    "district_th": "พนมสารคาม",
+    "district_en": "Phanom Sarakham",
+    "province_id": 24
+  },
+  {
+    "district_id": 2407,
+    "district_th": "ราชสาส์น",
+    "district_en": "Ratchasan",
+    "province_id": 24
+  },
+  {
+    "district_id": 2408,
+    "district_th": "สนามชัยเขต",
+    "district_en": "Sanam Chai Khet",
+    "province_id": 24
+  },
+  {
+    "district_id": 2409,
+    "district_th": "แปลงยาว",
+    "district_en": "Plaeng Yao",
+    "province_id": 24
+  },
+  {
+    "district_id": 2410,
+    "district_th": "ท่าตะเกียบ",
+    "district_en": "Tha Takiap",
+    "province_id": 24
+  },
+  {
+    "district_id": 2411,
+    "district_th": "คลองเขื่อน",
+    "district_en": "Khlong Khuean",
+    "province_id": 24
+  },
+  {
+    "district_id": 2501,
+    "district_th": "เมืองปราจีนบุรี",
+    "district_en": "Mueang Prachin Buri",
+    "province_id": 25
+  },
+  {
+    "district_id": 2502,
+    "district_th": "กบินทร์บุรี",
+    "district_en": "Kabin Buri",
+    "province_id": 25
+  },
+  {
+    "district_id": 2503,
+    "district_th": "นาดี",
+    "district_en": "Na Di",
+    "province_id": 25
+  },
+  {
+    "district_id": 2506,
+    "district_th": "บ้านสร้าง",
+    "district_en": "Ban Sang",
+    "province_id": 25
+  },
+  {
+    "district_id": 2507,
+    "district_th": "ประจันตคาม",
+    "district_en": "Prachantakham",
+    "province_id": 25
+  },
+  {
+    "district_id": 2508,
+    "district_th": "ศรีมหาโพธิ",
+    "district_en": "Si Maha Phot",
+    "province_id": 25
+  },
+  {
+    "district_id": 2509,
+    "district_th": "ศรีมโหสถ",
+    "district_en": "Si Mahosot",
+    "province_id": 25
+  },
+  {
+    "district_id": 2601,
+    "district_th": "เมืองนครนายก",
+    "district_en": "Mueang Nakhon Nayok",
+    "province_id": 26
+  },
+  {
+    "district_id": 2602,
+    "district_th": "ปากพลี",
+    "district_en": "Pak Phli",
+    "province_id": 26
+  },
+  {
+    "district_id": 2603,
+    "district_th": "บ้านนา",
+    "district_en": "Ban Na",
+    "province_id": 26
+  },
+  {
+    "district_id": 2604,
+    "district_th": "องครักษ์",
+    "district_en": "Ongkharak",
+    "province_id": 26
+  },
+  {
+    "district_id": 2701,
+    "district_th": "เมืองสระแก้ว",
+    "district_en": "Mueang Sa Kaeo",
+    "province_id": 27
+  },
+  {
+    "district_id": 2702,
+    "district_th": "คลองหาด",
+    "district_en": "Khlong Hat",
+    "province_id": 27
+  },
+  {
+    "district_id": 2703,
+    "district_th": "ตาพระยา",
+    "district_en": "Ta Phraya",
+    "province_id": 27
+  },
+  {
+    "district_id": 2704,
+    "district_th": "วังน้ำเย็น",
+    "district_en": "Wang Nam Yen",
+    "province_id": 27
+  },
+  {
+    "district_id": 2705,
+    "district_th": "วัฒนานคร",
+    "district_en": "Watthana Nakhon",
+    "province_id": 27
+  },
+  {
+    "district_id": 2706,
+    "district_th": "อรัญประเทศ",
+    "district_en": "Aranyaprathet",
+    "province_id": 27
+  },
+  {
+    "district_id": 2707,
+    "district_th": "เขาฉกรรจ์",
+    "district_en": "Khao Chakan",
+    "province_id": 27
+  },
+  {
+    "district_id": 2708,
+    "district_th": "โคกสูง",
+    "district_en": "Khok Sung",
+    "province_id": 27
+  },
+  {
+    "district_id": 2709,
+    "district_th": "วังสมบูรณ์",
+    "district_en": "Wang Sombun",
+    "province_id": 27
+  },
+  {
+    "district_id": 3001,
+    "district_th": "เมืองนครราชสีมา",
+    "district_en": "Mueang Nakhon Ratchasima",
+    "province_id": 30
+  },
+  {
+    "district_id": 3002,
+    "district_th": "ครบุรี",
+    "district_en": "Khon Buri",
+    "province_id": 30
+  },
+  {
+    "district_id": 3003,
+    "district_th": "เสิงสาง",
+    "district_en": "Soeng Sang",
+    "province_id": 30
+  },
+  {
+    "district_id": 3004,
+    "district_th": "คง",
+    "district_en": "Khong",
+    "province_id": 30
+  },
+  {
+    "district_id": 3005,
+    "district_th": "บ้านเหลื่อม",
+    "district_en": "Ban Lueam",
+    "province_id": 30
+  },
+  {
+    "district_id": 3006,
+    "district_th": "จักราช",
+    "district_en": "Chakkarat",
+    "province_id": 30
+  },
+  {
+    "district_id": 3007,
+    "district_th": "โชคชัย",
+    "district_en": "Chok Chai",
+    "province_id": 30
+  },
+  {
+    "district_id": 3008,
+    "district_th": "ด่านขุนทด",
+    "district_en": "Dan Khun Thot",
+    "province_id": 30
+  },
+  {
+    "district_id": 3009,
+    "district_th": "โนนไทย",
+    "district_en": "Non Thai",
+    "province_id": 30
+  },
+  {
+    "district_id": 3010,
+    "district_th": "โนนสูง",
+    "district_en": "Non Sung",
+    "province_id": 30
+  },
+  {
+    "district_id": 3011,
+    "district_th": "ขามสะแกแสง",
+    "district_en": "Kham Sakaesaeng",
+    "province_id": 30
+  },
+  {
+    "district_id": 3012,
+    "district_th": "บัวใหญ่",
+    "district_en": "Bua Yai",
+    "province_id": 30
+  },
+  {
+    "district_id": 3013,
+    "district_th": "ประทาย",
+    "district_en": "Prathai",
+    "province_id": 30
+  },
+  {
+    "district_id": 3014,
+    "district_th": "ปักธงชัย",
+    "district_en": "Pak Thong Chai",
+    "province_id": 30
+  },
+  {
+    "district_id": 3015,
+    "district_th": "พิมาย",
+    "district_en": "Phimai",
+    "province_id": 30
+  },
+  {
+    "district_id": 3016,
+    "district_th": "ห้วยแถลง",
+    "district_en": "Huai Thalaeng",
+    "province_id": 30
+  },
+  {
+    "district_id": 3017,
+    "district_th": "ชุมพวง",
+    "district_en": "Chum Phuang",
+    "province_id": 30
+  },
+  {
+    "district_id": 3018,
+    "district_th": "สูงเนิน",
+    "district_en": "Sung Noen",
+    "province_id": 30
+  },
+  {
+    "district_id": 3019,
+    "district_th": "ขามทะเลสอ",
+    "district_en": "Kham Thale So",
+    "province_id": 30
+  },
+  {
+    "district_id": 3020,
+    "district_th": "สีคิ้ว",
+    "district_en": "Sikhio",
+    "province_id": 30
+  },
+  {
+    "district_id": 3021,
+    "district_th": "ปากช่อง",
+    "district_en": "Pak Chong",
+    "province_id": 30
+  },
+  {
+    "district_id": 3022,
+    "district_th": "หนองบุญมาก",
+    "district_en": "Nong Bunmak",
+    "province_id": 30
+  },
+  {
+    "district_id": 3023,
+    "district_th": "แก้งสนามนาง",
+    "district_en": "Kaeng Sanam Nang",
+    "province_id": 30
+  },
+  {
+    "district_id": 3024,
+    "district_th": "โนนแดง",
+    "district_en": "Non Daeng",
+    "province_id": 30
+  },
+  {
+    "district_id": 3025,
+    "district_th": "วังน้ำเขียว",
+    "district_en": "Wang Nam Khiao",
+    "province_id": 30
+  },
+  {
+    "district_id": 3026,
+    "district_th": "เทพารักษ์",
+    "district_en": "Thepharak",
+    "province_id": 30
+  },
+  {
+    "district_id": 3027,
+    "district_th": "เมืองยาง",
+    "district_en": "Mueang Yang",
+    "province_id": 30
+  },
+  {
+    "district_id": 3028,
+    "district_th": "พระทองคำ",
+    "district_en": "Phra Thong Kham",
+    "province_id": 30
+  },
+  {
+    "district_id": 3029,
+    "district_th": "ลำทะเมนชัย",
+    "district_en": "Lam Thamenchai",
+    "province_id": 30
+  },
+  {
+    "district_id": 3030,
+    "district_th": "บัวลาย",
+    "district_en": "Bua Lai",
+    "province_id": 30
+  },
+  {
+    "district_id": 3031,
+    "district_th": "สีดา",
+    "district_en": "Sida",
+    "province_id": 30
+  },
+  {
+    "district_id": 3032,
+    "district_th": "เฉลิมพระเกียรติ",
+    "district_en": "Chaloem Phra Kiat",
+    "province_id": 30
+  },
+  {
+    "district_id": 3101,
+    "district_th": "เมืองบุรีรัมย์",
+    "district_en": "Mueang Buri Ram",
+    "province_id": 31
+  },
+  {
+    "district_id": 3102,
+    "district_th": "คูเมือง",
+    "district_en": "Khu Mueang",
+    "province_id": 31
+  },
+  {
+    "district_id": 3103,
+    "district_th": "กระสัง",
+    "district_en": "Krasang",
+    "province_id": 31
+  },
+  {
+    "district_id": 3104,
+    "district_th": "นางรอง",
+    "district_en": "Nang Rong",
+    "province_id": 31
+  },
+  {
+    "district_id": 3105,
+    "district_th": "หนองกี่",
+    "district_en": "Nong Ki",
+    "province_id": 31
+  },
+  {
+    "district_id": 3106,
+    "district_th": "ละหานทราย",
+    "district_en": "Lahan Sai",
+    "province_id": 31
+  },
+  {
+    "district_id": 3107,
+    "district_th": "ประโคนชัย",
+    "district_en": "Prakhon Chai",
+    "province_id": 31
+  },
+  {
+    "district_id": 3108,
+    "district_th": "บ้านกรวด",
+    "district_en": "Ban Kruat",
+    "province_id": 31
+  },
+  {
+    "district_id": 3109,
+    "district_th": "พุทไธสง",
+    "district_en": "Phutthaisong",
+    "province_id": 31
+  },
+  {
+    "district_id": 3110,
+    "district_th": "ลำปลายมาศ",
+    "district_en": "Lam Plai Mat",
+    "province_id": 31
+  },
+  {
+    "district_id": 3111,
+    "district_th": "สตึก",
+    "district_en": "Satuek",
+    "province_id": 31
+  },
+  {
+    "district_id": 3112,
+    "district_th": "ปะคำ",
+    "district_en": "Pakham",
+    "province_id": 31
+  },
+  {
+    "district_id": 3113,
+    "district_th": "นาโพธิ์",
+    "district_en": "Na Pho",
+    "province_id": 31
+  },
+  {
+    "district_id": 3114,
+    "district_th": "หนองหงส์",
+    "district_en": "Nong Hong",
+    "province_id": 31
+  },
+  {
+    "district_id": 3115,
+    "district_th": "พลับพลาชัย",
+    "district_en": "Phlapphla Chai",
+    "province_id": 31
+  },
+  {
+    "district_id": 3116,
+    "district_th": "ห้วยราช",
+    "district_en": "Huai Rat",
+    "province_id": 31
+  },
+  {
+    "district_id": 3117,
+    "district_th": "โนนสุวรรณ",
+    "district_en": "Non Suwan",
+    "province_id": 31
+  },
+  {
+    "district_id": 3118,
+    "district_th": "ชำนิ",
+    "district_en": "Chamni",
+    "province_id": 31
+  },
+  {
+    "district_id": 3119,
+    "district_th": "บ้านใหม่ไชยพจน์",
+    "district_en": "Ban Mai Chaiyaphot",
+    "province_id": 31
+  },
+  {
+    "district_id": 3120,
+    "district_th": "โนนดินแดง",
+    "district_en": "Non Din Daeng",
+    "province_id": 31
+  },
+  {
+    "district_id": 3121,
+    "district_th": "บ้านด่าน",
+    "district_en": "Ban Dan",
+    "province_id": 31
+  },
+  {
+    "district_id": 3122,
+    "district_th": "แคนดง",
+    "district_en": "Khaen Dong",
+    "province_id": 31
+  },
+  {
+    "district_id": 3123,
+    "district_th": "เฉลิมพระเกียรติ",
+    "district_en": "Chaloem Phra Kiat",
+    "province_id": 31
+  },
+  {
+    "district_id": 3201,
+    "district_th": "เมืองสุรินทร์",
+    "district_en": "Mueang Surin",
+    "province_id": 32
+  },
+  {
+    "district_id": 3202,
+    "district_th": "ชุมพลบุรี",
+    "district_en": "Chumphon Buri",
+    "province_id": 32
+  },
+  {
+    "district_id": 3203,
+    "district_th": "ท่าตูม",
+    "district_en": "Tha Tum",
+    "province_id": 32
+  },
+  {
+    "district_id": 3204,
+    "district_th": "จอมพระ",
+    "district_en": "Chom Phra",
+    "province_id": 32
+  },
+  {
+    "district_id": 3205,
+    "district_th": "ปราสาท",
+    "district_en": "Prasat",
+    "province_id": 32
+  },
+  {
+    "district_id": 3206,
+    "district_th": "กาบเชิง",
+    "district_en": "Kap Choeng",
+    "province_id": 32
+  },
+  {
+    "district_id": 3207,
+    "district_th": "รัตนบุรี",
+    "district_en": "Rattanaburi",
+    "province_id": 32
+  },
+  {
+    "district_id": 3208,
+    "district_th": "สนม",
+    "district_en": "Sanom",
+    "province_id": 32
+  },
+  {
+    "district_id": 3209,
+    "district_th": "ศีขรภูมิ",
+    "district_en": "Sikhoraphum",
+    "province_id": 32
+  },
+  {
+    "district_id": 3210,
+    "district_th": "สังขะ",
+    "district_en": "Sangkha",
+    "province_id": 32
+  },
+  {
+    "district_id": 3211,
+    "district_th": "ลำดวน",
+    "district_en": "Lamduan",
+    "province_id": 32
+  },
+  {
+    "district_id": 3212,
+    "district_th": "สำโรงทาบ",
+    "district_en": "Samrong Thap",
+    "province_id": 32
+  },
+  {
+    "district_id": 3213,
+    "district_th": "บัวเชด",
+    "district_en": "Buachet",
+    "province_id": 32
+  },
+  {
+    "district_id": 3214,
+    "district_th": "พนมดงรัก",
+    "district_en": "Phanom Dong Rak",
+    "province_id": 32
+  },
+  {
+    "district_id": 3215,
+    "district_th": "ศรีณรงค์",
+    "district_en": "Si Narong",
+    "province_id": 32
+  },
+  {
+    "district_id": 3216,
+    "district_th": "เขวาสินรินทร์",
+    "district_en": "Khwao Sinrin",
+    "province_id": 32
+  },
+  {
+    "district_id": 3217,
+    "district_th": "โนนนารายณ์",
+    "district_en": "Non Narai",
+    "province_id": 32
+  },
+  {
+    "district_id": 3301,
+    "district_th": "เมืองศรีสะเกษ",
+    "district_en": "Mueang Si Sa Ket",
+    "province_id": 33
+  },
+  {
+    "district_id": 3302,
+    "district_th": "ยางชุมน้อย",
+    "district_en": "Yang Chum Noi",
+    "province_id": 33
+  },
+  {
+    "district_id": 3303,
+    "district_th": "กันทรารมย์",
+    "district_en": "Kanthararom",
+    "province_id": 33
+  },
+  {
+    "district_id": 3304,
+    "district_th": "กันทรลักษ์",
+    "district_en": "Kantharalak",
+    "province_id": 33
+  },
+  {
+    "district_id": 3305,
+    "district_th": "ขุขันธ์",
+    "district_en": "Khukhan",
+    "province_id": 33
+  },
+  {
+    "district_id": 3306,
+    "district_th": "ไพรบึง",
+    "district_en": "Phrai Bueng",
+    "province_id": 33
+  },
+  {
+    "district_id": 3307,
+    "district_th": "ปรางค์กู่",
+    "district_en": "Prang Ku",
+    "province_id": 33
+  },
+  {
+    "district_id": 3308,
+    "district_th": "ขุนหาญ",
+    "district_en": "Khun Han",
+    "province_id": 33
+  },
+  {
+    "district_id": 3309,
+    "district_th": "ราษีไศล",
+    "district_en": "Rasi Salai",
+    "province_id": 33
+  },
+  {
+    "district_id": 3310,
+    "district_th": "อุทุมพรพิสัย",
+    "district_en": "Uthumphon Phisai",
+    "province_id": 33
+  },
+  {
+    "district_id": 3311,
+    "district_th": "บึงบูรพ์",
+    "district_en": "Bueng Bun",
+    "province_id": 33
+  },
+  {
+    "district_id": 3312,
+    "district_th": "ห้วยทับทัน",
+    "district_en": "Huai Thap Than",
+    "province_id": 33
+  },
+  {
+    "district_id": 3313,
+    "district_th": "โนนคูณ",
+    "district_en": "Non Khun",
+    "province_id": 33
+  },
+  {
+    "district_id": 3314,
+    "district_th": "ศรีรัตนะ",
+    "district_en": "Si Rattana",
+    "province_id": 33
+  },
+  {
+    "district_id": 3315,
+    "district_th": "น้ำเกลี้ยง",
+    "district_en": "Nam Kliang",
+    "province_id": 33
+  },
+  {
+    "district_id": 3316,
+    "district_th": "วังหิน",
+    "district_en": "Wang Hin",
+    "province_id": 33
+  },
+  {
+    "district_id": 3317,
+    "district_th": "ภูสิงห์",
+    "district_en": "Phu Sing",
+    "province_id": 33
+  },
+  {
+    "district_id": 3318,
+    "district_th": "เมืองจันทร์",
+    "district_en": "Mueang Chan",
+    "province_id": 33
+  },
+  {
+    "district_id": 3319,
+    "district_th": "เบญจลักษ์",
+    "district_en": "Benchalak",
+    "province_id": 33
+  },
+  {
+    "district_id": 3320,
+    "district_th": "พยุห์",
+    "district_en": "Phayu",
+    "province_id": 33
+  },
+  {
+    "district_id": 3321,
+    "district_th": "โพธิ์ศรีสุวรรณ",
+    "district_en": "Pho Si Suwan",
+    "province_id": 33
+  },
+  {
+    "district_id": 3322,
+    "district_th": "ศิลาลาด",
+    "district_en": "Sila Lat",
+    "province_id": 33
+  },
+  {
+    "district_id": 3401,
+    "district_th": "เมืองอุบลราชธานี",
+    "district_en": "Mueang Ubon Ratchathani",
+    "province_id": 34
+  },
+  {
+    "district_id": 3402,
+    "district_th": "ศรีเมืองใหม่",
+    "district_en": "Si Mueang Mai",
+    "province_id": 34
+  },
+  {
+    "district_id": 3403,
+    "district_th": "โขงเจียม",
+    "district_en": "Khong Chiam",
+    "province_id": 34
+  },
+  {
+    "district_id": 3404,
+    "district_th": "เขื่องใน",
+    "district_en": "Khueang Nai",
+    "province_id": 34
+  },
+  {
+    "district_id": 3405,
+    "district_th": "เขมราฐ",
+    "district_en": "Khemarat",
+    "province_id": 34
+  },
+  {
+    "district_id": 3407,
+    "district_th": "เดชอุดม",
+    "district_en": "Det Udom",
+    "province_id": 34
+  },
+  {
+    "district_id": 3408,
+    "district_th": "นาจะหลวย",
+    "district_en": "Na Chaluai",
+    "province_id": 34
+  },
+  {
+    "district_id": 3409,
+    "district_th": "น้ำยืน",
+    "district_en": "Nam Yuen",
+    "province_id": 34
+  },
+  {
+    "district_id": 3410,
+    "district_th": "บุณฑริก",
+    "district_en": "Buntharik",
+    "province_id": 34
+  },
+  {
+    "district_id": 3411,
+    "district_th": "ตระการพืชผล",
+    "district_en": "Trakan Phuet Phon",
+    "province_id": 34
+  },
+  {
+    "district_id": 3412,
+    "district_th": "กุดข้าวปุ้น",
+    "district_en": "Kut Khaopun",
+    "province_id": 34
+  },
+  {
+    "district_id": 3414,
+    "district_th": "ม่วงสามสิบ",
+    "district_en": "Muang Sam Sip",
+    "province_id": 34
+  },
+  {
+    "district_id": 3415,
+    "district_th": "วารินชำราบ",
+    "district_en": "Warin Chamrap",
+    "province_id": 34
+  },
+  {
+    "district_id": 3419,
+    "district_th": "พิบูลมังสาหาร",
+    "district_en": "Phibun Mangsahan",
+    "province_id": 34
+  },
+  {
+    "district_id": 3420,
+    "district_th": "ตาลสุม",
+    "district_en": "Tan Sum",
+    "province_id": 34
+  },
+  {
+    "district_id": 3421,
+    "district_th": "โพธิ์ไทร",
+    "district_en": "Pho Sai",
+    "province_id": 34
+  },
+  {
+    "district_id": 3422,
+    "district_th": "สำโรง",
+    "district_en": "Samrong",
+    "province_id": 34
+  },
+  {
+    "district_id": 3424,
+    "district_th": "ดอนมดแดง",
+    "district_en": "Don Mot Daeng",
+    "province_id": 34
+  },
+  {
+    "district_id": 3425,
+    "district_th": "สิรินธร",
+    "district_en": "Sirindhorn",
+    "province_id": 34
+  },
+  {
+    "district_id": 3426,
+    "district_th": "ทุ่งศรีอุดม",
+    "district_en": "Thung Si Udom",
+    "province_id": 34
+  },
+  {
+    "district_id": 3429,
+    "district_th": "นาเยีย",
+    "district_en": "Na Yia",
+    "province_id": 34
+  },
+  {
+    "district_id": 3430,
+    "district_th": "นาตาล",
+    "district_en": "Na Tan",
+    "province_id": 34
+  },
+  {
+    "district_id": 3431,
+    "district_th": "เหล่าเสือโก้ก",
+    "district_en": "Fang Kham",
+    "province_id": 34
+  },
+  {
+    "district_id": 3432,
+    "district_th": "สว่างวีระวงศ์",
+    "district_en": "Sawang Wirawong",
+    "province_id": 34
+  },
+  {
+    "district_id": 3433,
+    "district_th": "น้ำขุ่น",
+    "district_en": "Nam Khun",
+    "province_id": 34
+  },
+  {
+    "district_id": 3501,
+    "district_th": "เมืองยโสธร",
+    "district_en": "Mueang Yasothon",
+    "province_id": 35
+  },
+  {
+    "district_id": 3502,
+    "district_th": "ทรายมูล",
+    "district_en": "Sai Mun",
+    "province_id": 35
+  },
+  {
+    "district_id": 3503,
+    "district_th": "กุดชุม",
+    "district_en": "Kut Chum",
+    "province_id": 35
+  },
+  {
+    "district_id": 3504,
+    "district_th": "คำเขื่อนแก้ว",
+    "district_en": "Kham Khuean Kaeo",
+    "province_id": 35
+  },
+  {
+    "district_id": 3505,
+    "district_th": "ป่าติ้ว",
+    "district_en": "Pa Tio",
+    "province_id": 35
+  },
+  {
+    "district_id": 3506,
+    "district_th": "มหาชนะชัย",
+    "district_en": "Maha Chana Chai",
+    "province_id": 35
+  },
+  {
+    "district_id": 3507,
+    "district_th": "ค้อวัง",
+    "district_en": "Kho Wang",
+    "province_id": 35
+  },
+  {
+    "district_id": 3508,
+    "district_th": "เลิงนกทา",
+    "district_en": "Loeng Nok Tha",
+    "province_id": 35
+  },
+  {
+    "district_id": 3509,
+    "district_th": "ไทยเจริญ",
+    "district_en": "Thai Charoen",
+    "province_id": 35
+  },
+  {
+    "district_id": 3601,
+    "district_th": "เมืองชัยภูมิ",
+    "district_en": "Mueang Chaiyaphum",
+    "province_id": 36
+  },
+  {
+    "district_id": 3602,
+    "district_th": "บ้านเขว้า",
+    "district_en": "Ban Khwao",
+    "province_id": 36
+  },
+  {
+    "district_id": 3603,
+    "district_th": "คอนสวรรค์",
+    "district_en": "Khon Sawan",
+    "province_id": 36
+  },
+  {
+    "district_id": 3604,
+    "district_th": "เกษตรสมบูรณ์",
+    "district_en": "Kaset Sombun",
+    "province_id": 36
+  },
+  {
+    "district_id": 3605,
+    "district_th": "หนองบัวแดง",
+    "district_en": "Nong Bua Daeng",
+    "province_id": 36
+  },
+  {
+    "district_id": 3606,
+    "district_th": "จัตุรัส",
+    "district_en": "Chatturat",
+    "province_id": 36
+  },
+  {
+    "district_id": 3607,
+    "district_th": "บำเหน็จณรงค์",
+    "district_en": "Bamnet Narong",
+    "province_id": 36
+  },
+  {
+    "district_id": 3608,
+    "district_th": "หนองบัวระเหว",
+    "district_en": "Nong Bua Rawe",
+    "province_id": 36
+  },
+  {
+    "district_id": 3609,
+    "district_th": "เทพสถิต",
+    "district_en": "Thep Sathit",
+    "province_id": 36
+  },
+  {
+    "district_id": 3610,
+    "district_th": "ภูเขียว",
+    "district_en": "Phu Khiao",
+    "province_id": 36
+  },
+  {
+    "district_id": 3611,
+    "district_th": "บ้านแท่น",
+    "district_en": "Ban Thaen",
+    "province_id": 36
+  },
+  {
+    "district_id": 3612,
+    "district_th": "แก้งคร้อ",
+    "district_en": "Kaeng Khro",
+    "province_id": 36
+  },
+  {
+    "district_id": 3613,
+    "district_th": "คอนสาร",
+    "district_en": "Khon San",
+    "province_id": 36
+  },
+  {
+    "district_id": 3614,
+    "district_th": "ภักดีชุมพล",
+    "district_en": "Phakdi Chumphon",
+    "province_id": 36
+  },
+  {
+    "district_id": 3615,
+    "district_th": "เนินสง่า",
+    "district_en": "Noen Sa-nga",
+    "province_id": 36
+  },
+  {
+    "district_id": 3616,
+    "district_th": "ซับใหญ่",
+    "district_en": "Sap Yai",
+    "province_id": 36
+  },
+  {
+    "district_id": 3701,
+    "district_th": "เมืองอำนาจเจริญ",
+    "district_en": "Mueang Amnat Charoen",
+    "province_id": 37
+  },
+  {
+    "district_id": 3702,
+    "district_th": "ชานุมาน",
+    "district_en": "Chanuman",
+    "province_id": 37
+  },
+  {
+    "district_id": 3703,
+    "district_th": "ปทุมราชวงศา",
+    "district_en": "Pathum Ratchawongsa",
+    "province_id": 37
+  },
+  {
+    "district_id": 3704,
+    "district_th": "พนา",
+    "district_en": "Phana",
+    "province_id": 37
+  },
+  {
+    "district_id": 3705,
+    "district_th": "เสนางคนิคม",
+    "district_en": "Senangkhanikhom",
+    "province_id": 37
+  },
+  {
+    "district_id": 3706,
+    "district_th": "หัวตะพาน",
+    "district_en": "Hua Taphan",
+    "province_id": 37
+  },
+  {
+    "district_id": 3707,
+    "district_th": "ลืออำนาจ",
+    "district_en": "Lue Amnat",
+    "province_id": 37
+  },
+  {
+    "district_id": 3801,
+    "district_th": "เมืองบึงกาฬ",
+    "district_en": "Mueang Bueng Kan",
+    "province_id": 38
+  },
+  {
+    "district_id": 3802,
+    "district_th": "พรเจริญ",
+    "district_en": "Phon Charoen",
+    "province_id": 38
+  },
+  {
+    "district_id": 3803,
+    "district_th": "โซ่พิสัย",
+    "district_en": "So Phisai",
+    "province_id": 38
+  },
+  {
+    "district_id": 3804,
+    "district_th": "เซกา",
+    "district_en": "Seka",
+    "province_id": 38
+  },
+  {
+    "district_id": 3805,
+    "district_th": "ปากคาด",
+    "district_en": "Pak Khat",
+    "province_id": 38
+  },
+  {
+    "district_id": 3806,
+    "district_th": "บึงโขงหลง",
+    "district_en": "Bueng Khong Long",
+    "province_id": 38
+  },
+  {
+    "district_id": 3807,
+    "district_th": "ศรีวิไล",
+    "district_en": "Si Wilai",
+    "province_id": 38
+  },
+  {
+    "district_id": 3808,
+    "district_th": "บุ่งคล้า",
+    "district_en": "Bung Khla",
+    "province_id": 38
+  },
+  {
+    "district_id": 3901,
+    "district_th": "เมืองหนองบัวลำภู",
+    "district_en": "Mueang Nong Bua Lam Phu",
+    "province_id": 39
+  },
+  {
+    "district_id": 3902,
+    "district_th": "นากลาง",
+    "district_en": "Na Klang",
+    "province_id": 39
+  },
+  {
+    "district_id": 3903,
+    "district_th": "โนนสัง",
+    "district_en": "Non Sang",
+    "province_id": 39
+  },
+  {
+    "district_id": 3904,
+    "district_th": "ศรีบุญเรือง",
+    "district_en": "Si Bun Rueang",
+    "province_id": 39
+  },
+  {
+    "district_id": 3905,
+    "district_th": "สุวรรณคูหา",
+    "district_en": "Suwannakhuha",
+    "province_id": 39
+  },
+  {
+    "district_id": 3906,
+    "district_th": "นาวัง",
+    "district_en": "Na Wang",
+    "province_id": 39
+  },
+  {
+    "district_id": 4001,
+    "district_th": "เมืองขอนแก่น",
+    "district_en": "Mueang Khon Kaen",
+    "province_id": 40
+  },
+  {
+    "district_id": 4002,
+    "district_th": "บ้านฝาง",
+    "district_en": "Ban Fang",
+    "province_id": 40
+  },
+  {
+    "district_id": 4003,
+    "district_th": "พระยืน",
+    "district_en": "Phra Yuen",
+    "province_id": 40
+  },
+  {
+    "district_id": 4004,
+    "district_th": "หนองเรือ",
+    "district_en": "Nong Ruea",
+    "province_id": 40
+  },
+  {
+    "district_id": 4005,
+    "district_th": "ชุมแพ",
+    "district_en": "Chum Phae",
+    "province_id": 40
+  },
+  {
+    "district_id": 4006,
+    "district_th": "สีชมพู",
+    "district_en": "Si Chomphu",
+    "province_id": 40
+  },
+  {
+    "district_id": 4007,
+    "district_th": "น้ำพอง",
+    "district_en": "Nam Phong",
+    "province_id": 40
+  },
+  {
+    "district_id": 4008,
+    "district_th": "อุบลรัตน์",
+    "district_en": "Ubolratana",
+    "province_id": 40
+  },
+  {
+    "district_id": 4009,
+    "district_th": "กระนวน",
+    "district_en": "Kranuan",
+    "province_id": 40
+  },
+  {
+    "district_id": 4010,
+    "district_th": "บ้านไผ่",
+    "district_en": "Ban Phai",
+    "province_id": 40
+  },
+  {
+    "district_id": 4011,
+    "district_th": "เปือยน้อย",
+    "district_en": "Pueai Noi",
+    "province_id": 40
+  },
+  {
+    "district_id": 4012,
+    "district_th": "พล",
+    "district_en": "Phon",
+    "province_id": 40
+  },
+  {
+    "district_id": 4013,
+    "district_th": "แวงใหญ่",
+    "district_en": "Waeng Yai",
+    "province_id": 40
+  },
+  {
+    "district_id": 4014,
+    "district_th": "แวงน้อย",
+    "district_en": "Waeng Noi",
+    "province_id": 40
+  },
+  {
+    "district_id": 4015,
+    "district_th": "หนองสองห้อง",
+    "district_en": "Nong Song Hong",
+    "province_id": 40
+  },
+  {
+    "district_id": 4016,
+    "district_th": "ภูเวียง",
+    "district_en": "Phu Wiang",
+    "province_id": 40
+  },
+  {
+    "district_id": 4017,
+    "district_th": "มัญจาคีรี",
+    "district_en": "Mancha Khiri",
+    "province_id": 40
+  },
+  {
+    "district_id": 4018,
+    "district_th": "ชนบท",
+    "district_en": "Chonnabot",
+    "province_id": 40
+  },
+  {
+    "district_id": 4019,
+    "district_th": "เขาสวนกวาง",
+    "district_en": "Khao Suan Kwang",
+    "province_id": 40
+  },
+  {
+    "district_id": 4020,
+    "district_th": "ภูผาม่าน",
+    "district_en": "Phu Pha Man",
+    "province_id": 40
+  },
+  {
+    "district_id": 4021,
+    "district_th": "ซำสูง",
+    "district_en": "Sam Sung",
+    "province_id": 40
+  },
+  {
+    "district_id": 4022,
+    "district_th": "โคกโพธิ์ไชย",
+    "district_en": "Khok Pho Chai",
+    "province_id": 40
+  },
+  {
+    "district_id": 4023,
+    "district_th": "หนองนาคำ",
+    "district_en": "Nong Na Kham",
+    "province_id": 40
+  },
+  {
+    "district_id": 4024,
+    "district_th": "บ้านแฮด",
+    "district_en": "Ban Haet",
+    "province_id": 40
+  },
+  {
+    "district_id": 4025,
+    "district_th": "โนนศิลา",
+    "district_en": "Non Sila",
+    "province_id": 40
+  },
+  {
+    "district_id": 4026,
+    "district_th": "เวียงเก่า",
+    "district_en": "Wiang Kao",
+    "province_id": 40
+  },
+  {
+    "district_id": 4101,
+    "district_th": "เมืองอุดรธานี",
+    "district_en": "Mueang Udon Thani",
+    "province_id": 41
+  },
+  {
+    "district_id": 4102,
+    "district_th": "กุดจับ",
+    "district_en": "Kut Chap",
+    "province_id": 41
+  },
+  {
+    "district_id": 4103,
+    "district_th": "หนองวัวซอ",
+    "district_en": "Nong Wua So",
+    "province_id": 41
+  },
+  {
+    "district_id": 4104,
+    "district_th": "กุมภวาปี",
+    "district_en": "Kumphawapi",
+    "province_id": 41
+  },
+  {
+    "district_id": 4105,
+    "district_th": "โนนสะอาด",
+    "district_en": "Non Sa-at",
+    "province_id": 41
+  },
+  {
+    "district_id": 4106,
+    "district_th": "หนองหาน",
+    "district_en": "Nong Han",
+    "province_id": 41
+  },
+  {
+    "district_id": 4107,
+    "district_th": "ทุ่งฝน",
+    "district_en": "Thung Fon",
+    "province_id": 41
+  },
+  {
+    "district_id": 4108,
+    "district_th": "ไชยวาน",
+    "district_en": "Chai Wan",
+    "province_id": 41
+  },
+  {
+    "district_id": 4109,
+    "district_th": "ศรีธาตุ",
+    "district_en": "Si That",
+    "province_id": 41
+  },
+  {
+    "district_id": 4110,
+    "district_th": "วังสามหมอ",
+    "district_en": "Wang Sam Mo",
+    "province_id": 41
+  },
+  {
+    "district_id": 4111,
+    "district_th": "บ้านดุง",
+    "district_en": "Ban Dung",
+    "province_id": 41
+  },
+  {
+    "district_id": 4117,
+    "district_th": "บ้านผือ",
+    "district_en": "Ban Phue",
+    "province_id": 41
+  },
+  {
+    "district_id": 4118,
+    "district_th": "น้ำโสม",
+    "district_en": "Nam Som",
+    "province_id": 41
+  },
+  {
+    "district_id": 4119,
+    "district_th": "เพ็ญ",
+    "district_en": "Phen",
+    "province_id": 41
+  },
+  {
+    "district_id": 4120,
+    "district_th": "สร้างคอม",
+    "district_en": "Sang Khom",
+    "province_id": 41
+  },
+  {
+    "district_id": 4121,
+    "district_th": "หนองแสง",
+    "district_en": "Nong Saeng",
+    "province_id": 41
+  },
+  {
+    "district_id": 4122,
+    "district_th": "นายูง",
+    "district_en": "Na Yung",
+    "province_id": 41
+  },
+  {
+    "district_id": 4123,
+    "district_th": "พิบูลย์รักษ์",
+    "district_en": "Phibun Rak",
+    "province_id": 41
+  },
+  {
+    "district_id": 4124,
+    "district_th": "กู่แก้ว",
+    "district_en": "Ku Kaeo",
+    "province_id": 41
+  },
+  {
+    "district_id": 4125,
+    "district_th": "ประจักษ์ศิลปาคม",
+    "district_en": "Prachak Sinlapakhom",
+    "province_id": 41
+  },
+  {
+    "district_id": 4201,
+    "district_th": "เมืองเลย",
+    "district_en": "Mueang Loei",
+    "province_id": 42
+  },
+  {
+    "district_id": 4202,
+    "district_th": "นาด้วง",
+    "district_en": "Na Duang",
+    "province_id": 42
+  },
+  {
+    "district_id": 4203,
+    "district_th": "เชียงคาน",
+    "district_en": "Chiang Khan",
+    "province_id": 42
+  },
+  {
+    "district_id": 4204,
+    "district_th": "ปากชม",
+    "district_en": "Pak Chom",
+    "province_id": 42
+  },
+  {
+    "district_id": 4205,
+    "district_th": "ด่านซ้าย",
+    "district_en": "Dan Sai",
+    "province_id": 42
+  },
+  {
+    "district_id": 4206,
+    "district_th": "นาแห้ว",
+    "district_en": "Na Haeo",
+    "province_id": 42
+  },
+  {
+    "district_id": 4207,
+    "district_th": "ภูเรือ",
+    "district_en": "Phu Ruea",
+    "province_id": 42
+  },
+  {
+    "district_id": 4208,
+    "district_th": "ท่าลี่",
+    "district_en": "Tha Li",
+    "province_id": 42
+  },
+  {
+    "district_id": 4209,
+    "district_th": "วังสะพุง",
+    "district_en": "Wang Saphung",
+    "province_id": 42
+  },
+  {
+    "district_id": 4210,
+    "district_th": "ภูกระดึง",
+    "district_en": "Phu Kradueng",
+    "province_id": 42
+  },
+  {
+    "district_id": 4211,
+    "district_th": "ภูหลวง",
+    "district_en": "Phu Luang",
+    "province_id": 42
+  },
+  {
+    "district_id": 4212,
+    "district_th": "ผาขาว",
+    "district_en": "Pha Khao",
+    "province_id": 42
+  },
+  {
+    "district_id": 4213,
+    "district_th": "เอราวัณ",
+    "district_en": "Erawan",
+    "province_id": 42
+  },
+  {
+    "district_id": 4214,
+    "district_th": "หนองหิน",
+    "district_en": "Nong Hin",
+    "province_id": 42
+  },
+  {
+    "district_id": 4301,
+    "district_th": "เมืองหนองคาย",
+    "district_en": "Mueang Nong Khai",
+    "province_id": 43
+  },
+  {
+    "district_id": 4302,
+    "district_th": "ท่าบ่อ",
+    "district_en": "Tha Bo",
+    "province_id": 43
+  },
+  {
+    "district_id": 4305,
+    "district_th": "โพนพิสัย",
+    "district_en": "Phon Phisai",
+    "province_id": 43
+  },
+  {
+    "district_id": 4307,
+    "district_th": "ศรีเชียงใหม่",
+    "district_en": "Si Chiang Mai",
+    "province_id": 43
+  },
+  {
+    "district_id": 4308,
+    "district_th": "สังคม",
+    "district_en": "Sangkhom",
+    "province_id": 43
+  },
+  {
+    "district_id": 4314,
+    "district_th": "สระใคร",
+    "district_en": "Sakhrai",
+    "province_id": 43
+  },
+  {
+    "district_id": 4315,
+    "district_th": "เฝ้าไร่",
+    "district_en": "Fao Rai",
+    "province_id": 43
+  },
+  {
+    "district_id": 4316,
+    "district_th": "รัตนวาปี",
+    "district_en": "Rattanawapi",
+    "province_id": 43
+  },
+  {
+    "district_id": 4317,
+    "district_th": "โพธิ์ตาก",
+    "district_en": "Pho Tak",
+    "province_id": 43
+  },
+  {
+    "district_id": 4401,
+    "district_th": "เมืองมหาสารคาม",
+    "district_en": "Mueang Maha Sarakham",
+    "province_id": 44
+  },
+  {
+    "district_id": 4402,
+    "district_th": "แกดำ",
+    "district_en": "Kae Dam",
+    "province_id": 44
+  },
+  {
+    "district_id": 4403,
+    "district_th": "โกสุมพิสัย",
+    "district_en": "Kosum Phisai",
+    "province_id": 44
+  },
+  {
+    "district_id": 4404,
+    "district_th": "กันทรวิชัย",
+    "district_en": "Kantharawichai",
+    "province_id": 44
+  },
+  {
+    "district_id": 4405,
+    "district_th": "เชียงยืน",
+    "district_en": "Chiang Yuen",
+    "province_id": 44
+  },
+  {
+    "district_id": 4406,
+    "district_th": "บรบือ",
+    "district_en": "Borabue",
+    "province_id": 44
+  },
+  {
+    "district_id": 4407,
+    "district_th": "นาเชือก",
+    "district_en": "Na Chueak",
+    "province_id": 44
+  },
+  {
+    "district_id": 4408,
+    "district_th": "พยัคฆภูมิพิสัย",
+    "district_en": "Phayakkhaphum Phisai",
+    "province_id": 44
+  },
+  {
+    "district_id": 4409,
+    "district_th": "วาปีปทุม",
+    "district_en": "Wapi Pathum",
+    "province_id": 44
+  },
+  {
+    "district_id": 4410,
+    "district_th": "นาดูน",
+    "district_en": "Na Dun",
+    "province_id": 44
+  },
+  {
+    "district_id": 4411,
+    "district_th": "ยางสีสุราช",
+    "district_en": "Yang Si Surat",
+    "province_id": 44
+  },
+  {
+    "district_id": 4412,
+    "district_th": "กุดรัง",
+    "district_en": "Kut Rang",
+    "province_id": 44
+  },
+  {
+    "district_id": 4413,
+    "district_th": "ชื่นชม",
+    "district_en": "Chuen Chom",
+    "province_id": 44
+  },
+  {
+    "district_id": 4501,
+    "district_th": "เมืองร้อยเอ็ด",
+    "district_en": "Mueang Roi Et",
+    "province_id": 45
+  },
+  {
+    "district_id": 4502,
+    "district_th": "เกษตรวิสัย",
+    "district_en": "Kaset Wisai",
+    "province_id": 45
+  },
+  {
+    "district_id": 4503,
+    "district_th": "ปทุมรัตต์",
+    "district_en": "Pathum Rat",
+    "province_id": 45
+  },
+  {
+    "district_id": 4504,
+    "district_th": "จตุรพักตรพิมาน",
+    "district_en": "Chaturaphak Phiman",
+    "province_id": 45
+  },
+  {
+    "district_id": 4505,
+    "district_th": "ธวัชบุรี",
+    "district_en": "Thawat Buri",
+    "province_id": 45
+  },
+  {
+    "district_id": 4506,
+    "district_th": "พนมไพร",
+    "district_en": "Phanom Phrai",
+    "province_id": 45
+  },
+  {
+    "district_id": 4507,
+    "district_th": "โพนทอง",
+    "district_en": "Phon Thong",
+    "province_id": 45
+  },
+  {
+    "district_id": 4508,
+    "district_th": "โพธิ์ชัย",
+    "district_en": "Pho Chai",
+    "province_id": 45
+  },
+  {
+    "district_id": 4509,
+    "district_th": "หนองพอก",
+    "district_en": "Nong Phok",
+    "province_id": 45
+  },
+  {
+    "district_id": 4510,
+    "district_th": "เสลภูมิ",
+    "district_en": "Selaphum",
+    "province_id": 45
+  },
+  {
+    "district_id": 4511,
+    "district_th": "สุวรรณภูมิ",
+    "district_en": "Suwannaphum",
+    "province_id": 45
+  },
+  {
+    "district_id": 4512,
+    "district_th": "เมืองสรวง",
+    "district_en": "Mueang Suang",
+    "province_id": 45
+  },
+  {
+    "district_id": 4513,
+    "district_th": "โพนทราย",
+    "district_en": "Phon Sai",
+    "province_id": 45
+  },
+  {
+    "district_id": 4514,
+    "district_th": "อาจสามารถ",
+    "district_en": "At Samat",
+    "province_id": 45
+  },
+  {
+    "district_id": 4515,
+    "district_th": "เมยวดี",
+    "district_en": "Moei Wadi",
+    "province_id": 45
+  },
+  {
+    "district_id": 4516,
+    "district_th": "ศรีสมเด็จ",
+    "district_en": "Si Somdet",
+    "province_id": 45
+  },
+  {
+    "district_id": 4517,
+    "district_th": "จังหาร",
+    "district_en": "Changhan",
+    "province_id": 45
+  },
+  {
+    "district_id": 4518,
+    "district_th": "เชียงขวัญ",
+    "district_en": "Chiang Khwan",
+    "province_id": 45
+  },
+  {
+    "district_id": 4519,
+    "district_th": "หนองฮี",
+    "district_en": "Nong Hi",
+    "province_id": 45
+  },
+  {
+    "district_id": 4520,
+    "district_th": "ทุ่งเขาหลวง",
+    "district_en": "Thung Khao Luang",
+    "province_id": 45
+  },
+  {
+    "district_id": 4601,
+    "district_th": "เมืองกาฬสินธุ์",
+    "district_en": "Mueang Kalasin",
+    "province_id": 46
+  },
+  {
+    "district_id": 4602,
+    "district_th": "นามน",
+    "district_en": "Na Mon",
+    "province_id": 46
+  },
+  {
+    "district_id": 4603,
+    "district_th": "กมลาไสย",
+    "district_en": "Kamalasai",
+    "province_id": 46
+  },
+  {
+    "district_id": 4604,
+    "district_th": "ร่องคำ",
+    "district_en": "Rong Kham",
+    "province_id": 46
+  },
+  {
+    "district_id": 4605,
+    "district_th": "กุฉินารายณ์",
+    "district_en": "Kuchinarai",
+    "province_id": 46
+  },
+  {
+    "district_id": 4606,
+    "district_th": "เขาวง",
+    "district_en": "Khao Wong",
+    "province_id": 46
+  },
+  {
+    "district_id": 4607,
+    "district_th": "ยางตลาด",
+    "district_en": "Yang Talat",
+    "province_id": 46
+  },
+  {
+    "district_id": 4608,
+    "district_th": "ห้วยเม็ก",
+    "district_en": "Huai Mek",
+    "province_id": 46
+  },
+  {
+    "district_id": 4609,
+    "district_th": "สหัสขันธ์",
+    "district_en": "Sahatsakhan",
+    "province_id": 46
+  },
+  {
+    "district_id": 4610,
+    "district_th": "คำม่วง",
+    "district_en": "Kham Muang",
+    "province_id": 46
+  },
+  {
+    "district_id": 4611,
+    "district_th": "ท่าคันโท",
+    "district_en": "Tha Khantho",
+    "province_id": 46
+  },
+  {
+    "district_id": 4612,
+    "district_th": "หนองกุงศรี",
+    "district_en": "Nong Kung Si",
+    "province_id": 46
+  },
+  {
+    "district_id": 4613,
+    "district_th": "สมเด็จ",
+    "district_en": "Somdet",
+    "province_id": 46
+  },
+  {
+    "district_id": 4614,
+    "district_th": "ห้วยผึ้ง",
+    "district_en": "Huai Phueng",
+    "province_id": 46
+  },
+  {
+    "district_id": 4615,
+    "district_th": "สามชัย",
+    "district_en": "Sam Chai",
+    "province_id": 46
+  },
+  {
+    "district_id": 4616,
+    "district_th": "นาคู",
+    "district_en": "Na Khu",
+    "province_id": 46
+  },
+  {
+    "district_id": 4617,
+    "district_th": "ดอนจาน",
+    "district_en": "Don Chan",
+    "province_id": 46
+  },
+  {
+    "district_id": 4618,
+    "district_th": "ฆ้องชัย",
+    "district_en": "Khong Chai",
+    "province_id": 46
+  },
+  {
+    "district_id": 4701,
+    "district_th": "เมืองสกลนคร",
+    "district_en": "Mueang Sakon Nakhon",
+    "province_id": 47
+  },
+  {
+    "district_id": 4702,
+    "district_th": "กุสุมาลย์",
+    "district_en": "Kusuman",
+    "province_id": 47
+  },
+  {
+    "district_id": 4703,
+    "district_th": "กุดบาก",
+    "district_en": "Kut Bak",
+    "province_id": 47
+  },
+  {
+    "district_id": 4704,
+    "district_th": "พรรณานิคม",
+    "district_en": "Phanna Nikhom",
+    "province_id": 47
+  },
+  {
+    "district_id": 4705,
+    "district_th": "พังโคน",
+    "district_en": "Phang Khon",
+    "province_id": 47
+  },
+  {
+    "district_id": 4706,
+    "district_th": "วาริชภูมิ",
+    "district_en": "Waritchaphum",
+    "province_id": 47
+  },
+  {
+    "district_id": 4707,
+    "district_th": "นิคมน้ำอูน",
+    "district_en": "Nikhom Nam Un",
+    "province_id": 47
+  },
+  {
+    "district_id": 4708,
+    "district_th": "วานรนิวาส",
+    "district_en": "Wanon Niwat",
+    "province_id": 47
+  },
+  {
+    "district_id": 4709,
+    "district_th": "คำตากล้า",
+    "district_en": "Kham Ta Kla",
+    "province_id": 47
+  },
+  {
+    "district_id": 4710,
+    "district_th": "บ้านม่วง",
+    "district_en": "Ban Muang",
+    "province_id": 47
+  },
+  {
+    "district_id": 4711,
+    "district_th": "อากาศอำนวย",
+    "district_en": "Akat Amnuai",
+    "province_id": 47
+  },
+  {
+    "district_id": 4712,
+    "district_th": "สว่างแดนดิน",
+    "district_en": "Sawang Daen Din",
+    "province_id": 47
+  },
+  {
+    "district_id": 4713,
+    "district_th": "ส่องดาว",
+    "district_en": "Song Dao",
+    "province_id": 47
+  },
+  {
+    "district_id": 4714,
+    "district_th": "เต่างอย",
+    "district_en": "Tao Ngoi",
+    "province_id": 47
+  },
+  {
+    "district_id": 4715,
+    "district_th": "โคกศรีสุพรรณ",
+    "district_en": "Khok Si Suphan",
+    "province_id": 47
+  },
+  {
+    "district_id": 4716,
+    "district_th": "เจริญศิลป์",
+    "district_en": "Charoen Sin",
+    "province_id": 47
+  },
+  {
+    "district_id": 4717,
+    "district_th": "โพนนาแก้ว",
+    "district_en": "Phon Na Kaeo",
+    "province_id": 47
+  },
+  {
+    "district_id": 4718,
+    "district_th": "ภูพาน",
+    "district_en": "Phu Phan",
+    "province_id": 47
+  },
+  {
+    "district_id": 4801,
+    "district_th": "เมืองนครพนม",
+    "district_en": "Mueang Nakhon Phanom",
+    "province_id": 48
+  },
+  {
+    "district_id": 4802,
+    "district_th": "ปลาปาก",
+    "district_en": "Pla Pak",
+    "province_id": 48
+  },
+  {
+    "district_id": 4803,
+    "district_th": "ท่าอุเทน",
+    "district_en": "Tha Uthen",
+    "province_id": 48
+  },
+  {
+    "district_id": 4804,
+    "district_th": "บ้านแพง",
+    "district_en": "Ban Phaeng",
+    "province_id": 48
+  },
+  {
+    "district_id": 4805,
+    "district_th": "ธาตุพนม",
+    "district_en": "That Phanom",
+    "province_id": 48
+  },
+  {
+    "district_id": 4806,
+    "district_th": "เรณูนคร",
+    "district_en": "Renu Nakhon",
+    "province_id": 48
+  },
+  {
+    "district_id": 4807,
+    "district_th": "นาแก",
+    "district_en": "Na Kae",
+    "province_id": 48
+  },
+  {
+    "district_id": 4808,
+    "district_th": "ศรีสงคราม",
+    "district_en": "Si Songkhram",
+    "province_id": 48
+  },
+  {
+    "district_id": 4809,
+    "district_th": "นาหว้า",
+    "district_en": "Na Wa",
+    "province_id": 48
+  },
+  {
+    "district_id": 4810,
+    "district_th": "โพนสวรรค์",
+    "district_en": "Phon Sawan",
+    "province_id": 48
+  },
+  {
+    "district_id": 4811,
+    "district_th": "นาทม",
+    "district_en": "Na Thom",
+    "province_id": 48
+  },
+  {
+    "district_id": 4812,
+    "district_th": "วังยาง",
+    "district_en": "Wang Yang",
+    "province_id": 48
+  },
+  {
+    "district_id": 4901,
+    "district_th": "เมืองมุกดาหาร",
+    "district_en": "Mueang Mukdahan",
+    "province_id": 49
+  },
+  {
+    "district_id": 4902,
+    "district_th": "นิคมคำสร้อย",
+    "district_en": "Nikhom Kham Soi",
+    "province_id": 49
+  },
+  {
+    "district_id": 4903,
+    "district_th": "ดอนตาล",
+    "district_en": "Don Tan",
+    "province_id": 49
+  },
+  {
+    "district_id": 4904,
+    "district_th": "ดงหลวง",
+    "district_en": "Dong Luang",
+    "province_id": 49
+  },
+  {
+    "district_id": 4905,
+    "district_th": "คำชะอี",
+    "district_en": "Khamcha-i",
+    "province_id": 49
+  },
+  {
+    "district_id": 4906,
+    "district_th": "หว้านใหญ่",
+    "district_en": "Wan Yai",
+    "province_id": 49
+  },
+  {
+    "district_id": 4907,
+    "district_th": "หนองสูง",
+    "district_en": "Nong Sung",
+    "province_id": 49
+  },
+  {
+    "district_id": 5001,
+    "district_th": "เมืองเชียงใหม่",
+    "district_en": "Mueang Chiang Mai",
+    "province_id": 50
+  },
+  {
+    "district_id": 5002,
+    "district_th": "จอมทอง",
+    "district_en": "Chom Thong",
+    "province_id": 50
+  },
+  {
+    "district_id": 5003,
+    "district_th": "แม่แจ่ม",
+    "district_en": "Mae Chaem",
+    "province_id": 50
+  },
+  {
+    "district_id": 5004,
+    "district_th": "เชียงดาว",
+    "district_en": "Chiang Dao",
+    "province_id": 50
+  },
+  {
+    "district_id": 5005,
+    "district_th": "ดอยสะเก็ด",
+    "district_en": "Doi Saket",
+    "province_id": 50
+  },
+  {
+    "district_id": 5006,
+    "district_th": "แม่แตง",
+    "district_en": "Mae Taeng",
+    "province_id": 50
+  },
+  {
+    "district_id": 5007,
+    "district_th": "แม่ริม",
+    "district_en": "Mae Rim",
+    "province_id": 50
+  },
+  {
+    "district_id": 5008,
+    "district_th": "สะเมิง",
+    "district_en": "Samoeng",
+    "province_id": 50
+  },
+  {
+    "district_id": 5009,
+    "district_th": "ฝาง",
+    "district_en": "Fang",
+    "province_id": 50
+  },
+  {
+    "district_id": 5010,
+    "district_th": "แม่อาย",
+    "district_en": "Mae Ai",
+    "province_id": 50
+  },
+  {
+    "district_id": 5011,
+    "district_th": "พร้าว",
+    "district_en": "Phrao",
+    "province_id": 50
+  },
+  {
+    "district_id": 5012,
+    "district_th": "สันป่าตอง",
+    "district_en": "San Pa Tong",
+    "province_id": 50
+  },
+  {
+    "district_id": 5013,
+    "district_th": "สันกำแพง",
+    "district_en": "San Kamphaeng",
+    "province_id": 50
+  },
+  {
+    "district_id": 5014,
+    "district_th": "สันทราย",
+    "district_en": "San Sai",
+    "province_id": 50
+  },
+  {
+    "district_id": 5015,
+    "district_th": "หางดง",
+    "district_en": "Hang Dong",
+    "province_id": 50
+  },
+  {
+    "district_id": 5016,
+    "district_th": "ฮอด",
+    "district_en": "Hot",
+    "province_id": 50
+  },
+  {
+    "district_id": 5017,
+    "district_th": "ดอยเต่า",
+    "district_en": "Doi Tao",
+    "province_id": 50
+  },
+  {
+    "district_id": 5018,
+    "district_th": "อมก๋อย",
+    "district_en": "Omkoi",
+    "province_id": 50
+  },
+  {
+    "district_id": 5019,
+    "district_th": "สารภี",
+    "district_en": "Saraphi",
+    "province_id": 50
+  },
+  {
+    "district_id": 5020,
+    "district_th": "เวียงแหง",
+    "district_en": "Wiang Haeng",
+    "province_id": 50
+  },
+  {
+    "district_id": 5021,
+    "district_th": "ไชยปราการ",
+    "district_en": "Chai Prakan",
+    "province_id": 50
+  },
+  {
+    "district_id": 5022,
+    "district_th": "แม่วาง",
+    "district_en": "Mae Wang",
+    "province_id": 50
+  },
+  {
+    "district_id": 5023,
+    "district_th": "แม่ออน",
+    "district_en": "Mae On",
+    "province_id": 50
+  },
+  {
+    "district_id": 5024,
+    "district_th": "ดอยหล่อ",
+    "district_en": "Doi Lo",
+    "province_id": 50
+  },
+  {
+    "district_id": 5025,
+    "district_th": "กัลยาณิวัฒนา",
+    "district_en": "Galayani Vadhana",
+    "province_id": 50
+  },
+  {
+    "district_id": 5101,
+    "district_th": "เมืองลำพูน",
+    "district_en": "Mueang Lamphun",
+    "province_id": 51
+  },
+  {
+    "district_id": 5102,
+    "district_th": "แม่ทา",
+    "district_en": "Mae Tha",
+    "province_id": 51
+  },
+  {
+    "district_id": 5103,
+    "district_th": "บ้านโฮ่ง",
+    "district_en": "Ban Hong",
+    "province_id": 51
+  },
+  {
+    "district_id": 5104,
+    "district_th": "ลี้",
+    "district_en": "Li",
+    "province_id": 51
+  },
+  {
+    "district_id": 5105,
+    "district_th": "ทุ่งหัวช้าง",
+    "district_en": "Thung Hua Chang",
+    "province_id": 51
+  },
+  {
+    "district_id": 5106,
+    "district_th": "ป่าซาง",
+    "district_en": "Pa Sang",
+    "province_id": 51
+  },
+  {
+    "district_id": 5107,
+    "district_th": "บ้านธิ",
+    "district_en": "Ban Thi",
+    "province_id": 51
+  },
+  {
+    "district_id": 5108,
+    "district_th": "เวียงหนองล่อง",
+    "district_en": "Wiang Nong Long",
+    "province_id": 51
+  },
+  {
+    "district_id": 5201,
+    "district_th": "เมืองลำปาง",
+    "district_en": "Mueang Lampang",
+    "province_id": 52
+  },
+  {
+    "district_id": 5202,
+    "district_th": "แม่เมาะ",
+    "district_en": "Mae Mo",
+    "province_id": 52
+  },
+  {
+    "district_id": 5203,
+    "district_th": "เกาะคา",
+    "district_en": "Ko Kha",
+    "province_id": 52
+  },
+  {
+    "district_id": 5204,
+    "district_th": "เสริมงาม",
+    "district_en": "Soem Ngam",
+    "province_id": 52
+  },
+  {
+    "district_id": 5205,
+    "district_th": "งาว",
+    "district_en": "Ngao",
+    "province_id": 52
+  },
+  {
+    "district_id": 5206,
+    "district_th": "แจ้ห่ม",
+    "district_en": "Chae Hom",
+    "province_id": 52
+  },
+  {
+    "district_id": 5207,
+    "district_th": "วังเหนือ",
+    "district_en": "Wang Nuea",
+    "province_id": 52
+  },
+  {
+    "district_id": 5208,
+    "district_th": "เถิน",
+    "district_en": "Thoen",
+    "province_id": 52
+  },
+  {
+    "district_id": 5209,
+    "district_th": "แม่พริก",
+    "district_en": "Mae Phrik",
+    "province_id": 52
+  },
+  {
+    "district_id": 5210,
+    "district_th": "แม่ทะ",
+    "district_en": "Mae Tha",
+    "province_id": 52
+  },
+  {
+    "district_id": 5211,
+    "district_th": "สบปราบ",
+    "district_en": "Sop Prap",
+    "province_id": 52
+  },
+  {
+    "district_id": 5212,
+    "district_th": "ห้างฉัตร",
+    "district_en": "Hang Chat",
+    "province_id": 52
+  },
+  {
+    "district_id": 5213,
+    "district_th": "เมืองปาน",
+    "district_en": "Mueang Pan",
+    "province_id": 52
+  },
+  {
+    "district_id": 5301,
+    "district_th": "เมืองอุตรดิตถ์",
+    "district_en": "Mueang Uttaradit",
+    "province_id": 53
+  },
+  {
+    "district_id": 5302,
+    "district_th": "ตรอน",
+    "district_en": "Tron",
+    "province_id": 53
+  },
+  {
+    "district_id": 5303,
+    "district_th": "ท่าปลา",
+    "district_en": "Tha Pla",
+    "province_id": 53
+  },
+  {
+    "district_id": 5304,
+    "district_th": "น้ำปาด",
+    "district_en": "Nam Pat",
+    "province_id": 53
+  },
+  {
+    "district_id": 5305,
+    "district_th": "ฟากท่า",
+    "district_en": "Fak Tha",
+    "province_id": 53
+  },
+  {
+    "district_id": 5306,
+    "district_th": "บ้านโคก",
+    "district_en": "Ban Khok",
+    "province_id": 53
+  },
+  {
+    "district_id": 5307,
+    "district_th": "พิชัย",
+    "district_en": "Phichai",
+    "province_id": 53
+  },
+  {
+    "district_id": 5308,
+    "district_th": "ลับแล",
+    "district_en": "Laplae",
+    "province_id": 53
+  },
+  {
+    "district_id": 5309,
+    "district_th": "ทองแสนขัน",
+    "district_en": "Thong Saen Khan",
+    "province_id": 53
+  },
+  {
+    "district_id": 5401,
+    "district_th": "เมืองแพร่",
+    "district_en": "Mueang Phrae",
+    "province_id": 54
+  },
+  {
+    "district_id": 5402,
+    "district_th": "ร้องกวาง",
+    "district_en": "Rong Kwang",
+    "province_id": 54
+  },
+  {
+    "district_id": 5403,
+    "district_th": "ลอง",
+    "district_en": "Long",
+    "province_id": 54
+  },
+  {
+    "district_id": 5404,
+    "district_th": "สูงเม่น",
+    "district_en": "Sung Men",
+    "province_id": 54
+  },
+  {
+    "district_id": 5405,
+    "district_th": "เด่นชัย",
+    "district_en": "Den Chai",
+    "province_id": 54
+  },
+  {
+    "district_id": 5406,
+    "district_th": "สอง",
+    "district_en": "Song",
+    "province_id": 54
+  },
+  {
+    "district_id": 5407,
+    "district_th": "วังชิ้น",
+    "district_en": "Wang Chin",
+    "province_id": 54
+  },
+  {
+    "district_id": 5408,
+    "district_th": "หนองม่วงไข่",
+    "district_en": "Nong Muang Khai",
+    "province_id": 54
+  },
+  {
+    "district_id": 5501,
+    "district_th": "เมืองน่าน",
+    "district_en": "Mueang Nan",
+    "province_id": 55
+  },
+  {
+    "district_id": 5502,
+    "district_th": "แม่จริม",
+    "district_en": "Mae Charim",
+    "province_id": 55
+  },
+  {
+    "district_id": 5503,
+    "district_th": "บ้านหลวง",
+    "district_en": "Ban Luang",
+    "province_id": 55
+  },
+  {
+    "district_id": 5504,
+    "district_th": "นาน้อย",
+    "district_en": "Na Noi",
+    "province_id": 55
+  },
+  {
+    "district_id": 5505,
+    "district_th": "ปัว",
+    "district_en": "Pua",
+    "province_id": 55
+  },
+  {
+    "district_id": 5506,
+    "district_th": "ท่าวังผา",
+    "district_en": "Tha Wang Pha",
+    "province_id": 55
+  },
+  {
+    "district_id": 5507,
+    "district_th": "เวียงสา",
+    "district_en": "Wiang Sa",
+    "province_id": 55
+  },
+  {
+    "district_id": 5508,
+    "district_th": "ทุ่งช้าง",
+    "district_en": "Thung Chang",
+    "province_id": 55
+  },
+  {
+    "district_id": 5509,
+    "district_th": "เชียงกลาง",
+    "district_en": "Chiang Klang",
+    "province_id": 55
+  },
+  {
+    "district_id": 5510,
+    "district_th": "นาหมื่น",
+    "district_en": "Na Muen",
+    "province_id": 55
+  },
+  {
+    "district_id": 5511,
+    "district_th": "สันติสุข",
+    "district_en": "Santi Suk",
+    "province_id": 55
+  },
+  {
+    "district_id": 5512,
+    "district_th": "บ่อเกลือ",
+    "district_en": "Bo Kluea",
+    "province_id": 55
+  },
+  {
+    "district_id": 5513,
+    "district_th": "สองแคว",
+    "district_en": "Song Khwae",
+    "province_id": 55
+  },
+  {
+    "district_id": 5514,
+    "district_th": "ภูเพียง",
+    "district_en": "Phu Phiang",
+    "province_id": 55
+  },
+  {
+    "district_id": 5515,
+    "district_th": "เฉลิมพระเกียรติ",
+    "district_en": "Chaloem Phra Kiat",
+    "province_id": 55
+  },
+  {
+    "district_id": 5601,
+    "district_th": "เมืองพะเยา",
+    "district_en": "Mueang Phayao",
+    "province_id": 56
+  },
+  {
+    "district_id": 5602,
+    "district_th": "จุน",
+    "district_en": "Chun",
+    "province_id": 56
+  },
+  {
+    "district_id": 5603,
+    "district_th": "เชียงคำ",
+    "district_en": "Chiang Kham",
+    "province_id": 56
+  },
+  {
+    "district_id": 5604,
+    "district_th": "เชียงม่วน",
+    "district_en": "Chiang Muan",
+    "province_id": 56
+  },
+  {
+    "district_id": 5605,
+    "district_th": "ดอกคำใต้",
+    "district_en": "Dok Khamtai",
+    "province_id": 56
+  },
+  {
+    "district_id": 5606,
+    "district_th": "ปง",
+    "district_en": "Pong",
+    "province_id": 56
+  },
+  {
+    "district_id": 5607,
+    "district_th": "แม่ใจ",
+    "district_en": "Mae Chai",
+    "province_id": 56
+  },
+  {
+    "district_id": 5608,
+    "district_th": "ภูซาง",
+    "district_en": "Phu Sang",
+    "province_id": 56
+  },
+  {
+    "district_id": 5609,
+    "district_th": "ภูกามยาว",
+    "district_en": "Phu Kamyao",
+    "province_id": 56
+  },
+  {
+    "district_id": 5701,
+    "district_th": "เมืองเชียงราย",
+    "district_en": "Mueang Chiang Rai",
+    "province_id": 57
+  },
+  {
+    "district_id": 5702,
+    "district_th": "เวียงชัย",
+    "district_en": "Wiang Chai",
+    "province_id": 57
+  },
+  {
+    "district_id": 5703,
+    "district_th": "เชียงของ",
+    "district_en": "Chiang Khong",
+    "province_id": 57
+  },
+  {
+    "district_id": 5704,
+    "district_th": "เทิง",
+    "district_en": "Thoeng",
+    "province_id": 57
+  },
+  {
+    "district_id": 5705,
+    "district_th": "พาน",
+    "district_en": "Phan",
+    "province_id": 57
+  },
+  {
+    "district_id": 5706,
+    "district_th": "ป่าแดด",
+    "district_en": "Pa Daet",
+    "province_id": 57
+  },
+  {
+    "district_id": 5707,
+    "district_th": "แม่จัน",
+    "district_en": "Mae Chan",
+    "province_id": 57
+  },
+  {
+    "district_id": 5708,
+    "district_th": "เชียงแสน",
+    "district_en": "Chiang Saen",
+    "province_id": 57
+  },
+  {
+    "district_id": 5709,
+    "district_th": "แม่สาย",
+    "district_en": "Mae Sai",
+    "province_id": 57
+  },
+  {
+    "district_id": 5710,
+    "district_th": "แม่สรวย",
+    "district_en": "Mae Suai",
+    "province_id": 57
+  },
+  {
+    "district_id": 5711,
+    "district_th": "เวียงป่าเป้า",
+    "district_en": "Wiang Pa Pao",
+    "province_id": 57
+  },
+  {
+    "district_id": 5712,
+    "district_th": "พญาเม็งราย",
+    "district_en": "Phaya Mengrai",
+    "province_id": 57
+  },
+  {
+    "district_id": 5713,
+    "district_th": "เวียงแก่น",
+    "district_en": "Wiang Kaen",
+    "province_id": 57
+  },
+  {
+    "district_id": 5714,
+    "district_th": "ขุนตาล",
+    "district_en": "Khun Tan",
+    "province_id": 57
+  },
+  {
+    "district_id": 5715,
+    "district_th": "แม่ฟ้าหลวง",
+    "district_en": "Mae Fa Luang",
+    "province_id": 57
+  },
+  {
+    "district_id": 5716,
+    "district_th": "แม่ลาว",
+    "district_en": "Mae Lao",
+    "province_id": 57
+  },
+  {
+    "district_id": 5717,
+    "district_th": "เวียงเชียงรุ้ง",
+    "district_en": "Wiang Chiang Rung",
+    "province_id": 57
+  },
+  {
+    "district_id": 5718,
+    "district_th": "ดอยหลวง",
+    "district_en": "Doi Luang",
+    "province_id": 57
+  },
+  {
+    "district_id": 5801,
+    "district_th": "เมืองแม่ฮ่องสอน",
+    "district_en": "Mueang Mae Hong Son",
+    "province_id": 58
+  },
+  {
+    "district_id": 5802,
+    "district_th": "ขุนยวม",
+    "district_en": "Khun Yuam",
+    "province_id": 58
+  },
+  {
+    "district_id": 5803,
+    "district_th": "ปาย",
+    "district_en": "Pai",
+    "province_id": 58
+  },
+  {
+    "district_id": 5804,
+    "district_th": "แม่สะเรียง",
+    "district_en": "Mae Sariang",
+    "province_id": 58
+  },
+  {
+    "district_id": 5805,
+    "district_th": "แม่ลาน้อย",
+    "district_en": "Mae La Noi",
+    "province_id": 58
+  },
+  {
+    "district_id": 5806,
+    "district_th": "สบเมย",
+    "district_en": "Sop Moei",
+    "province_id": 58
+  },
+  {
+    "district_id": 5807,
+    "district_th": "ปางมะผ้า",
+    "district_en": "Pang Mapha",
+    "province_id": 58
+  },
+  {
+    "district_id": 6001,
+    "district_th": "เมืองนครสวรรค์",
+    "district_en": "Mueang Nakhon Sawan",
+    "province_id": 60
+  },
+  {
+    "district_id": 6002,
+    "district_th": "โกรกพระ",
+    "district_en": "Krok Phra",
+    "province_id": 60
+  },
+  {
+    "district_id": 6003,
+    "district_th": "ชุมแสง",
+    "district_en": "Chum Saeng",
+    "province_id": 60
+  },
+  {
+    "district_id": 6004,
+    "district_th": "หนองบัว",
+    "district_en": "Nong Bua",
+    "province_id": 60
+  },
+  {
+    "district_id": 6005,
+    "district_th": "บรรพตพิสัย",
+    "district_en": "Banphot Phisai",
+    "province_id": 60
+  },
+  {
+    "district_id": 6006,
+    "district_th": "เก้าเลี้ยว",
+    "district_en": "Kao Liao",
+    "province_id": 60
+  },
+  {
+    "district_id": 6007,
+    "district_th": "ตาคลี",
+    "district_en": "Takhli",
+    "province_id": 60
+  },
+  {
+    "district_id": 6008,
+    "district_th": "ท่าตะโก",
+    "district_en": "Tha Tako",
+    "province_id": 60
+  },
+  {
+    "district_id": 6009,
+    "district_th": "ไพศาลี",
+    "district_en": "Phaisali",
+    "province_id": 60
+  },
+  {
+    "district_id": 6010,
+    "district_th": "พยุหะคีรี",
+    "district_en": "Phayuha Khiri",
+    "province_id": 60
+  },
+  {
+    "district_id": 6011,
+    "district_th": "ลาดยาว",
+    "district_en": "Lat Yao",
+    "province_id": 60
+  },
+  {
+    "district_id": 6012,
+    "district_th": "ตากฟ้า",
+    "district_en": "Tak Fa",
+    "province_id": 60
+  },
+  {
+    "district_id": 6013,
+    "district_th": "แม่วงก์",
+    "district_en": "Mae Wong",
+    "province_id": 60
+  },
+  {
+    "district_id": 6014,
+    "district_th": "แม่เปิน",
+    "district_en": "Mae Poen",
+    "province_id": 60
+  },
+  {
+    "district_id": 6015,
+    "district_th": "ชุมตาบง",
+    "district_en": "Chum Ta Bong",
+    "province_id": 60
+  },
+  {
+    "district_id": 6101,
+    "district_th": "เมืองอุทัยธานี",
+    "district_en": "Mueang Uthai Thani",
+    "province_id": 61
+  },
+  {
+    "district_id": 6102,
+    "district_th": "ทัพทัน",
+    "district_en": "Thap Than",
+    "province_id": 61
+  },
+  {
+    "district_id": 6103,
+    "district_th": "สว่างอารมณ์",
+    "district_en": "Sawang Arom",
+    "province_id": 61
+  },
+  {
+    "district_id": 6104,
+    "district_th": "หนองฉาง",
+    "district_en": "Nong Chang",
+    "province_id": 61
+  },
+  {
+    "district_id": 6105,
+    "district_th": "หนองขาหย่าง",
+    "district_en": "Nong Khayang",
+    "province_id": 61
+  },
+  {
+    "district_id": 6106,
+    "district_th": "บ้านไร่",
+    "district_en": "Ban Rai",
+    "province_id": 61
+  },
+  {
+    "district_id": 6107,
+    "district_th": "ลานสัก",
+    "district_en": "Lan Sak",
+    "province_id": 61
+  },
+  {
+    "district_id": 6108,
+    "district_th": "ห้วยคต",
+    "district_en": "Huai Khot",
+    "province_id": 61
+  },
+  {
+    "district_id": 6201,
+    "district_th": "เมืองกำแพงเพชร",
+    "district_en": "Mueang Kamphaeng Phet",
+    "province_id": 62
+  },
+  {
+    "district_id": 6202,
+    "district_th": "ไทรงาม",
+    "district_en": "Sai Ngam",
+    "province_id": 62
+  },
+  {
+    "district_id": 6203,
+    "district_th": "คลองลาน",
+    "district_en": "Khlong Lan",
+    "province_id": 62
+  },
+  {
+    "district_id": 6204,
+    "district_th": "ขาณุวรลักษบุรี",
+    "district_en": "Khanu Woralaksaburi",
+    "province_id": 62
+  },
+  {
+    "district_id": 6205,
+    "district_th": "คลองขลุง",
+    "district_en": "Khlong Khlung",
+    "province_id": 62
+  },
+  {
+    "district_id": 6206,
+    "district_th": "พรานกระต่าย",
+    "district_en": "Phran Kratai",
+    "province_id": 62
+  },
+  {
+    "district_id": 6207,
+    "district_th": "ลานกระบือ",
+    "district_en": "Lan Krabue",
+    "province_id": 62
+  },
+  {
+    "district_id": 6208,
+    "district_th": "ทรายทองวัฒนา",
+    "district_en": "Sai Thong Watthana",
+    "province_id": 62
+  },
+  {
+    "district_id": 6209,
+    "district_th": "ปางศิลาทอง",
+    "district_en": "Pang Sila Thong",
+    "province_id": 62
+  },
+  {
+    "district_id": 6210,
+    "district_th": "บึงสามัคคี",
+    "district_en": "Bueng Samakkhi",
+    "province_id": 62
+  },
+  {
+    "district_id": 6211,
+    "district_th": "โกสัมพีนคร",
+    "district_en": "Kosamphi Nakhon",
+    "province_id": 62
+  },
+  {
+    "district_id": 6301,
+    "district_th": "เมืองตาก",
+    "district_en": "Mueang Tak",
+    "province_id": 63
+  },
+  {
+    "district_id": 6302,
+    "district_th": "บ้านตาก",
+    "district_en": "Ban Tak",
+    "province_id": 63
+  },
+  {
+    "district_id": 6303,
+    "district_th": "สามเงา",
+    "district_en": "Sam Ngao",
+    "province_id": 63
+  },
+  {
+    "district_id": 6304,
+    "district_th": "แม่ระมาด",
+    "district_en": "Mae Ramat",
+    "province_id": 63
+  },
+  {
+    "district_id": 6305,
+    "district_th": "ท่าสองยาง",
+    "district_en": "Tha Song Yang",
+    "province_id": 63
+  },
+  {
+    "district_id": 6306,
+    "district_th": "แม่สอด",
+    "district_en": "Mae Sot",
+    "province_id": 63
+  },
+  {
+    "district_id": 6307,
+    "district_th": "พบพระ",
+    "district_en": "Phop Phra",
+    "province_id": 63
+  },
+  {
+    "district_id": 6308,
+    "district_th": "อุ้มผาง",
+    "district_en": "Umphang",
+    "province_id": 63
+  },
+  {
+    "district_id": 6309,
+    "district_th": "วังเจ้า",
+    "district_en": "Wang Chao",
+    "province_id": 63
+  },
+  {
+    "district_id": 6401,
+    "district_th": "เมืองสุโขทัย",
+    "district_en": "Mueang Sukhothai",
+    "province_id": 64
+  },
+  {
+    "district_id": 6402,
+    "district_th": "บ้านด่านลานหอย",
+    "district_en": "Ban Dan Lan Hoi",
+    "province_id": 64
+  },
+  {
+    "district_id": 6403,
+    "district_th": "คีรีมาศ",
+    "district_en": "Khiri Mat",
+    "province_id": 64
+  },
+  {
+    "district_id": 6404,
+    "district_th": "กงไกรลาศ",
+    "district_en": "Kong Krailat",
+    "province_id": 64
+  },
+  {
+    "district_id": 6405,
+    "district_th": "ศรีสัชนาลัย",
+    "district_en": "Si Satchanalai",
+    "province_id": 64
+  },
+  {
+    "district_id": 6406,
+    "district_th": "ศรีสำโรง",
+    "district_en": "Si Samrong",
+    "province_id": 64
+  },
+  {
+    "district_id": 6407,
+    "district_th": "สวรรคโลก",
+    "district_en": "Sawankhalok",
+    "province_id": 64
+  },
+  {
+    "district_id": 6408,
+    "district_th": "ศรีนคร",
+    "district_en": "Si Nakhon",
+    "province_id": 64
+  },
+  {
+    "district_id": 6409,
+    "district_th": "ทุ่งเสลี่ยม",
+    "district_en": "Thung Saliam",
+    "province_id": 64
+  },
+  {
+    "district_id": 6501,
+    "district_th": "เมืองพิษณุโลก",
+    "district_en": "Mueang Phitsanulok",
+    "province_id": 65
+  },
+  {
+    "district_id": 6502,
+    "district_th": "นครไทย",
+    "district_en": "Nakhon Thai",
+    "province_id": 65
+  },
+  {
+    "district_id": 6503,
+    "district_th": "ชาติตระการ",
+    "district_en": "Chat Trakan",
+    "province_id": 65
+  },
+  {
+    "district_id": 6504,
+    "district_th": "บางระกำ",
+    "district_en": "Bang Rakam",
+    "province_id": 65
+  },
+  {
+    "district_id": 6505,
+    "district_th": "บางกระทุ่ม",
+    "district_en": "Bang Krathum",
+    "province_id": 65
+  },
+  {
+    "district_id": 6506,
+    "district_th": "พรหมพิราม",
+    "district_en": "Phrom Phiram",
+    "province_id": 65
+  },
+  {
+    "district_id": 6507,
+    "district_th": "วัดโบสถ์",
+    "district_en": "Wat Bot",
+    "province_id": 65
+  },
+  {
+    "district_id": 6508,
+    "district_th": "วังทอง",
+    "district_en": "Wang Thong",
+    "province_id": 65
+  },
+  {
+    "district_id": 6509,
+    "district_th": "เนินมะปราง",
+    "district_en": "Noen Maprang",
+    "province_id": 65
+  },
+  {
+    "district_id": 6601,
+    "district_th": "เมืองพิจิตร",
+    "district_en": "Mueang Phichit",
+    "province_id": 66
+  },
+  {
+    "district_id": 6602,
+    "district_th": "วังทรายพูน",
+    "district_en": "Wang Sai Phun",
+    "province_id": 66
+  },
+  {
+    "district_id": 6603,
+    "district_th": "โพธิ์ประทับช้าง",
+    "district_en": "Pho Prathap Chang",
+    "province_id": 66
+  },
+  {
+    "district_id": 6604,
+    "district_th": "ตะพานหิน",
+    "district_en": "Taphan Hin",
+    "province_id": 66
+  },
+  {
+    "district_id": 6605,
+    "district_th": "บางมูลนาก",
+    "district_en": "Bang Mun Nak",
+    "province_id": 66
+  },
+  {
+    "district_id": 6606,
+    "district_th": "โพทะเล",
+    "district_en": "Pho Thale",
+    "province_id": 66
+  },
+  {
+    "district_id": 6607,
+    "district_th": "สามง่าม",
+    "district_en": "Sam Ngam",
+    "province_id": 66
+  },
+  {
+    "district_id": 6608,
+    "district_th": "ทับคล้อ",
+    "district_en": "Thap Khlo",
+    "province_id": 66
+  },
+  {
+    "district_id": 6609,
+    "district_th": "สากเหล็ก",
+    "district_en": "Sak Lek",
+    "province_id": 66
+  },
+  {
+    "district_id": 6610,
+    "district_th": "บึงนาราง",
+    "district_en": "Bueng Na Rang",
+    "province_id": 66
+  },
+  {
+    "district_id": 6611,
+    "district_th": "ดงเจริญ",
+    "district_en": "Dong Charoen",
+    "province_id": 66
+  },
+  {
+    "district_id": 6612,
+    "district_th": "วชิรบารมี",
+    "district_en": "Wachirabarami",
+    "province_id": 66
+  },
+  {
+    "district_id": 6701,
+    "district_th": "เมืองเพชรบูรณ์",
+    "district_en": "Mueang Phetchabun",
+    "province_id": 67
+  },
+  {
+    "district_id": 6702,
+    "district_th": "ชนแดน",
+    "district_en": "Chon Daen",
+    "province_id": 67
+  },
+  {
+    "district_id": 6703,
+    "district_th": "หล่มสัก",
+    "district_en": "Lom Sak",
+    "province_id": 67
+  },
+  {
+    "district_id": 6704,
+    "district_th": "หล่มเก่า",
+    "district_en": "Lom Kao",
+    "province_id": 67
+  },
+  {
+    "district_id": 6705,
+    "district_th": "วิเชียรบุรี",
+    "district_en": "Wichian Buri",
+    "province_id": 67
+  },
+  {
+    "district_id": 6706,
+    "district_th": "ศรีเทพ",
+    "district_en": "Si Thep",
+    "province_id": 67
+  },
+  {
+    "district_id": 6707,
+    "district_th": "หนองไผ่",
+    "district_en": "Nong Phai",
+    "province_id": 67
+  },
+  {
+    "district_id": 6708,
+    "district_th": "บึงสามพัน",
+    "district_en": "Bueng Sam Phan",
+    "province_id": 67
+  },
+  {
+    "district_id": 6709,
+    "district_th": "น้ำหนาว",
+    "district_en": "Nam Nao",
+    "province_id": 67
+  },
+  {
+    "district_id": 6710,
+    "district_th": "วังโป่ง",
+    "district_en": "Wang Pong",
+    "province_id": 67
+  },
+  {
+    "district_id": 6711,
+    "district_th": "เขาค้อ",
+    "district_en": "Khao Kho",
+    "province_id": 67
+  },
+  {
+    "district_id": 7001,
+    "district_th": "เมืองราชบุรี",
+    "district_en": "Mueang Ratchaburi",
+    "province_id": 70
+  },
+  {
+    "district_id": 7002,
+    "district_th": "จอมบึง",
+    "district_en": "Chom Bueng",
+    "province_id": 70
+  },
+  {
+    "district_id": 7003,
+    "district_th": "สวนผึ้ง",
+    "district_en": "Suan Phueng",
+    "province_id": 70
+  },
+  {
+    "district_id": 7004,
+    "district_th": "ดำเนินสะดวก",
+    "district_en": "Damnoen Saduak",
+    "province_id": 70
+  },
+  {
+    "district_id": 7005,
+    "district_th": "บ้านโป่ง",
+    "district_en": "Ban Pong",
+    "province_id": 70
+  },
+  {
+    "district_id": 7006,
+    "district_th": "บางแพ",
+    "district_en": "Bang Phae",
+    "province_id": 70
+  },
+  {
+    "district_id": 7007,
+    "district_th": "โพธาราม",
+    "district_en": "Photharam",
+    "province_id": 70
+  },
+  {
+    "district_id": 7008,
+    "district_th": "ปากท่อ",
+    "district_en": "Pak Tho",
+    "province_id": 70
+  },
+  {
+    "district_id": 7009,
+    "district_th": "วัดเพลง",
+    "district_en": "Wat Phleng",
+    "province_id": 70
+  },
+  {
+    "district_id": 7010,
+    "district_th": "บ้านคา",
+    "district_en": "Ban Kha",
+    "province_id": 70
+  },
+  {
+    "district_id": 7101,
+    "district_th": "เมืองกาญจนบุรี",
+    "district_en": "Mueang Kanchanaburi",
+    "province_id": 71
+  },
+  {
+    "district_id": 7102,
+    "district_th": "ไทรโยค",
+    "district_en": "Sai Yok",
+    "province_id": 71
+  },
+  {
+    "district_id": 7103,
+    "district_th": "บ่อพลอย",
+    "district_en": "Bo Phloi",
+    "province_id": 71
+  },
+  {
+    "district_id": 7104,
+    "district_th": "ศรีสวัสดิ์",
+    "district_en": "Si Sawat",
+    "province_id": 71
+  },
+  {
+    "district_id": 7105,
+    "district_th": "ท่ามะกา",
+    "district_en": "Tha Maka",
+    "province_id": 71
+  },
+  {
+    "district_id": 7106,
+    "district_th": "ท่าม่วง",
+    "district_en": "Tha Muang",
+    "province_id": 71
+  },
+  {
+    "district_id": 7107,
+    "district_th": "ทองผาภูมิ",
+    "district_en": "Thong Pha Phum",
+    "province_id": 71
+  },
+  {
+    "district_id": 7108,
+    "district_th": "สังขละบุรี",
+    "district_en": "Sangkhla Buri",
+    "province_id": 71
+  },
+  {
+    "district_id": 7109,
+    "district_th": "พนมทวน",
+    "district_en": "Phanom Thuan",
+    "province_id": 71
+  },
+  {
+    "district_id": 7110,
+    "district_th": "เลาขวัญ",
+    "district_en": "Lao Khwan",
+    "province_id": 71
+  },
+  {
+    "district_id": 7111,
+    "district_th": "ด่านมะขามเตี้ย",
+    "district_en": "Dan Makham Tia",
+    "province_id": 71
+  },
+  {
+    "district_id": 7112,
+    "district_th": "หนองปรือ",
+    "district_en": "Nong Prue",
+    "province_id": 71
+  },
+  {
+    "district_id": 7113,
+    "district_th": "ห้วยกระเจา",
+    "district_en": "Huai Krachao",
+    "province_id": 71
+  },
+  {
+    "district_id": 7201,
+    "district_th": "เมืองสุพรรณบุรี",
+    "district_en": "Mueang Suphan Buri",
+    "province_id": 72
+  },
+  {
+    "district_id": 7202,
+    "district_th": "เดิมบางนางบวช",
+    "district_en": "Doem Bang Nang Buat",
+    "province_id": 72
+  },
+  {
+    "district_id": 7203,
+    "district_th": "ด่านช้าง",
+    "district_en": "Dan Chang",
+    "province_id": 72
+  },
+  {
+    "district_id": 7204,
+    "district_th": "บางปลาม้า",
+    "district_en": "Bang Pla Ma",
+    "province_id": 72
+  },
+  {
+    "district_id": 7205,
+    "district_th": "ศรีประจันต์",
+    "district_en": "Si Prachan",
+    "province_id": 72
+  },
+  {
+    "district_id": 7206,
+    "district_th": "ดอนเจดีย์",
+    "district_en": "Don Chedi",
+    "province_id": 72
+  },
+  {
+    "district_id": 7207,
+    "district_th": "สองพี่น้อง",
+    "district_en": "Song Phi Nong",
+    "province_id": 72
+  },
+  {
+    "district_id": 7208,
+    "district_th": "สามชุก",
+    "district_en": "Sam Chuk",
+    "province_id": 72
+  },
+  {
+    "district_id": 7209,
+    "district_th": "อู่ทอง",
+    "district_en": "U Thong",
+    "province_id": 72
+  },
+  {
+    "district_id": 7210,
+    "district_th": "หนองหญ้าไซ",
+    "district_en": "Nong Ya Sai",
+    "province_id": 72
+  },
+  {
+    "district_id": 7301,
+    "district_th": "เมืองนครปฐม",
+    "district_en": "Mueang Nakhon Pathom",
+    "province_id": 73
+  },
+  {
+    "district_id": 7302,
+    "district_th": "กำแพงแสน",
+    "district_en": "Kamphaeng Saen",
+    "province_id": 73
+  },
+  {
+    "district_id": 7303,
+    "district_th": "นครชัยศรี",
+    "district_en": "Nakhon Chai Si",
+    "province_id": 73
+  },
+  {
+    "district_id": 7304,
+    "district_th": "ดอนตูม",
+    "district_en": "Don Tum",
+    "province_id": 73
+  },
+  {
+    "district_id": 7305,
+    "district_th": "บางเลน",
+    "district_en": "Bang Len",
+    "province_id": 73
+  },
+  {
+    "district_id": 7306,
+    "district_th": "สามพราน",
+    "district_en": "Sam Phran",
+    "province_id": 73
+  },
+  {
+    "district_id": 7307,
+    "district_th": "พุทธมณฑล",
+    "district_en": "Phutthamonthon",
+    "province_id": 73
+  },
+  {
+    "district_id": 7401,
+    "district_th": "เมืองสมุทรสาคร",
+    "district_en": "Mueang Samut Sakhon",
+    "province_id": 74
+  },
+  {
+    "district_id": 7402,
+    "district_th": "กระทุ่มแบน",
+    "district_en": "Krathum Baen",
+    "province_id": 74
+  },
+  {
+    "district_id": 7403,
+    "district_th": "บ้านแพ้ว",
+    "district_en": "Ban Phaeo",
+    "province_id": 74
+  },
+  {
+    "district_id": 7501,
+    "district_th": "เมืองสมุทรสงคราม",
+    "district_en": "Mueang Samut Songkhram",
+    "province_id": 75
+  },
+  {
+    "district_id": 7502,
+    "district_th": "บางคนที",
+    "district_en": "Bang Khonthi",
+    "province_id": 75
+  },
+  {
+    "district_id": 7503,
+    "district_th": "อัมพวา",
+    "district_en": "Amphawa",
+    "province_id": 75
+  },
+  {
+    "district_id": 7601,
+    "district_th": "เมืองเพชรบุรี",
+    "district_en": "Mueang Phetchaburi",
+    "province_id": 76
+  },
+  {
+    "district_id": 7602,
+    "district_th": "เขาย้อย",
+    "district_en": "Khao Yoi",
+    "province_id": 76
+  },
+  {
+    "district_id": 7603,
+    "district_th": "หนองหญ้าปล้อง",
+    "district_en": "Nong Ya Plong",
+    "province_id": 76
+  },
+  {
+    "district_id": 7604,
+    "district_th": "ชะอำ",
+    "district_en": "Cha-am",
+    "province_id": 76
+  },
+  {
+    "district_id": 7605,
+    "district_th": "ท่ายาง",
+    "district_en": "Tha Yang",
+    "province_id": 76
+  },
+  {
+    "district_id": 7606,
+    "district_th": "บ้านลาด",
+    "district_en": "Ban Lat",
+    "province_id": 76
+  },
+  {
+    "district_id": 7607,
+    "district_th": "บ้านแหลม",
+    "district_en": "Ban Laem",
+    "province_id": 76
+  },
+  {
+    "district_id": 7608,
+    "district_th": "แก่งกระจาน",
+    "district_en": "Kaeng Krachan",
+    "province_id": 76
+  },
+  {
+    "district_id": 7701,
+    "district_th": "เมืองประจวบคีรีขันธ์",
+    "district_en": "Mueang Prachuap Khiri Khan",
+    "province_id": 77
+  },
+  {
+    "district_id": 7702,
+    "district_th": "กุยบุรี",
+    "district_en": "Kui Buri",
+    "province_id": 77
+  },
+  {
+    "district_id": 7703,
+    "district_th": "ทับสะแก",
+    "district_en": "Thap Sakae",
+    "province_id": 77
+  },
+  {
+    "district_id": 7704,
+    "district_th": "บางสะพาน",
+    "district_en": "Bang Saphan",
+    "province_id": 77
+  },
+  {
+    "district_id": 7705,
+    "district_th": "บางสะพานน้อย",
+    "district_en": "Bang Saphan Noi",
+    "province_id": 77
+  },
+  {
+    "district_id": 7706,
+    "district_th": "ปราณบุรี",
+    "district_en": "Pran Buri",
+    "province_id": 77
+  },
+  {
+    "district_id": 7707,
+    "district_th": "หัวหิน",
+    "district_en": "Hua Hin",
+    "province_id": 77
+  },
+  {
+    "district_id": 7708,
+    "district_th": "สามร้อยยอด",
+    "district_en": "Sam Roi Yot",
+    "province_id": 77
+  },
+  {
+    "district_id": 8001,
+    "district_th": "เมืองนครศรีธรรมราช",
+    "district_en": "Mueang Nakhon Si Thammarat",
+    "province_id": 80
+  },
+  {
+    "district_id": 8002,
+    "district_th": "พรหมคีรี",
+    "district_en": "Phrom Khiri",
+    "province_id": 80
+  },
+  {
+    "district_id": 8003,
+    "district_th": "ลานสกา",
+    "district_en": "Lan Saka",
+    "province_id": 80
+  },
+  {
+    "district_id": 8004,
+    "district_th": "ฉวาง",
+    "district_en": "Chawang",
+    "province_id": 80
+  },
+  {
+    "district_id": 8005,
+    "district_th": "พิปูน",
+    "district_en": "Phipun",
+    "province_id": 80
+  },
+  {
+    "district_id": 8006,
+    "district_th": "เชียรใหญ่",
+    "district_en": "Chian Yai",
+    "province_id": 80
+  },
+  {
+    "district_id": 8007,
+    "district_th": "ชะอวด",
+    "district_en": "Cha-uat",
+    "province_id": 80
+  },
+  {
+    "district_id": 8008,
+    "district_th": "ท่าศาลา",
+    "district_en": "Tha Sala",
+    "province_id": 80
+  },
+  {
+    "district_id": 8009,
+    "district_th": "ทุ่งสง",
+    "district_en": "Thung Song",
+    "province_id": 80
+  },
+  {
+    "district_id": 8010,
+    "district_th": "นาบอน",
+    "district_en": "Na Bon",
+    "province_id": 80
+  },
+  {
+    "district_id": 8011,
+    "district_th": "ทุ่งใหญ่",
+    "district_en": "Thung Yai",
+    "province_id": 80
+  },
+  {
+    "district_id": 8012,
+    "district_th": "ปากพนัง",
+    "district_en": "Pak Phanang",
+    "province_id": 80
+  },
+  {
+    "district_id": 8013,
+    "district_th": "ร่อนพิบูลย์",
+    "district_en": "Ron Phibun",
+    "province_id": 80
+  },
+  {
+    "district_id": 8014,
+    "district_th": "สิชล",
+    "district_en": "Sichon",
+    "province_id": 80
+  },
+  {
+    "district_id": 8015,
+    "district_th": "ขนอม",
+    "district_en": "Khanom",
+    "province_id": 80
+  },
+  {
+    "district_id": 8016,
+    "district_th": "หัวไทร",
+    "district_en": "Hua Sai",
+    "province_id": 80
+  },
+  {
+    "district_id": 8017,
+    "district_th": "บางขัน",
+    "district_en": "Bang Khan",
+    "province_id": 80
+  },
+  {
+    "district_id": 8018,
+    "district_th": "ถ้ำพรรณรา",
+    "district_en": "Tham Phannara",
+    "province_id": 80
+  },
+  {
+    "district_id": 8019,
+    "district_th": "จุฬาภรณ์",
+    "district_en": "Chulabhorn",
+    "province_id": 80
+  },
+  {
+    "district_id": 8020,
+    "district_th": "พระพรหม",
+    "district_en": "Phra Phrom",
+    "province_id": 80
+  },
+  {
+    "district_id": 8021,
+    "district_th": "นบพิตำ",
+    "district_en": "Nopphitam",
+    "province_id": 80
+  },
+  {
+    "district_id": 8022,
+    "district_th": "ช้างกลาง",
+    "district_en": "Chang Klang",
+    "province_id": 80
+  },
+  {
+    "district_id": 8023,
+    "district_th": "เฉลิมพระเกียรติ",
+    "district_en": "Chaloem Phra Kiat",
+    "province_id": 80
+  },
+  {
+    "district_id": 8101,
+    "district_th": "เมืองกระบี่",
+    "district_en": "Mueang Krabi",
+    "province_id": 81
+  },
+  {
+    "district_id": 8102,
+    "district_th": "เขาพนม",
+    "district_en": "Khao Phanom",
+    "province_id": 81
+  },
+  {
+    "district_id": 8103,
+    "district_th": "เกาะลันตา",
+    "district_en": "Ko Lanta",
+    "province_id": 81
+  },
+  {
+    "district_id": 8104,
+    "district_th": "คลองท่อม",
+    "district_en": "Khlong Thom",
+    "province_id": 81
+  },
+  {
+    "district_id": 8105,
+    "district_th": "อ่าวลึก",
+    "district_en": "Ao Luek",
+    "province_id": 81
+  },
+  {
+    "district_id": 8106,
+    "district_th": "ปลายพระยา",
+    "district_en": "Plai Phraya",
+    "province_id": 81
+  },
+  {
+    "district_id": 8107,
+    "district_th": "ลำทับ",
+    "district_en": "Lam Thap",
+    "province_id": 81
+  },
+  {
+    "district_id": 8108,
+    "district_th": "เหนือคลอง",
+    "district_en": "Nuea Khlong",
+    "province_id": 81
+  },
+  {
+    "district_id": 8201,
+    "district_th": "เมืองพังงา",
+    "district_en": "Mueang Phang-nga",
+    "province_id": 82
+  },
+  {
+    "district_id": 8202,
+    "district_th": "เกาะยาว",
+    "district_en": "Ko Yao",
+    "province_id": 82
+  },
+  {
+    "district_id": 8203,
+    "district_th": "กะปง",
+    "district_en": "Kapong",
+    "province_id": 82
+  },
+  {
+    "district_id": 8204,
+    "district_th": "ตะกั่วทุ่ง",
+    "district_en": "Takua Thung",
+    "province_id": 82
+  },
+  {
+    "district_id": 8205,
+    "district_th": "ตะกั่วป่า",
+    "district_en": "Takua Pa",
+    "province_id": 82
+  },
+  {
+    "district_id": 8206,
+    "district_th": "คุระบุรี",
+    "district_en": "Khura Buri",
+    "province_id": 82
+  },
+  {
+    "district_id": 8207,
+    "district_th": "ทับปุด",
+    "district_en": "Thap Put",
+    "province_id": 82
+  },
+  {
+    "district_id": 8208,
+    "district_th": "ท้ายเหมือง",
+    "district_en": "Thai Mueang",
+    "province_id": 82
+  },
+  {
+    "district_id": 8301,
+    "district_th": "เมืองภูเก็ต",
+    "district_en": "Mueang Phuket",
+    "province_id": 83
+  },
+  {
+    "district_id": 8302,
+    "district_th": "กะทู้",
+    "district_en": "Kathu",
+    "province_id": 83
+  },
+  {
+    "district_id": 8303,
+    "district_th": "ถลาง",
+    "district_en": "Thalang",
+    "province_id": 83
+  },
+  {
+    "district_id": 8401,
+    "district_th": "เมืองสุราษฎร์ธานี",
+    "district_en": "Mueang Surat Thani",
+    "province_id": 84
+  },
+  {
+    "district_id": 8402,
+    "district_th": "กาญจนดิษฐ์",
+    "district_en": "Kanchanadit",
+    "province_id": 84
+  },
+  {
+    "district_id": 8403,
+    "district_th": "ดอนสัก",
+    "district_en": "Don Sak",
+    "province_id": 84
+  },
+  {
+    "district_id": 8404,
+    "district_th": "เกาะสมุย",
+    "district_en": "Ko Samui",
+    "province_id": 84
+  },
+  {
+    "district_id": 8405,
+    "district_th": "เกาะพะงัน",
+    "district_en": "Ko Pha-ngan",
+    "province_id": 84
+  },
+  {
+    "district_id": 8406,
+    "district_th": "ไชยา",
+    "district_en": "Chaiya",
+    "province_id": 84
+  },
+  {
+    "district_id": 8407,
+    "district_th": "ท่าชนะ",
+    "district_en": "Tha Chana",
+    "province_id": 84
+  },
+  {
+    "district_id": 8408,
+    "district_th": "คีรีรัฐนิคม",
+    "district_en": "Khiri Rat Nikhom",
+    "province_id": 84
+  },
+  {
+    "district_id": 8409,
+    "district_th": "บ้านตาขุน",
+    "district_en": "Ban Ta Khun",
+    "province_id": 84
+  },
+  {
+    "district_id": 8410,
+    "district_th": "พนม",
+    "district_en": "Phanom",
+    "province_id": 84
+  },
+  {
+    "district_id": 8411,
+    "district_th": "ท่าฉาง",
+    "district_en": "Tha Chang",
+    "province_id": 84
+  },
+  {
+    "district_id": 8412,
+    "district_th": "บ้านนาสาร",
+    "district_en": "Ban Na San",
+    "province_id": 84
+  },
+  {
+    "district_id": 8413,
+    "district_th": "บ้านนาเดิม",
+    "district_en": "Ban Na Doem",
+    "province_id": 84
+  },
+  {
+    "district_id": 8414,
+    "district_th": "เคียนซา",
+    "district_en": "Khian Sa",
+    "province_id": 84
+  },
+  {
+    "district_id": 8415,
+    "district_th": "เวียงสระ",
+    "district_en": "Wiang Sa",
+    "province_id": 84
+  },
+  {
+    "district_id": 8416,
+    "district_th": "พระแสง",
+    "district_en": "Phrasaeng",
+    "province_id": 84
+  },
+  {
+    "district_id": 8417,
+    "district_th": "พุนพิน",
+    "district_en": "Phunphin",
+    "province_id": 84
+  },
+  {
+    "district_id": 8418,
+    "district_th": "ชัยบุรี",
+    "district_en": "Chai Buri",
+    "province_id": 84
+  },
+  {
+    "district_id": 8419,
+    "district_th": "วิภาวดี",
+    "district_en": "Vibhavadi",
+    "province_id": 84
+  },
+  {
+    "district_id": 8501,
+    "district_th": "เมืองระนอง",
+    "district_en": "Mueang Ranong",
+    "province_id": 85
+  },
+  {
+    "district_id": 8502,
+    "district_th": "ละอุ่น",
+    "district_en": "La-un",
+    "province_id": 85
+  },
+  {
+    "district_id": 8503,
+    "district_th": "กะเปอร์",
+    "district_en": "Kapoe",
+    "province_id": 85
+  },
+  {
+    "district_id": 8504,
+    "district_th": "กระบุรี",
+    "district_en": "Kra Buri",
+    "province_id": 85
+  },
+  {
+    "district_id": 8505,
+    "district_th": "สุขสำราญ",
+    "district_en": "Suk Samran",
+    "province_id": 85
+  },
+  {
+    "district_id": 8601,
+    "district_th": "เมืองชุมพร",
+    "district_en": "Mueang Chumphon",
+    "province_id": 86
+  },
+  {
+    "district_id": 8602,
+    "district_th": "ท่าแซะ",
+    "district_en": "Tha Sae",
+    "province_id": 86
+  },
+  {
+    "district_id": 8603,
+    "district_th": "ปะทิว",
+    "district_en": "Pathio",
+    "province_id": 86
+  },
+  {
+    "district_id": 8604,
+    "district_th": "หลังสวน",
+    "district_en": "Lang Suan",
+    "province_id": 86
+  },
+  {
+    "district_id": 8605,
+    "district_th": "ละแม",
+    "district_en": "Lamae",
+    "province_id": 86
+  },
+  {
+    "district_id": 8606,
+    "district_th": "พะโต๊ะ",
+    "district_en": "Phato",
+    "province_id": 86
+  },
+  {
+    "district_id": 8607,
+    "district_th": "สวี",
+    "district_en": "Sawi",
+    "province_id": 86
+  },
+  {
+    "district_id": 8608,
+    "district_th": "ทุ่งตะโก",
+    "district_en": "Thung Tako",
+    "province_id": 86
+  },
+  {
+    "district_id": 9001,
+    "district_th": "เมืองสงขลา",
+    "district_en": "Mueang Songkhla",
+    "province_id": 90
+  },
+  {
+    "district_id": 9002,
+    "district_th": "สทิงพระ",
+    "district_en": "Sathing Phra",
+    "province_id": 90
+  },
+  {
+    "district_id": 9003,
+    "district_th": "จะนะ",
+    "district_en": "Chana",
+    "province_id": 90
+  },
+  {
+    "district_id": 9004,
+    "district_th": "นาทวี",
+    "district_en": "Na Thawi",
+    "province_id": 90
+  },
+  {
+    "district_id": 9005,
+    "district_th": "เทพา",
+    "district_en": "Thepha",
+    "province_id": 90
+  },
+  {
+    "district_id": 9006,
+    "district_th": "สะบ้าย้อย",
+    "district_en": "Saba Yoi",
+    "province_id": 90
+  },
+  {
+    "district_id": 9007,
+    "district_th": "ระโนด",
+    "district_en": "Ranot",
+    "province_id": 90
+  },
+  {
+    "district_id": 9008,
+    "district_th": "กระแสสินธุ์",
+    "district_en": "Krasae Sin",
+    "province_id": 90
+  },
+  {
+    "district_id": 9009,
+    "district_th": "รัตภูมิ",
+    "district_en": "Rattaphum",
+    "province_id": 90
+  },
+  {
+    "district_id": 9010,
+    "district_th": "สะเดา",
+    "district_en": "Sadao",
+    "province_id": 90
+  },
+  {
+    "district_id": 9011,
+    "district_th": "หาดใหญ่",
+    "district_en": "Hat Yai",
+    "province_id": 90
+  },
+  {
+    "district_id": 9012,
+    "district_th": "นาหม่อม",
+    "district_en": "Na Mom",
+    "province_id": 90
+  },
+  {
+    "district_id": 9013,
+    "district_th": "ควนเนียง",
+    "district_en": "Khuan Niang",
+    "province_id": 90
+  },
+  {
+    "district_id": 9014,
+    "district_th": "บางกล่ำ",
+    "district_en": "Bang Klam",
+    "province_id": 90
+  },
+  {
+    "district_id": 9015,
+    "district_th": "สิงหนคร",
+    "district_en": "Singhanakhon",
+    "province_id": 90
+  },
+  {
+    "district_id": 9016,
+    "district_th": "คลองหอยโข่ง",
+    "district_en": "Khlong Hoi Khong",
+    "province_id": 90
+  },
+  {
+    "district_id": 9101,
+    "district_th": "เมืองสตูล",
+    "district_en": "Mueang Satun",
+    "province_id": 91
+  },
+  {
+    "district_id": 9102,
+    "district_th": "ควนโดน",
+    "district_en": "Khuan Don",
+    "province_id": 91
+  },
+  {
+    "district_id": 9103,
+    "district_th": "ควนกาหลง",
+    "district_en": "Khuan Kalong",
+    "province_id": 91
+  },
+  {
+    "district_id": 9104,
+    "district_th": "ท่าแพ",
+    "district_en": "Tha Phae",
+    "province_id": 91
+  },
+  {
+    "district_id": 9105,
+    "district_th": "ละงู",
+    "district_en": "La-ngu",
+    "province_id": 91
+  },
+  {
+    "district_id": 9106,
+    "district_th": "ทุ่งหว้า",
+    "district_en": "Thung Wa",
+    "province_id": 91
+  },
+  {
+    "district_id": 9107,
+    "district_th": "มะนัง",
+    "district_en": "Manang",
+    "province_id": 91
+  },
+  {
+    "district_id": 9201,
+    "district_th": "เมืองตรัง",
+    "district_en": "Mueang Trang",
+    "province_id": 92
+  },
+  {
+    "district_id": 9202,
+    "district_th": "กันตัง",
+    "district_en": "Kantang",
+    "province_id": 92
+  },
+  {
+    "district_id": 9203,
+    "district_th": "ย่านตาขาว",
+    "district_en": "Yan Ta Khao",
+    "province_id": 92
+  },
+  {
+    "district_id": 9204,
+    "district_th": "ปะเหลียน",
+    "district_en": "Palian",
+    "province_id": 92
+  },
+  {
+    "district_id": 9205,
+    "district_th": "สิเกา",
+    "district_en": "Sikao",
+    "province_id": 92
+  },
+  {
+    "district_id": 9206,
+    "district_th": "ห้วยยอด",
+    "district_en": "Huai Yot",
+    "province_id": 92
+  },
+  {
+    "district_id": 9207,
+    "district_th": "วังวิเศษ",
+    "district_en": "Wang Wiset",
+    "province_id": 92
+  },
+  {
+    "district_id": 9208,
+    "district_th": "นาโยง",
+    "district_en": "Na Yong",
+    "province_id": 92
+  },
+  {
+    "district_id": 9209,
+    "district_th": "รัษฎา",
+    "district_en": "Ratsada",
+    "province_id": 92
+  },
+  {
+    "district_id": 9210,
+    "district_th": "หาดสำราญ",
+    "district_en": "Hat Samran",
+    "province_id": 92
+  },
+  {
+    "district_id": 9301,
+    "district_th": "เมืองพัทลุง",
+    "district_en": "Mueang Phatthalung",
+    "province_id": 93
+  },
+  {
+    "district_id": 9302,
+    "district_th": "กงหรา",
+    "district_en": "Kong Ra",
+    "province_id": 93
+  },
+  {
+    "district_id": 9303,
+    "district_th": "เขาชัยสน",
+    "district_en": "Khao Chaison",
+    "province_id": 93
+  },
+  {
+    "district_id": 9304,
+    "district_th": "ตะโหมด",
+    "district_en": "Tamot",
+    "province_id": 93
+  },
+  {
+    "district_id": 9305,
+    "district_th": "ควนขนุน",
+    "district_en": "Khuan Khanun",
+    "province_id": 93
+  },
+  {
+    "district_id": 9306,
+    "district_th": "ปากพะยูน",
+    "district_en": "Pak Phayun",
+    "province_id": 93
+  },
+  {
+    "district_id": 9307,
+    "district_th": "ศรีบรรพต",
+    "district_en": "Si Banphot",
+    "province_id": 93
+  },
+  {
+    "district_id": 9308,
+    "district_th": "ป่าบอน",
+    "district_en": "Pa Bon",
+    "province_id": 93
+  },
+  {
+    "district_id": 9309,
+    "district_th": "บางแก้ว",
+    "district_en": "Bang Kaeo",
+    "province_id": 93
+  },
+  {
+    "district_id": 9310,
+    "district_th": "ป่าพะยอม",
+    "district_en": "Pa Phayom",
+    "province_id": 93
+  },
+  {
+    "district_id": 9311,
+    "district_th": "ศรีนครินทร์",
+    "district_en": "Srinagarindra",
+    "province_id": 93
+  },
+  {
+    "district_id": 9401,
+    "district_th": "เมืองปัตตานี",
+    "district_en": "Mueang Pattani",
+    "province_id": 94
+  },
+  {
+    "district_id": 9402,
+    "district_th": "โคกโพธิ์",
+    "district_en": "Khok Pho",
+    "province_id": 94
+  },
+  {
+    "district_id": 9403,
+    "district_th": "หนองจิก",
+    "district_en": "Nong Chik",
+    "province_id": 94
+  },
+  {
+    "district_id": 9404,
+    "district_th": "ปะนาเระ",
+    "district_en": "Panare",
+    "province_id": 94
+  },
+  {
+    "district_id": 9405,
+    "district_th": "มายอ",
+    "district_en": "Mayo",
+    "province_id": 94
+  },
+  {
+    "district_id": 9406,
+    "district_th": "ทุ่งยางแดง",
+    "district_en": "Thung Yang Daeng",
+    "province_id": 94
+  },
+  {
+    "district_id": 9407,
+    "district_th": "สายบุรี",
+    "district_en": "Sai Buri",
+    "province_id": 94
+  },
+  {
+    "district_id": 9408,
+    "district_th": "ไม้แก่น",
+    "district_en": "Mai Kaen",
+    "province_id": 94
+  },
+  {
+    "district_id": 9409,
+    "district_th": "ยะหริ่ง",
+    "district_en": "Yaring",
+    "province_id": 94
+  },
+  {
+    "district_id": 9410,
+    "district_th": "ยะรัง",
+    "district_en": "Yarang",
+    "province_id": 94
+  },
+  {
+    "district_id": 9411,
+    "district_th": "กะพ้อ",
+    "district_en": "Kapho",
+    "province_id": 94
+  },
+  {
+    "district_id": 9412,
+    "district_th": "แม่ลาน",
+    "district_en": "Mae Lan",
+    "province_id": 94
+  },
+  {
+    "district_id": 9501,
+    "district_th": "เมืองยะลา",
+    "district_en": "Mueang Yala",
+    "province_id": 95
+  },
+  {
+    "district_id": 9502,
+    "district_th": "เบตง",
+    "district_en": "Betong",
+    "province_id": 95
+  },
+  {
+    "district_id": 9503,
+    "district_th": "บันนังสตา",
+    "district_en": "Bannang Sata",
+    "province_id": 95
+  },
+  {
+    "district_id": 9504,
+    "district_th": "ธารโต",
+    "district_en": "Than To",
+    "province_id": 95
+  },
+  {
+    "district_id": 9505,
+    "district_th": "ยะหา",
+    "district_en": "Yaha",
+    "province_id": 95
+  },
+  {
+    "district_id": 9506,
+    "district_th": "รามัน",
+    "district_en": "Raman",
+    "province_id": 95
+  },
+  {
+    "district_id": 9507,
+    "district_th": "กาบัง",
+    "district_en": "Kabang",
+    "province_id": 95
+  },
+  {
+    "district_id": 9508,
+    "district_th": "กรงปินัง",
+    "district_en": "Krong Pinang",
+    "province_id": 95
+  },
+  {
+    "district_id": 9601,
+    "district_th": "เมืองนราธิวาส",
+    "district_en": "Mueang Narathiwat",
+    "province_id": 96
+  },
+  {
+    "district_id": 9602,
+    "district_th": "ตากใบ",
+    "district_en": "Tak Bai",
+    "province_id": 96
+  },
+  {
+    "district_id": 9603,
+    "district_th": "บาเจาะ",
+    "district_en": "Bacho",
+    "province_id": 96
+  },
+  {
+    "district_id": 9604,
+    "district_th": "ยี่งอ",
+    "district_en": "Yi-ngo",
+    "province_id": 96
+  },
+  {
+    "district_id": 9605,
+    "district_th": "ระแงะ",
+    "district_en": "Ra-ngae",
+    "province_id": 96
+  },
+  {
+    "district_id": 9606,
+    "district_th": "รือเสาะ",
+    "district_en": "Rueso",
+    "province_id": 96
+  },
+  {
+    "district_id": 9607,
+    "district_th": "ศรีสาคร",
+    "district_en": "Si Sakhon",
+    "province_id": 96
+  },
+  {
+    "district_id": 9608,
+    "district_th": "แว้ง",
+    "district_en": "Waeng",
+    "province_id": 96
+  },
+  {
+    "district_id": 9609,
+    "district_th": "สุคิริน",
+    "district_en": "Sukhirin",
+    "province_id": 96
+  },
+  {
+    "district_id": 9610,
+    "district_th": "สุไหงโก-ลก",
+    "district_en": "Su-ngai Kolok",
+    "province_id": 96
+  },
+  {
+    "district_id": 9611,
+    "district_th": "สุไหงปาดี",
+    "district_en": "Su-ngai Padi",
+    "province_id": 96
+  },
+  {
+    "district_id": 9612,
+    "district_th": "จะแนะ",
+    "district_en": "Chanae",
+    "province_id": 96
+  },
+  {
+    "district_id": 9613,
+    "district_th": "เจาะไอร้อง",
+    "district_en": "Cho-airong",
+    "province_id": 96
+  }
+]
